@@ -16,7 +16,8 @@ export default function WriterExplorer() {
     const needle = query.trim().toLocaleLowerCase("zh-Hant");
     return writersData.filter((writer) => {
       const genreMatch = genre === "全部" || writer.genre === genre;
-      const text = `${writer.name} ${writer.alias} ${writer.bio} ${writer.workTitle} ${writer.workIntro}`.toLocaleLowerCase("zh-Hant");
+      const workText = writer.works.map((work) => `${work.title} ${work.type} ${work.note}`).join(" ");
+      const text = `${writer.name} ${writer.alias} ${writer.bio} ${writer.workTitle} ${writer.workIntro} ${workText}`.toLocaleLowerCase("zh-Hant");
       return genreMatch && (!needle || text.includes(needle));
     });
   }, [genre, query]);
@@ -51,7 +52,7 @@ export default function WriterExplorer() {
         </label>
       </div>
 
-      <div className="results-bar"><span>顯示 <strong>{writers.length}</strong> / {writersData.length} 位作家</span><span>點選卡片查看生平、作品與來源</span></div>
+      <div className="results-bar"><span>顯示 <strong>{writers.length}</strong> / {writersData.length} 位作家</span><span>共收錄 {writersData.reduce((sum, writer) => sum + writer.works.length, 0)} 筆已查證主要作品</span></div>
 
       {writers.length ? (
         <div className="writer-grid">
@@ -80,8 +81,20 @@ export default function WriterExplorer() {
             <div className="modal-body">
               <div className="bio-block"><p className="modal-label">01 / 生平簡介</p><p>{active.bio}</p></div>
               <div className="work-block"><p className="modal-label">02 / 代表作品</p><h3>{active.workTitle}</h3><p>{active.workIntro}</p></div>
-              <div className="style-block"><p className="modal-label">03 / 文學風格</p><p>{active.style}</p></div>
-              <div className="source-block"><p className="modal-label">04 / 資料來源與連結</p><div className="source-links">{active.links.map((link) => <a key={link.url} href={link.url} target="_blank" rel="noreferrer">{link.label}<span>↗</span></a>)}</div><p className="source-note">另交叉參考使用者提供之《客家文化事典》文學類條目與苗栗文學步道名錄。</p></div>
+              <div className="works-block">
+                <p className="modal-label">03 / 已查證主要作品</p>
+                <p className="works-note">依目前可公開查核之官方、館藏、出版與學術書目整理；作品極多者採主要作品選列，不宣稱完整全集。</p>
+                <ol className="works-list">
+                  {active.works.map((work, index) => (
+                    <li key={`${work.title}-${index}`}>
+                      <span className="work-index">{String(index + 1).padStart(2, "0")}</span>
+                      <div><h4>{work.title}</h4><p><b>{work.type}</b>{work.note && <> · {work.note}</>}</p></div>
+                    </li>
+                  ))}
+                </ol>
+              </div>
+              <div className="style-block"><p className="modal-label">04 / 文學風格</p><p>{active.style}</p></div>
+              <div className="source-block"><p className="modal-label">05 / 資料來源與連結</p><div className="source-links">{active.links.map((link) => <a key={link.url} href={link.url} target="_blank" rel="noreferrer">{link.label}<span>↗</span></a>)}</div><p className="source-note">另交叉參考使用者提供之《客家文化事典》文學類條目與苗栗文學步道名錄；年代或版本有異說者已在卡片內標示。</p></div>
             </div>
           </section>
         </div>

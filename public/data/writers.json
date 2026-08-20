@@ -2,15 +2,46 @@
   {
     "id": "ruan-caiwen",
     "name": "阮蔡文",
-    "years": "1666—1716",
+    "years": "1666／1667—1715／1716",
     "genre": "古典文學",
     "alias": "字子章，號鸛石",
     "bio": "清代福建漳浦人。1715年調任臺灣北路營參將，在臺整飭吏治、撫恤民眾並捐俸興學；其臺灣題材詩文留下清初地方社會的珍貴觀察。",
     "workTitle": "〈祭無祀鬼文〉",
     "workIntro": "悼祭流落臺灣、死於異鄉而無人奉祀者的祭文，也反映作者在任期間對地方民生的關懷。",
     "style": "以官員親歷寫地方風物與民瘼，文字兼具紀實、憫恤與教化色彩。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・臺灣文學網","url":"https://tln.nmtl.gov.tw/ch/m2/nmtl_w1_m2_c_6.aspx?Sid=153&k=%E9%98%AE%E8%94%A1%E6%96%87"}]
+    "status": "已核對・生卒年有異說",
+    "links": [
+      {
+        "label": "國家文化記憶庫・阮蔡文詩作",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=159792&indexCode=Culture_Invisible"
+      },
+      {
+        "label": "國家文化記憶庫・文武雙全的治臺名將阮蔡文",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=129375&indexCode=Culture_Object"
+      }
+    ],
+    "works": [
+      {
+        "title": "〈竹塹〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈虎尾溪〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈祭淡水將士文〉",
+        "type": "祭文",
+        "note": ""
+      },
+      {
+        "title": "〈祭無祀鬼文〉",
+        "type": "祭文",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "huang-qingtai",
@@ -22,21 +53,69 @@
     "workTitle": "〈大甲溪〉",
     "workIntro": "現存四首詩之一，以行旅所見書寫臺灣河川地景；另存〈烏水溪〉、〈九日登八卦山〉等作。",
     "style": "以軍旅行履結合臺灣山川紀遊，筆調清健。",
-    "status": "已核對",
-    "links": [{"label":"詩文索引（引國家圖書館人物小傳）","url":"https://sou-yun.cn/poemindex.aspx?author=%E9%BB%84%E6%B8%85%E6%B3%B0&dynasty=Qing&lang=t"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "客家委員會・黃清泰研究",
+        "url": "https://cloud.hakka.gov.tw/Attachment/1/9111215274271.pdf"
+      },
+      {
+        "label": "國立臺灣文學館・全臺詩來源索引",
+        "url": "https://db.nmtl.gov.tw/site5/poemsource?source=%E3%80%8A%E8%87%BA%E7%81%A3%E8%A9%A9%E9%8C%84%E3%80%8B"
+      }
+    ],
+    "works": [
+      {
+        "title": "〈大甲溪〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈烏水溪〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈九日登八卦山〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈觀岸裡社番踏歌〉",
+        "type": "古典詩",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "li-ying",
     "name": "黎瑩",
-    "years": "生卒年待考",
+    "years": "1782—1843（卒年有異說）",
     "genre": "古典文學",
     "alias": "譜名學源，號珠甫",
-    "bio": "清代苗栗重要教育家與古典詩人，後定居西湖，以教讀維生，形成三湖村黎氏塾師世家。現有公開資料未提供確切生卒年。",
+    "bio": "清代苗栗重要教育家與古典詩人，1782年生，後定居西湖並以教讀維生，形成三湖村黎氏塾師世家。國家文化記憶庫同一條目並存1833與1843兩種卒年記載，條目考證傾向1843年。",
     "workTitle": "《吟香詩集》",
     "workIntro": "國家文化記憶庫以此詩集標示其古典詩創作脈絡；作品與版本資訊仍需進一步校勘。",
     "style": "以傳統漢詩與地方教育實踐相連；更細緻的風格判定待作品校勘後補充。",
-    "status": "史料待補強",
-    "links": [{"label":"國家文化記憶庫・黎瑩","url":"https://tcmb.culture.tw/zh-tw/detail?id=333107&indexCode=Culture_People"}]
+    "status": "已核對・卒年有異說",
+    "links": [
+      {
+        "label": "國家文化記憶庫・黎瑩",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333107&indexCode=Culture_People"
+      }
+    ],
+    "works": [
+      {
+        "title": "《吟香詩集》",
+        "type": "詩集",
+        "note": "據國家文化記憶庫條目"
+      },
+      {
+        "title": "《高祖自作詩》",
+        "type": "手抄詩稿",
+        "note": "現存手稿題名；收詩140首，其中128首可歸於黎瑩"
+      }
+    ]
   },
   {
     "id": "wu-ziguang",
@@ -48,8 +127,45 @@
     "workTitle": "《臺灣紀事》",
     "workIntro": "後人自其稿本輯出與臺灣史跡相關的文字，收入《臺灣文獻叢刊》，是研究清代臺灣地方社會的重要材料。",
     "style": "兼採紀事、議論與詩文，重視地方文教與民生觀察。",
-    "status": "已核對",
-    "links": [{"label":"國家圖書館・臺灣記憶","url":"https://tm.ncl.edu.tw/article?u=016_001_0000008454"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家圖書館・臺灣記憶",
+        "url": "https://tm.ncl.edu.tw/article?u=016_001_0000008454"
+      }
+    ],
+    "works": [
+      {
+        "title": "《一肚皮集》",
+        "type": "文集",
+        "note": "18卷"
+      },
+      {
+        "title": "《小草拾遺》",
+        "type": "附集",
+        "note": "1卷"
+      },
+      {
+        "title": "《三長贅筆》",
+        "type": "筆記",
+        "note": "16卷"
+      },
+      {
+        "title": "《經餘雜錄》",
+        "type": "雜錄",
+        "note": "12卷"
+      },
+      {
+        "title": "《臺灣紀事》",
+        "type": "地方紀事",
+        "note": ""
+      },
+      {
+        "title": "《吳子光全書》",
+        "type": "後人輯本",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "zhang-weiyuan",
@@ -57,12 +173,24 @@
     "years": "1827—1892",
     "genre": "古典文學",
     "alias": "字祿興，號星樞",
-    "bio": "清代臺灣文人，1867年中福建鄉試舉人。與苗栗地方文教有關，確切行跡仍需依《張維垣進士家世》等地方文獻進一步校核。",
+    "bio": "清代苗栗地方文人，1871年中進士，與苗栗地方文教及張氏家族史密切相關。現存創作主要見於後人整理的詩稿與地方文獻。",
     "workTitle": "《張維垣先生閒吟詩遺稿》",
     "workIntro": "後人整理其漢詩而成，是認識其古典詩創作的主要文獻。",
     "style": "傳統近體詩寫作；細部風格不在資料不足時逕作推論。",
-    "status": "史料待補強",
-    "links": [{"label":"《全臺詩》作者資料線索","url":"https://zh.wikipedia.org/wiki/%E5%BC%B5%E7%B6%AD%E5%9E%A3"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・張維垣宅",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=201966&indexCode=Culture_Place"
+      }
+    ],
+    "works": [
+      {
+        "title": "《張維垣先生閒吟詩遺稿》",
+        "type": "遺稿輯本",
+        "note": "現存作品主要由後人輯存"
+      }
+    ]
   },
   {
     "id": "cai-qiyun",
@@ -74,8 +202,40 @@
     "workTitle": "《養餘軒詩鈔》",
     "workIntro": "未刊詩稿；另有《啟運詩鈔》及收錄四百餘首唱酬作品的《臺海擊缽吟集》。",
     "style": "詩文唱酬與遺民情懷並見，也書寫苑裡藺草等地方物產。",
-    "status": "已核對・年份已更正",
-    "links": [{"label":"國家文化記憶庫・蔡啟運","url":"https://tcmb.culture.tw/zh-tw/detail?id=333098&indexCode=Culture_People"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・蔡啟運",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333098&indexCode=Culture_People"
+      }
+    ],
+    "works": [
+      {
+        "title": "《養餘軒詩鈔》",
+        "type": "詩稿",
+        "note": "未刊"
+      },
+      {
+        "title": "《啟運詩鈔》",
+        "type": "詩鈔",
+        "note": "《櫟社第一集》錄18首"
+      },
+      {
+        "title": "《臺海擊缽吟集》",
+        "type": "詩集",
+        "note": "蔡汝修編，收唱酬詩400餘首"
+      },
+      {
+        "title": "〈苑裡蓆歌〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "《苑裡志》",
+        "type": "地方志",
+        "note": "參與修編"
+      }
+    ]
   },
   {
     "id": "qiu-fengjia",
@@ -87,26 +247,108 @@
     "workTitle": "《柏莊詩草》",
     "workIntro": "收錄其在臺時期的重要詩作，呈現感時憂世、關注臺灣命運與地方風物的面向。",
     "style": "強調詩史精神與時政關懷，語勢明朗強健，並實踐詩界革命。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・臺灣文學辭典","url":"https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01139"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・臺灣文學辭典",
+        "url": "https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01139"
+      },
+      {
+        "label": "國立臺灣文學館・全臺詩作品索引",
+        "url": "https://db.nmtl.gov.tw/site5/poemlist?id=999"
+      }
+    ],
+    "works": [
+      {
+        "title": "《柏莊詩草》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《嶺雲海日樓詩鈔》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "〈春愁〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈離臺詩〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈還山書感〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈澳門雜詩〉",
+        "type": "組詩",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "chen-hu",
     "name": "陳瑚（字滄玉）",
-    "years": "1876—1922",
+    "years": "1875—1922",
     "genre": "古典文學",
     "alias": "字滄玉，號枕山、趣園",
-    "bio": "苗栗苑裡人，詩人、教師、記者與地方實業參與者，為櫟社早期重要成員。名錄中的「陳滄玉」是以字稱人，本名應為陳瑚；出生年依現有資料作1876。",
-    "workTitle": "《趣園詩抄》",
-    "workIntro": "與《枕山詩抄》同為其主要詩作結集，保存日治初期中部傳統詩社活動的面貌。",
+    "bio": "苗栗苑裡人，詩人、教師、記者與地方實業參與者，為櫟社早期重要成員。名錄中的「陳滄玉」是以字稱人，本名陳瑚；國立臺灣文學館資料記其生年為1875年。",
+    "workTitle": "《枕山詩鈔》",
+    "workIntro": "陳瑚逝世後由詩友整理刊行的主要詩作結集；其生前作品另以〈趣園詩草〉之名收入《櫟社第一集》。",
     "style": "以漢詩唱酬、地方景物與時代感懷為主要取向。",
-    "status": "已核對・姓名已正名",
-    "links": [{"label":"國立臺灣文學館・櫟社資料","url":"https://db.nmtl.gov.tw/site2/ikm?id=195"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・陳瑚辭典條目",
+        "url": "https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01645"
+      },
+      {
+        "label": "國立臺灣文學館・陳瑚全臺詩索引",
+        "url": "https://db.nmtl.gov.tw/site5/poemlist?id=1035"
+      }
+    ],
+    "works": [
+      {
+        "title": "《枕山詩鈔》",
+        "type": "詩集",
+        "note": "身後輯刊"
+      },
+      {
+        "title": "〈趣園詩草〉",
+        "type": "詩作輯錄",
+        "note": "收入《櫟社第一集》"
+      },
+      {
+        "title": "〈井底蛙〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈棄婦詞〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈追懷劉壯肅公〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈新春小集〉",
+        "type": "古典詩",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "luo-fuxing",
     "name": "羅福星",
-    "years": "1886—1914",
+    "years": "1884／1886—1914",
     "genre": "古典文學",
     "alias": "字東亞，號國權",
     "bio": "生於印尼雅加達，青年時來臺居苗栗並參與革命組織。1913年苗栗事件後遭捕，1914年在臺北監獄被處絞刑。部分資料作1884年生，本站採文化部資料的1886年並保留分歧。",
@@ -114,20 +356,63 @@
     "workIntro": "獄中以「中華民國孫逸仙救」八字為句首寫成，凝聚其政治理想與犧牲意志。",
     "style": "以古典詩詞形式承載革命宣言與民族情感。",
     "status": "已核對・生年有異說",
-    "links": [{"label":"文化部・羅福星研討會資料","url":"https://www.moc.gov.tw/News_Content.aspx?n=105&s=49346"}]
+    "links": [
+      {
+        "label": "國家文化記憶庫・羅福星",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333861&indexCode=Culture_People"
+      },
+      {
+        "label": "國家文化記憶庫・羅福星詩文",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=12000001591&indexCode=MOCCOLLECTIONS"
+      }
+    ],
+    "works": [
+      {
+        "title": "〈從軍新樂府〉",
+        "type": "古典詩",
+        "note": ""
+      },
+      {
+        "title": "〈祝我民國詞〉",
+        "type": "古典詩／獄中詩",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "zhang-hanwen",
     "name": "張漢文",
-    "years": "1901—生卒待考",
+    "years": "1902—1979",
     "genre": "古典文學",
     "alias": "地方文人、教育者",
-    "bio": "苗栗頭份地方文人，曾赴日本及中國求學；公開資料提及其為康有為萬木草堂末代門生，亦曾從事外交工作。完整生平年表仍待家族與出版文獻核對。",
+    "bio": "苗栗頭份地方文人，1902年生、1979年卒。曾赴日本及中國求學，為康有為萬木草堂末代門生之一；民國初年曾任外交人員、派駐日本與新加坡，戰後返臺，持續書寫苗栗地方文化。",
     "workTitle": "《張漢文先生作品集》",
-    "workIntro": "苗栗地方出版的兩冊作品整理，是後續建立完整年表與書目時的重要基礎。",
-    "style": "涉及古典詩文與地方文化；本版暫不作超出文獻的風格推論。",
-    "status": "史料待補強",
-    "links": [{"label":"國立臺灣文學館・林海音家族資料","url":"https://lin.nmtl.gov.tw/archive?uid=3"}]
+    "workIntro": "後人整理為兩冊作品集；另可查〈永貞宮改建記〉，多數詩文曾刊於《醒獅》雜誌。",
+    "style": "以傳統詩文、碑記與地方文化書寫為主，連結民國初年學術養成與戰後苗栗文史記憶。",
+    "status": "已核對・來源與年份已更正",
+    "links": [
+      {
+        "label": "國家文化記憶庫・張漢文",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?indexCode=Culture_People&id=333870"
+      }
+    ],
+    "works": [
+      {
+        "title": "《張漢文先生作品集》",
+        "type": "作品集",
+        "note": "全兩冊"
+      },
+      {
+        "title": "〈永貞宮改建記〉",
+        "type": "碑記",
+        "note": ""
+      },
+      {
+        "title": "《醒獅》雜誌所刊詩文",
+        "type": "期刊作品",
+        "note": "多數作品散見《醒獅》"
+      }
+    ]
   },
   {
     "id": "lai-jiangzhi",
@@ -139,8 +424,35 @@
     "workTitle": "《綠水閒鷗集》",
     "workIntro": "1993年由黃鼎松整理出版，收錄其一生作品；其中七十首「苗栗竹枝詞」以十八鄉鎮風貌為題。",
     "style": "融地方地理、民情風俗與客家語感入傳統詩詞。",
-    "status": "已核對",
-    "links": [{"label":"國家文化記憶庫・賴江質","url":"https://tcmb.culture.tw/zh-tw/detail?id=332283&indexCode=Culture_People"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・賴江質",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=332283&indexCode=Culture_People"
+      }
+    ],
+    "works": [
+      {
+        "title": "《綠水閒鷗集》",
+        "type": "詩文集",
+        "note": ""
+      },
+      {
+        "title": "〈苗栗竹枝詞〉",
+        "type": "組詩",
+        "note": "共70首，描寫苗栗18鄉鎮"
+      },
+      {
+        "title": "客家山歌歌詞",
+        "type": "歌詞",
+        "note": "散見於作品集"
+      },
+      {
+        "title": "詩鐘與楹聯",
+        "type": "傳統文學",
+        "note": "散見於作品集"
+      }
+    ]
   },
   {
     "id": "wu-zhuoliu",
@@ -152,8 +464,74 @@
     "workTitle": "《亞細亞的孤兒》",
     "workIntro": "透過胡太明在臺灣、日本與中國間的遭遇，呈現殖民統治下臺灣人的認同困境，是臺灣文學的重要經典。",
     "style": "寫實而具歷史使命感，關注殖民處境、社會荒謬與臺灣人的精神命運。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・臺灣文學辭典","url":"https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01145"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・吳濁流辭典條目",
+        "url": "https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01145"
+      },
+      {
+        "label": "國立臺灣文學館・吳濁流作品條目",
+        "url": "https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary00226"
+      }
+    ],
+    "works": [
+      {
+        "title": "《亞細亞的孤兒》",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《無花果》",
+        "type": "自傳體小說",
+        "note": ""
+      },
+      {
+        "title": "《臺灣連翹》",
+        "type": "回憶／評論",
+        "note": ""
+      },
+      {
+        "title": "〈水月〉",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "〈泥沼中的金鯉魚〉",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "〈功狗〉",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "〈波茨坦科長〉",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "〈狡猿〉",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《南京雜感》",
+        "type": "散文",
+        "note": ""
+      },
+      {
+        "title": "《黎明前的臺灣》",
+        "type": "文集",
+        "note": ""
+      },
+      {
+        "title": "《台灣文藝與我》",
+        "type": "文學回憶",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "li-qiao",
@@ -165,8 +543,54 @@
     "workTitle": "《寒夜三部曲》",
     "workIntro": "以清末至日治時期苗栗山村為背景，描寫拓墾、抗爭與戰爭下的庶民生命，是臺灣大河小說的重要里程碑。",
     "style": "結合歷史寫實、意識流與強烈的人道批判，建構庶民觀點的臺灣史。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・臺灣文學辭典","url":"https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01149"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・《寒夜三部曲》",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333887&indexCode=Culture_Object"
+      },
+      {
+        "label": "國家文化記憶庫・《臺灣，我的母親》",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=26000336803&indexCode=MOCCOLLECTIONS"
+      }
+    ],
+    "works": [
+      {
+        "title": "《寒夜》",
+        "type": "長篇小說",
+        "note": "《寒夜三部曲》之一"
+      },
+      {
+        "title": "《孤燈》",
+        "type": "長篇小說",
+        "note": "《寒夜三部曲》之二"
+      },
+      {
+        "title": "《荒村》",
+        "type": "長篇小說",
+        "note": "《寒夜三部曲》之三"
+      },
+      {
+        "title": "《藍彩霞的春天》",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《埋冤一九四七埋冤》",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《咒之環》",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《臺灣，我的母親》",
+        "type": "客語史詩",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "tian-minzhong",
@@ -178,8 +602,40 @@
     "workTitle": "《天狗部落之歌》",
     "workIntro": "1995年出版的短篇小說集，從部落生活、歷史記憶與族群觀點書寫泰雅世界；另有《赤裸山脈》。",
     "style": "以部落口傳、古典語彙與現實批判交織，呈現泰雅族主體視角。",
-    "status": "已核對",
-    "links": [{"label":"政大學術研究・游霸士・撓給赫作品研究","url":"https://9lib.co/document/rz3lk88z-%E6%B3%B0%E9%9B%85%E6%97%8F%E4%BD%9C%E5%AE%B6%E2%94%80%E2%94%80%E6%B8%B8%E9%9C%B8%E5%A3%AB%E6%92%93%E7%B5%A6%E8%B5%AB%E7%94%B0%E6%95%8F%E5%BF%A0%E4%BD%9C%E5%93%81%E7%A0%94%E7%A9%B6%E6%94%BF%E5%A4%A7%E5%AD%B8%E8%A1%93%E9%9B%86%E6%88%90.html"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・游霸士・撓給赫（田敏忠）",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=292139&indexCode=Culture_People"
+      }
+    ],
+    "works": [
+      {
+        "title": "《天狗部落之歌》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《赤裸山脈》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《丸田砲臺進出》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《尤霸士與他的兒子》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《高砂王國》",
+        "type": "口傳文學譯著",
+        "note": "副題：北勢八社天狗部落的祖靈傳說與抗日傳奇"
+      }
+    ]
   },
   {
     "id": "wang-youhua",
@@ -191,8 +647,60 @@
     "workTitle": "《土地與靈魂》",
     "workIntro": "其小說創作的重要結集之一；作品經常處理臺灣社會變遷、族群認同與現代人的精神處境。",
     "style": "形式實驗與社會批判並重，關注現代文明邊緣、移民經驗與生命原罪。",
-    "status": "已核對",
-    "links": [{"label":"國家文化記憶庫・王幼華","url":"https://tcmb.culture.tw/zh-tw/detail?id=332107&indexCode=Culture_People"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・王幼華",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=332107&indexCode=Culture_People"
+      }
+    ],
+    "works": [
+      {
+        "title": "《土地與靈魂》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《騷動的島》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《洪福齊天》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《野靈魂－惡筆記》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "〈兩鎮演談〉",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《當代文學評論》",
+        "type": "評論集",
+        "note": ""
+      },
+      {
+        "title": "《冰心麗藻入夢來》",
+        "type": "文學研究",
+        "note": "副題：日治時期苗栗縣的詩社"
+      },
+      {
+        "title": "《苗栗縣文學史》",
+        "type": "文學史",
+        "note": ""
+      },
+      {
+        "title": "《蚌病成珠－古今作家論》",
+        "type": "評論集",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "liang-hanyi",
@@ -205,7 +713,38 @@
     "workIntro": "其重要著作之一；小說常以寓言、黑色童話與內在心象探索人性的可能。",
     "style": "反寫實、寓言化，重視心象、嘲弄與黑色童話氣質。",
     "status": "已核對・年表待補",
-    "links": [{"label":"國立臺灣文學館・個人資料","url":"https://tln.nmtl.gov.tw/ch/m2/nmtl_w1_m2_c_2.aspx?person_number=K12011"},{"label":"九歌文學誌・梁寒衣","url":"https://www.chiuko.com.tw/writer/%E6%A2%81%E5%AF%92%E8%A1%A3/"}]
+    "links": [
+      {
+        "label": "國立臺灣文學館・個人資料",
+        "url": "https://tln.nmtl.gov.tw/ch/m2/nmtl_w1_m2_c_2.aspx?person_number=K12011"
+      },
+      {
+        "label": "九歌文學誌・梁寒衣",
+        "url": "https://www.chiuko.com.tw/writer/%E6%A2%81%E5%AF%92%E8%A1%A3/"
+      }
+    ],
+    "works": [
+      {
+        "title": "《水仙的炎鏡》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《雪色青缽》",
+        "type": "小說／散文",
+        "note": ""
+      },
+      {
+        "title": "《無涯歌》",
+        "type": "傳記文學",
+        "note": "副題：元曉大師傳"
+      },
+      {
+        "title": "〈黑夜裡不斷抽長的犬齒〉",
+        "type": "中篇小說",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "gan-yaoming",
@@ -217,8 +756,35 @@
     "workTitle": "《殺鬼》",
     "workIntro": "以日治末期至戰後為背景，讓歷史、傳說、戰爭與少年成長交錯，展現其獨特的魔幻敘事。",
     "style": "融合鄉野傳奇、誇飾、黑色幽默與魔幻寫實，常被歸入新鄉土書寫。",
-    "status": "已核對",
-    "links": [{"label":"文化部 Books from Taiwan・甘耀明","url":"https://booksfromtaiwan.moc.gov.tw/authors_info.php?id=49"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "文化部 Books from Taiwan・甘耀明",
+        "url": "https://booksfromtaiwan.moc.gov.tw/authors_info.php?id=49"
+      }
+    ],
+    "works": [
+      {
+        "title": "《殺鬼》",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《邦查女孩》",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《冬將軍來的夏天》",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《成為真正的人》",
+        "type": "長篇小說",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "chen-ying",
@@ -230,8 +796,55 @@
     "workTitle": "《春的聲音》",
     "workIntro": "由林海音編輯的散文增補本，呈現其簡約純樸、真摯內斂的散文面貌。",
     "style": "語言簡潔、情感真摯，並受俄國與歐洲文學閱讀及翻譯經驗影響。",
-    "status": "已核對・姓名已更正",
-    "links": [{"label":"國立臺灣文學館・臺灣文學辭典","url":"https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01377"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・臺灣文學辭典",
+        "url": "https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01377"
+      }
+    ],
+    "works": [
+      {
+        "title": "《春的聲音》",
+        "type": "散文集",
+        "note": ""
+      },
+      {
+        "title": "《沉櫻散文集》",
+        "type": "散文集",
+        "note": ""
+      },
+      {
+        "title": "〈回家〉",
+        "type": "短篇小說",
+        "note": ""
+      },
+      {
+        "title": "〈妻〉",
+        "type": "短篇小說",
+        "note": ""
+      },
+      {
+        "title": "《一位陌生女子的來信》",
+        "type": "譯作",
+        "note": ""
+      },
+      {
+        "title": "《女性三部曲》",
+        "type": "譯作",
+        "note": ""
+      },
+      {
+        "title": "《車輪下》",
+        "type": "譯作",
+        "note": ""
+      },
+      {
+        "title": "《世界短篇小說選》",
+        "type": "譯作／選集",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "lin-haiyin",
@@ -243,8 +856,79 @@
     "workTitle": "《城南舊事》",
     "workIntro": "以童年視角重構1920年代北京城南的人物與生活，兼具小說連作與回憶敘事特色。",
     "style": "以平易節制的語言寫童年、女性與離散記憶，溫厚中保有對人物命運的敏銳觀察。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・林海音主題館","url":"https://lin.nmtl.gov.tw/archive?uid=3"},{"label":"臺灣作家作品目錄・城南舊事","url":"https://db.nmtl.gov.tw/site4/s6/bookinfo?id=9165"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・林海音主題館",
+        "url": "https://lin.nmtl.gov.tw/archive?uid=3"
+      },
+      {
+        "label": "臺灣作家作品目錄・城南舊事",
+        "url": "https://db.nmtl.gov.tw/site4/s6/bookinfo?id=9165"
+      }
+    ],
+    "works": [
+      {
+        "title": "《曉雲》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《城南舊事》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《金鯉魚的百襉裙》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《婚姻的故事》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《綠藻與鹹蛋》",
+        "type": "散文集",
+        "note": ""
+      },
+      {
+        "title": "《冬青樹》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《我的京味兒回憶錄》",
+        "type": "回憶錄",
+        "note": ""
+      },
+      {
+        "title": "《寫在風中》",
+        "type": "散文集",
+        "note": ""
+      },
+      {
+        "title": "《剪影話文壇》",
+        "type": "文壇回憶",
+        "note": ""
+      },
+      {
+        "title": "《作客美國》",
+        "type": "散文",
+        "note": ""
+      },
+      {
+        "title": "《春聲已遠》",
+        "type": "散文",
+        "note": ""
+      },
+      {
+        "title": "《芸窗夜讀》",
+        "type": "文學評論／散文",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "jiang-shang",
@@ -252,12 +936,82 @@
     "years": "1932—",
     "genre": "散文",
     "alias": "本名江文雙",
-    "bio": "苗栗籍戰後作家，創作以小說為主，兼及散文、兒童文學與日文翻譯；作品尤其重視礦工生活與時代變遷。",
+    "bio": "本名江文雙，苗栗籍戰後作家，創作以小說為主，兼及散文、兒童文學與日文翻譯。作品以樸實筆觸書寫帶有濃厚鄉土味的小人物，並記錄不易被看見的社會切面。",
     "workTitle": "《落葉集》",
     "workIntro": "其小說代表作之一；另有《田園戀》、《下弦月》、《霧夜》及三冊《江上小說集》。",
-    "style": "寫實描繪勞動生活與貧瘠土地中的人情，保留戰後社會的時代切面。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・作家作品目錄","url":"https://db.nmtl.gov.tw/site4/s6/writerinfo?id=333"}]
+    "style": "樸實、直率的寫實筆法，關注鄉土小人物與戰後社會變動，不刻意粉飾生活困境。",
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・江上",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=332115&indexCode=Culture_People"
+      },
+      {
+        "label": "國立臺灣文學館・作家作品目錄",
+        "url": "https://db.nmtl.gov.tw/site4/s6/writerinfo?id=333"
+      },
+      {
+        "label": "國家圖書館・江上小說研究書目",
+        "url": "https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi?o=dnclcdr&s=id%3D%22094PCCU1045004%22.&searchmode=basic"
+      }
+    ],
+    "works": [
+      {
+        "title": "《流血樹》",
+        "type": "合著小說集",
+        "note": ""
+      },
+      {
+        "title": "《落葉集》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《下弦月》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《田園戀》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《生命的甘泉》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《明月照東山》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《幸福之歌》",
+        "type": "作品集",
+        "note": "以筆名文玨出版"
+      },
+      {
+        "title": "《霧夜》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《江上小說集（一）》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《江上小說集（二）》",
+        "type": "小說集",
+        "note": ""
+      },
+      {
+        "title": "《江上小說集（三）》",
+        "type": "小說集",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "xie-shuangtian",
@@ -269,8 +1023,60 @@
     "workTitle": "《梅村心曲》",
     "workIntro": "以77個短篇組成長篇，透過春晨、秋暮、冬夜三個單元呈現節氣流轉、歷史滄桑與人生曲折。",
     "style": "文字靈巧真摯，從鄉土景物、女性處境與人生感懷出發。",
-    "status": "已核對",
-    "links": [{"label":"客家委員會・客家作家研究資料","url":"https://www.hakka.gov.tw/File/Attach/38283/File_71715.pdf"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "客家委員會・客家作家研究資料",
+        "url": "https://www.hakka.gov.tw/File/Attach/38283/File_71715.pdf"
+      }
+    ],
+    "works": [
+      {
+        "title": "《梅村心曲》",
+        "type": "長篇小說",
+        "note": ""
+      },
+      {
+        "title": "《綠樹》",
+        "type": "散文集",
+        "note": ""
+      },
+      {
+        "title": "《心畫》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《渡》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《霜天小品》",
+        "type": "散文集",
+        "note": ""
+      },
+      {
+        "title": "《夢回呼蘭河》",
+        "type": "傳記小說",
+        "note": "副題：蕭紅傳"
+      },
+      {
+        "title": "《清泉淌過我心田》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《火籠懷舊情綿綿》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《重回牛背山畔》",
+        "type": "作品集",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "chen-chaodong",
@@ -279,11 +1085,43 @@
     "genre": "散文",
     "alias": "筆名寒楓",
     "bio": "生於苗栗後龍，鄉土作家與文史工作者。任職商界後返鄉從事記者與編輯工作，長期記錄後龍地方史、產業與生活文化。",
-    "workTitle": "《戀戀後龍溪》",
-    "workIntro": "以地方文史、聚落生活與自然地景為核心，保存後龍地區的集體記憶。",
+    "workTitle": "《小鎮情深》",
+    "workIntro": "以後龍地方生活與文史為核心的作品；另有《家鄉豐年》、《永遠的牛聲》、《這村晨春景》等可查著作。",
     "style": "報導與散文筆法交融，重視田野調查、老照片與口述記憶。",
-    "status": "已核對",
-    "links": [{"label":"國家文化記憶庫・陳朝棟","url":"https://tcmb.culture.tw/zh-tw/detail?id=333112&indexCode=Culture_People"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・陳朝棟",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333112&indexCode=Culture_People"
+      }
+    ],
+    "works": [
+      {
+        "title": "《小鎮情深》",
+        "type": "地方文史",
+        "note": ""
+      },
+      {
+        "title": "《家鄉豐年》",
+        "type": "地方文史",
+        "note": ""
+      },
+      {
+        "title": "《永遠的牛聲》",
+        "type": "地方書寫",
+        "note": ""
+      },
+      {
+        "title": "《這村晨春景》",
+        "type": "地方書寫",
+        "note": ""
+      },
+      {
+        "title": "〈後龍鄉土情懷〉",
+        "type": "報導／地方書寫",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "moshang-chen",
@@ -295,8 +1133,65 @@
     "workTitle": "《長夜漫漫》",
     "workIntro": "以藍領勞動者的工作、家庭與社會處境為核心，呈現工業化背後的黑暗與無奈。",
     "style": "直接、寫實，從工人內部視角書寫勞動尊嚴、階級與社會矛盾。",
-    "status": "已核對",
-    "links": [{"label":"高雄文學館・陌上塵","url":"https://ksliterary.ksml.edu.tw/author/Details?Parser=99%2C3%2C22%2C%2C%2C%2C132"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "高雄文學館・陌上塵",
+        "url": "https://ksliterary.ksml.edu.tw/author/Details?Parser=99%2C3%2C22%2C%2C%2C%2C132"
+      }
+    ],
+    "works": [
+      {
+        "title": "《玉香集》",
+        "type": "合集",
+        "note": ""
+      },
+      {
+        "title": "《思想起》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《夢魘九十九》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《長夜漫漫》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《造船廠手記》",
+        "type": "勞工文學",
+        "note": ""
+      },
+      {
+        "title": "《故鄉，永遠的懷念》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《綁架連戰》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《出局》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《菊姊》",
+        "type": "小說",
+        "note": ""
+      },
+      {
+        "title": "《山城物語》",
+        "type": "小說",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "zhan-bing",
@@ -308,8 +1203,39 @@
     "workTitle": "《綠血球》",
     "workIntro": "代表性詩集之一，展現其把藥學、自然觀察與現代詩實驗結合的特色。",
     "style": "現代主義、科學意象與童心並存，擅長圖像詩、短詩與活潑的形式實驗。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・《詹冰集》","url":"https://www.nmtl.gov.tw/News_Content_Book.aspx?n=3852&s=138451"},{"label":"政府出版品・《詹冰全集》","url":"https://gpi.culture.tw/books/1011400519"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・《詹冰集》",
+        "url": "https://www.nmtl.gov.tw/News_Content_Book.aspx?n=3852&s=138451"
+      },
+      {
+        "label": "政府出版品・《詹冰全集》",
+        "url": "https://gpi.culture.tw/books/1011400519"
+      }
+    ],
+    "works": [
+      {
+        "title": "《綠血球》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "〈插秧〉",
+        "type": "現代詩",
+        "note": ""
+      },
+      {
+        "title": "《牛郎織女》",
+        "type": "長詩／詩劇",
+        "note": ""
+      },
+      {
+        "title": "《詹冰全集》",
+        "type": "全集",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "luo-lang",
@@ -321,8 +1247,24 @@
     "workTitle": "《羅浪詩文集》",
     "workIntro": "由苗栗縣文化局出版，整理其詩文創作，作品多為故鄉山川與人生樣貌留下心靈投影。",
     "style": "抒情而內斂，聚焦故鄉地景、日常感受與人生回聲。",
-    "status": "已核對・卒年已補",
-    "links": [{"label":"國立臺灣文學館・2015臺灣文學年鑑","url":"https://activityfile.nmtl.gov.tw/nmtlhistory/almanac/almanacContent/People/Volume_2015/C2016123015188189FO.pdf"},{"label":"政府出版品・羅浪詩文集","url":"https://gpi.culture.tw/books/1009103299"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・2015臺灣文學年鑑",
+        "url": "https://activityfile.nmtl.gov.tw/nmtlhistory/almanac/almanacContent/People/Volume_2015/C2016123015188189FO.pdf"
+      },
+      {
+        "label": "政府出版品・羅浪詩文集",
+        "url": "https://gpi.culture.tw/books/1009103299"
+      }
+    ],
+    "works": [
+      {
+        "title": "《羅浪詩文集》",
+        "type": "詩文集",
+        "note": "收中文詩53首、日文詩36首、散文2篇、日譯詩9首、詩論2篇及畫作20幅"
+      }
+    ]
   },
   {
     "id": "mo-yu",
@@ -334,8 +1276,90 @@
     "workTitle": "《土地的戀歌》",
     "workIntro": "以土地、現實與人道關懷為核心的代表詩集；另有《無語的春天》、《長城》等。",
     "style": "現實主義與人文關懷鮮明，追求詩的批判力與感動力。",
-    "status": "已核對",
-    "links": [{"label":"國家文化記憶庫・莫渝","url":"https://tcmb.culture.tw/zh-tw/detail?id=333321&indexCode=Culture_People"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・莫渝",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333321&indexCode=Culture_People"
+      }
+    ],
+    "works": [
+      {
+        "title": "《無語的春天》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《長城》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《土地的戀歌》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《浮雲集》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《水鏡》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《猶里西斯手記》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《第一道曙光》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《革命軍》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《走入春雨》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《陽光與暗影》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《春天ê百合》",
+        "type": "臺語詩集",
+        "note": ""
+      },
+      {
+        "title": "《光之穹頂》",
+        "type": "臺語詩集",
+        "note": ""
+      },
+      {
+        "title": "《臺灣詩人群像》",
+        "type": "評論",
+        "note": ""
+      },
+      {
+        "title": "《笠詩社演進史》",
+        "type": "文學史",
+        "note": ""
+      },
+      {
+        "title": "《苗栗縣文學史》",
+        "type": "地方文學史",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "liu-yuxiu",
@@ -348,7 +1372,33 @@
     "workIntro": "公開學術資料庫收錄的詩作之一；其詩作散見詩刊、年度詩選與副刊，尚缺完整個人詩集書目。",
     "style": "把女性經驗、知識反思與社會批判帶入現代詩。",
     "status": "史料待補強",
-    "links": [{"label":"國立臺灣歷史博物館・臺灣女人","url":"https://women.nmth.gov.tw/?p=19321"},{"label":"臺大學術典藏・詩作資料","url":"https://scholars.lib.ntu.edu.tw/entities/publication/2efbf480-c50e-4310-a7f0-1bf918eea92b"}]
+    "links": [
+      {
+        "label": "國立臺灣歷史博物館・臺灣女人",
+        "url": "https://women.nmth.gov.tw/?p=19321"
+      },
+      {
+        "label": "臺大學術典藏・詩作資料",
+        "url": "https://scholars.lib.ntu.edu.tw/entities/publication/2efbf480-c50e-4310-a7f0-1bf918eea92b"
+      }
+    ],
+    "works": [
+      {
+        "title": "〈寫東海歲末九芎／在一隻斑鳩的咕嚕聲中〉",
+        "type": "現代詩",
+        "note": "刊於《中外文學》24卷12期，1996"
+      },
+      {
+        "title": "《臺灣婦女處境白皮書：1995年》",
+        "type": "主編／女性研究",
+        "note": ""
+      },
+      {
+        "title": "《女性・國家・照顧工作》",
+        "type": "主編／女性研究",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "huang-hengqiu",
@@ -360,8 +1410,45 @@
     "workTitle": "《擔竿人生》",
     "workIntro": "1990年出版，被視為臺灣第一本客語現代詩集，在客語文學史上具有指標性。",
     "style": "以客語、土地與族群經驗為核心，結合現代詩形式與社會文化評論。",
-    "status": "已核對",
-    "links": [{"label":"國家文化記憶庫・黃恆秋","url":"https://tcmb.culture.tw/zh-tw/detail?id=333113&indexCode=Culture_People"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・黃恆秋",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333113&indexCode=Culture_People"
+      }
+    ],
+    "works": [
+      {
+        "title": "《擔竿人生》",
+        "type": "客語詩集",
+        "note": ""
+      },
+      {
+        "title": "《見笑花》",
+        "type": "客語詩集",
+        "note": ""
+      },
+      {
+        "title": "《葫蘆的心事》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《我是鸚鵡》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《客家臺灣文學論》",
+        "type": "文學論述",
+        "note": ""
+      },
+      {
+        "title": "《臺灣客家文學史概論》",
+        "type": "文學史",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "lu-hanshou",
@@ -373,8 +1460,69 @@
     "workTitle": "《我的父親是火車司機》",
     "workIntro": "以傳記式序列整理二十年詩作，從親情、童年、愛情到土地，呈現詩人生命軌跡。",
     "style": "抒情而具音樂性，將古典涵養、日常生活與臺語歌詩傳統相連。",
-    "status": "已核對",
-    "links": [{"label":"文化部・臺灣文化入口網","url":"https://www.moc.gov.tw/en/News_Content2.aspx?n=491&s=17991&sms=10725"},{"label":"東吳大學・路寒袖資料","url":"https://www.scu.edu.tw/chinese/art/literature/new_page_01.htm"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "文化部・臺灣文化入口網",
+        "url": "https://www.moc.gov.tw/en/News_Content2.aspx?n=491&s=17991&sms=10725"
+      },
+      {
+        "label": "東吳大學・路寒袖資料",
+        "url": "https://www.scu.edu.tw/chinese/art/literature/new_page_01.htm"
+      }
+    ],
+    "works": [
+      {
+        "title": "《早，寒》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《夢的攝影機》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《我的父親是火車司機》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《春天的花蕊》",
+        "type": "臺語詩集",
+        "note": ""
+      },
+      {
+        "title": "《路寒袖台語詩選》",
+        "type": "詩選",
+        "note": ""
+      },
+      {
+        "title": "《憂鬱三千公尺》",
+        "type": "散文集",
+        "note": ""
+      },
+      {
+        "title": "〈戲夢人生〉",
+        "type": "歌詞",
+        "note": ""
+      },
+      {
+        "title": "〈畫眉〉",
+        "type": "歌詞",
+        "note": ""
+      },
+      {
+        "title": "〈往事如影〉",
+        "type": "歌詞",
+        "note": ""
+      },
+      {
+        "title": "《像母親一樣的河》",
+        "type": "繪本",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "li-duchou",
@@ -387,7 +1535,19 @@
     "workIntro": "1987年成稿、刊於《大海洋詩刊》，以鄉愁、玫瑰、曙光與繁星等意象展現孤寂與追尋自由的精神歷程。",
     "style": "偏重文化鄉愁、象徵意象與內在精神辯證。",
     "status": "史料待補強",
-    "links": [{"label":"國立臺灣文學館藏品・〈旅次〉手稿","url":"https://collections.culture.tw/nmtl_collectionsweb/GalData.aspx?GID=MGM8MYMSMXMD"}]
+    "links": [
+      {
+        "label": "國立臺灣文學館藏品・〈旅次〉手稿",
+        "url": "https://collections.culture.tw/nmtl_collectionsweb/GalData.aspx?GID=MGM8MYMSMXMD"
+      }
+    ],
+    "works": [
+      {
+        "title": "〈旅次〉",
+        "type": "現代詩",
+        "note": "1987年成稿，後刊於《大海洋詩刊》第30期；館藏手稿可查"
+      }
+    ]
   },
   {
     "id": "qiu-yifan",
@@ -399,8 +1559,64 @@
     "workTitle": "《油桐花下个思念》",
     "workIntro": "以客語書寫南庄、親情與土地記憶，是其持續建立客語現代詩表達的重要作品。",
     "style": "堅持客語書寫，語言親近生活，強調土地、母語與族群情感。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・本土母語文學","url":"https://twml.nmtl.gov.tw/archive?uid=19"},{"label":"客家電視・詩人專訪","url":"https://www.youtube.com/watch?v=6NNIkTECXOY"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・本土母語文學",
+        "url": "https://twml.nmtl.gov.tw/archive?uid=19"
+      },
+      {
+        "label": "客家電視・詩人專訪",
+        "url": "https://www.youtube.com/watch?v=6NNIkTECXOY"
+      }
+    ],
+    "works": [
+      {
+        "title": "《有影》",
+        "type": "客語詩集",
+        "note": "與龔萬灶合著"
+      },
+      {
+        "title": "《田螺》",
+        "type": "客語詩集",
+        "note": ""
+      },
+      {
+        "title": "《油桐花下个思念》",
+        "type": "客語詩集",
+        "note": ""
+      },
+      {
+        "title": "《長流水》",
+        "type": "客語散文集",
+        "note": ""
+      },
+      {
+        "title": "《靈魂个故鄉》",
+        "type": "客語詩歌文集",
+        "note": ""
+      },
+      {
+        "title": "《族群、語言、文學》",
+        "type": "論文集",
+        "note": "副題：客語詩歌文學論集"
+      },
+      {
+        "title": "《詩人、語言、詩歌》",
+        "type": "文學研究",
+        "note": "副題：客籍作家吳濁流的詩歌表現"
+      },
+      {
+        "title": "〈雕籠仔〉",
+        "type": "客語小說",
+        "note": ""
+      },
+      {
+        "title": "〈好望角〉",
+        "type": "客語詩",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "xie-kunhua",
@@ -409,11 +1625,66 @@
     "genre": "新詩",
     "alias": "詩人、學者與影像創作者",
     "bio": "籍貫苗栗，生於臺北，從事現代詩、小說、散文、劇本與文學研究，研究專長包含臺灣現代詩史與詩社。",
-    "workTitle": "《合奏版圖》",
-    "workIntro": "獲國家文化藝術基金會創作獎助的詩歌計畫，呈現其對歷史、文化符號與形式建構的關注。",
+    "workTitle": "《寵你的靈魂》",
+    "workIntro": "累積二十餘年創作後出版的第一部個人詩集，收錄七十首作品；《合奏版圖》則為其較早期的詩歌創作計畫。",
     "style": "知性與意象並進，經常處理歷史記憶、文化符號及跨媒介表達。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・解昆樺個人資料","url":"https://tln.nmtl.gov.tw/ch/m2/nmtl_w1_m2_c_7.aspx?id=5663&k="}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・解昆樺個人資料",
+        "url": "https://tln.nmtl.gov.tw/ch/m2/nmtl_w1_m2_c_7.aspx?id=5663&k="
+      },
+      {
+        "label": "國家文化記憶庫・〈瓷碎〉",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=659995&indexCode=Culture_Object"
+      },
+      {
+        "label": "國藝會・《寵你的靈魂》出版計畫",
+        "url": "https://www.ncafroc.org.tw/files/news/20200415/923dfee6361b46668b5ef2b5c1dffc0c/923dfee6361b46668b5ef2b5c1dffc0c.pdf"
+      }
+    ],
+    "works": [
+      {
+        "title": "《寵你的靈魂》",
+        "type": "詩集",
+        "note": "首部個人詩集，收70首"
+      },
+      {
+        "title": "〈瓷碎〉",
+        "type": "現代詩",
+        "note": ""
+      },
+      {
+        "title": "《合奏版圖》",
+        "type": "詩歌創作計畫",
+        "note": ""
+      },
+      {
+        "title": "《詩史本事》",
+        "type": "文學研究",
+        "note": ""
+      },
+      {
+        "title": "《臺灣現代詩典律的建構與推移》",
+        "type": "文學研究",
+        "note": ""
+      },
+      {
+        "title": "《詩不安》",
+        "type": "文學研究",
+        "note": ""
+      },
+      {
+        "title": "《青春構詩》",
+        "type": "文學研究",
+        "note": ""
+      },
+      {
+        "title": "《謬斯胎骨》",
+        "type": "文學研究",
+        "note": "副題：臺灣現代詩手稿學"
+      }
+    ]
   },
   {
     "id": "zhong-qiao",
@@ -425,8 +1696,70 @@
     "workTitle": "《觀眾，請站起來》",
     "workIntro": "其重要劇本之一，透過劇場打破舞臺與觀眾界線，實踐社會介入與公共對話。",
     "style": "受布雷希特與民眾劇場影響，強調社會批判、現場性與觀眾參與。",
-    "status": "已核對",
-    "links": [{"label":"臺中文學館・鍾喬小傳","url":"https://www.tlm.taichung.gov.tw/form/Details.aspx?Parser=2%2C8%2C46%2C95%2C%2C%2C101"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "臺中文學館・鍾喬小傳",
+        "url": "https://www.tlm.taichung.gov.tw/form/Details.aspx?Parser=2%2C8%2C46%2C95%2C%2C%2C101"
+      }
+    ],
+    "works": [
+      {
+        "title": "《觀眾，請站起來》",
+        "type": "劇作／劇場論述",
+        "note": ""
+      },
+      {
+        "title": "《亞洲的吶喊：民眾劇場》",
+        "type": "劇場論述",
+        "note": ""
+      },
+      {
+        "title": "《戲中壁》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《邊緣檔案》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《阿罩霧將軍》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《滾動原鄉》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《身體的鄉愁》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《雨中的法西斯刑場》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《靈魂的口袋》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《魔幻帳篷》",
+        "type": "劇本集",
+        "note": ""
+      },
+      {
+        "title": "《來到邊境》",
+        "type": "詩抄",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "li-huanxiong",
@@ -438,8 +1771,79 @@
     "workTitle": "《星之暗湧》",
     "workIntro": "其代表劇場作品之一，從1980年代以來持續改寫與演出，展現解嚴世代的政治感知與劇場實驗。",
     "style": "臺詞富詩性與節奏，善用多層意象、舞臺機關與動線引導觀眾進入情節。",
-    "status": "已核對",
-    "links": [{"label":"國家文化記憶庫・黎煥雄","url":"https://tcmb.culture.tw/zh-tw/detail?id=332277&indexCode=Culture_People"},{"label":"臺灣現代戲劇暨表演影音資料庫","url":"https://www.eti-tw.com/person/profile/Q3Pf6pctxtqeq2SR8"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・黎煥雄",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=332277&indexCode=Culture_People"
+      },
+      {
+        "label": "臺灣現代戲劇暨表演影音資料庫",
+        "url": "https://www.eti-tw.com/person/profile/Q3Pf6pctxtqeq2SR8"
+      }
+    ],
+    "works": [
+      {
+        "title": "《闖入者》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《兀自照耀著的太陽》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《星之暗湧》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《海洋告別》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《虛構飛行》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《夜夜夜麻》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《一張床四人睡》",
+        "type": "劇作",
+        "note": ""
+      },
+      {
+        "title": "《地下鐵》",
+        "type": "音樂劇",
+        "note": ""
+      },
+      {
+        "title": "《幸運兒》",
+        "type": "音樂劇",
+        "note": ""
+      },
+      {
+        "title": "《向左走向右走》",
+        "type": "音樂劇",
+        "note": ""
+      },
+      {
+        "title": "《寂寞之城》",
+        "type": "詩集",
+        "note": ""
+      },
+      {
+        "title": "《黎煥雄劇場文集》",
+        "type": "劇場文集",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "chen-zhengzhi",
@@ -451,8 +1855,50 @@
     "workTitle": "《聰明小童話》",
     "workIntro": "以適合兒童閱讀的短篇童話傳遞觀察、想像與思考；另著《有趣的中國文字》等語文教育作品。",
     "style": "寓知識於趣味，以清楚、活潑的語言連結識字、修辭與兒童想像。",
-    "status": "已核對",
-    "links": [{"label":"國立臺南大學校史・陳正治校友資料","url":"https://history.nutn.edu.tw/Download/SectionFiles/1933/1384/57D6847C-3B93-4E6A-9C3C-4BE082D41EB2.pdf"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺南大學校史・陳正治校友資料",
+        "url": "https://history.nutn.edu.tw/Download/SectionFiles/1933/1384/57D6847C-3B93-4E6A-9C3C-4BE082D41EB2.pdf"
+      }
+    ],
+    "works": [
+      {
+        "title": "《聰明小童話》",
+        "type": "童話",
+        "note": ""
+      },
+      {
+        "title": "《兒歌ㄅㄆㄇ》",
+        "type": "兒歌／語文教育",
+        "note": ""
+      },
+      {
+        "title": "《中國文字》",
+        "type": "語文教育",
+        "note": ""
+      },
+      {
+        "title": "《全方位作文技巧》",
+        "type": "作文教育",
+        "note": ""
+      },
+      {
+        "title": "《兒童詩寫作研究》",
+        "type": "兒童文學研究",
+        "note": ""
+      },
+      {
+        "title": "《童話寫作研究》",
+        "type": "兒童文學研究",
+        "note": ""
+      },
+      {
+        "title": "《小朋友寫童話》",
+        "type": "兒童寫作教育",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "du-rongchen",
@@ -464,8 +1910,54 @@
     "workTitle": "《稻草人》",
     "workIntro": "早期童詩集，另有《花夢》、《童詩五家》及多部兒歌、童詩教學與閱讀指導作品。",
     "style": "重視忠誠、慈愛、希望與兒童想像，語言有韻律且適合朗讀。",
-    "status": "已核對",
-    "links": [{"label":"國家網路書店・《杜子詩文集》","url":"https://www.govbooks.com.tw/books/68956"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・杜榮琛",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333324&indexCode=Culture_People"
+      },
+      {
+        "label": "國家網路書店・杜子詩文集",
+        "url": "https://www.govbooks.com.tw/books/68956"
+      }
+    ],
+    "works": [
+      {
+        "title": "《稻草人》",
+        "type": "童詩集",
+        "note": ""
+      },
+      {
+        "title": "《花夢》",
+        "type": "童詩集",
+        "note": ""
+      },
+      {
+        "title": "《兒童詩寫作與指導》",
+        "type": "兒童文學研究",
+        "note": ""
+      },
+      {
+        "title": "《拜訪童詩花園》",
+        "type": "童詩／賞析",
+        "note": ""
+      },
+      {
+        "title": "《心靈筆記》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《心靈的風景》",
+        "type": "作品集",
+        "note": ""
+      },
+      {
+        "title": "《想當國王的寓言家》",
+        "type": "兒童文學",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "hong-zhiming",
@@ -477,8 +1969,40 @@
     "workTitle": "《一分鐘寓言》",
     "workIntro": "以精簡、具啟發性的寓言帶領兒童思考；另有《童詩萬花筒》、《花巫婆的寵物店》、《星星樹》等。",
     "style": "輕鬆自然、富童趣，重視童詩創作歷程、閱讀欣賞與校園生活。",
-    "status": "已核對",
-    "links": [{"label":"國立臺灣文學館・臺灣文學辭典","url":"https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01471"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國立臺灣文學館・臺灣文學辭典",
+        "url": "https://db.nmtl.gov.tw/site2/dictionary?id=Dictionary01471"
+      }
+    ],
+    "works": [
+      {
+        "title": "《童詩萬花筒》",
+        "type": "童詩",
+        "note": ""
+      },
+      {
+        "title": "《一分鐘寓言》",
+        "type": "寓言",
+        "note": ""
+      },
+      {
+        "title": "《花巫婆的寵物店》",
+        "type": "童話",
+        "note": ""
+      },
+      {
+        "title": "《星星樹》",
+        "type": "兒童文學",
+        "note": ""
+      },
+      {
+        "title": "《兒童文學評論集》",
+        "type": "評論",
+        "note": ""
+      }
+    ]
   },
   {
     "id": "zhang-dianwan",
@@ -490,8 +2014,43 @@
     "workTitle": "《太平輪一九四九》",
     "workIntro": "透過檔案、訪談與家族記憶重建太平輪事件及大時代中的個人命運，歷時多年採訪完成。",
     "style": "以田野訪談與檔案考證為骨架，融入家族史、女性觀點與口述記憶。",
-    "status": "已核對",
-    "links": [{"label":"國家文化記憶庫・張典婉","url":"https://tcmb.culture.tw/zh-tw/detail?id=333684&indexCode=Culture_People"},{"label":"中央社・《青春風正好》","url":"https://www.cna.com.tw/news/acul/202502245004.aspx?topic=3603"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・張典婉",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=333684&indexCode=Culture_People"
+      },
+      {
+        "label": "國立臺灣文學館・張典婉作品目錄",
+        "url": "https://tln.nmtl.gov.tw/ch/m2/nmtl_w1_m2_l_2_1.aspx?k=%E5%BC%B5%E5%85%B8%E5%A9%89&typ=book"
+      },
+      {
+        "label": "中央社・《青春風正好》",
+        "url": "https://www.cna.com.tw/news/acul/202502050351.aspx"
+      }
+    ],
+    "works": [
+      {
+        "title": "《臺灣客家女性》",
+        "type": "報導／性別文化",
+        "note": ""
+      },
+      {
+        "title": "《太平輪一九四九》",
+        "type": "報導文學",
+        "note": ""
+      },
+      {
+        "title": "《青春風正好》",
+        "type": "報導文學",
+        "note": "副題：日治台灣客家青年群像"
+      },
+      {
+        "title": "《鹿港阿媽與施振榮》",
+        "type": "人物報導",
+        "note": "副題：施陳秀蓮的故事"
+      }
+    ]
   },
   {
     "id": "lan-bozhou",
@@ -503,7 +2062,77 @@
     "workTitle": "《幌馬車之歌》",
     "workIntro": "追索醫師郭琇琮等人的生命與白色恐怖經驗，是其以報導文學介入臺灣近代史的重要作品。",
     "style": "以長期田野、口述訪談與歷史檔案交織，立場鮮明地為受難者作傳。",
-    "status": "已核對",
-    "links": [{"label":"臺灣全文資料庫・藍博洲作家資料","url":"https://www.tbmc.com.tw/event/tbmc_webinar/pdf/06222022.pdf"},{"label":"香港書展・藍博洲著作介紹","url":"https://hkbookfair.hktdc.com/tc/Press/Press-Releases/2010jul25-1-1.html"}]
+    "status": "已核對・作品已擴充",
+    "links": [
+      {
+        "label": "國家文化記憶庫・《幌馬車之歌》相關典藏",
+        "url": "https://tcmb.culture.tw/zh-tw/detail?id=684737&indexCode=Culture_Object"
+      },
+      {
+        "label": "數位典藏聯合目錄・藍博洲",
+        "url": "https://catalog.digitalarchives.tw/item/00/32/e3/9c.html"
+      },
+      {
+        "label": "國家圖書館學位論文・藍博洲書目",
+        "url": "https://nhuir.nhu.edu.tw/retrieve/30815/095NHU05076005-001.pdf"
+      }
+    ],
+    "works": [
+      {
+        "title": "《幌馬車之歌》",
+        "type": "報導文學",
+        "note": ""
+      },
+      {
+        "title": "《尋訪被湮滅的臺灣史與臺灣人》",
+        "type": "報導文學",
+        "note": ""
+      },
+      {
+        "title": "《人間正道是滄桑》",
+        "type": "報導文學",
+        "note": ""
+      },
+      {
+        "title": "《臺灣好女人》",
+        "type": "人物報導",
+        "note": ""
+      },
+      {
+        "title": "《消失在歷史迷霧中的作家身影》",
+        "type": "文學史／報導",
+        "note": ""
+      },
+      {
+        "title": "《天未亮》",
+        "type": "歷史報導",
+        "note": "追憶1949年四六事件（師院部分）"
+      },
+      {
+        "title": "《麥浪歌詠隊》",
+        "type": "歷史報導",
+        "note": "追憶1949年四六事件（臺大部分）"
+      },
+      {
+        "title": "《藤纏樹》",
+        "type": "報導／小說",
+        "note": ""
+      },
+      {
+        "title": "《紅色客家人》",
+        "type": "歷史報導",
+        "note": ""
+      },
+      {
+        "title": "《紅色客家庄》",
+        "type": "歷史報導",
+        "note": "副題：大河底的政治風暴"
+      },
+      {
+        "title": "《一個青年小說家的誕生》",
+        "type": "作家研究",
+        "note": ""
+      }
+    ]
   }
 ]

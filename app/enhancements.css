@@ -30,3 +30,46 @@
   color: var(--orange-dark);
   font-size: 20px;
 }
+
+.works-note {
+  margin: -4px 0 20px !important;
+  color: var(--muted) !important;
+  font-size: 11px !important;
+}
+
+.works-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border-top: 1px solid var(--line);
+}
+
+.works-list li {
+  display: grid;
+  grid-template-columns: 36px 1fr;
+  gap: 12px;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.work-index {
+  padding-top: 4px;
+  color: var(--orange);
+  font: 11px Georgia, serif;
+}
+
+.works-list h4 {
+  margin: 0 0 5px;
+  font: 500 18px/1.5 "Noto Serif TC", "Songti TC", serif;
+}
+
+.works-list p {
+  color: var(--muted);
+  font-size: 11px;
+  line-height: 1.6;
+}
+
+.works-list p b {
+  color: var(--ink);
+  font-weight: 700;
+}

@@ -32,7 +32,7 @@ export default function Home() {
       <section className="intro-strip" aria-label="協會簡介"><p>一條步道，串起苗栗的人文風景</p><p>我們以研究、導覽與數位典藏，讓在地文學走出書頁，走進校園與生活。</p></section>
 
       <section id="archive" className="section archive-section">
-        <div className="section-heading"><div><p className="kicker">WRITER ARCHIVE</p><h2>苗栗作家資料庫</h2></div><div className="heading-note"><span>資料版本 2026.08</span><p>優先呈現姓名、生平、代表作品與查證連結；史料不足處明確標記「待補強」。</p><a className="download-link" href="./downloads/苗栗文學作家資料庫.xlsx" download>下載完整作家資料 Excel <b>↓</b></a></div></div>
+        <div className="section-heading"><div><p className="kicker">WRITER ARCHIVE</p><h2>苗栗作家資料庫</h2></div><div className="heading-note"><span>全面清查版 2026.08</span><p>39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。</p><a className="download-link" href="./downloads/苗栗文學作家資料庫.xlsx" download>下載完整作家資料 Excel <b>↓</b></a></div></div>
         <WriterExplorer />
       </section>
 
@@ -59,7 +59,7 @@ export default function Home() {
 
       <section className="source-section">
         <div><p className="kicker light">SOURCE POLICY</p><h2>每一筆資料，<br />都應該找得到來處。</h2></div>
-        <div className="source-policy"><p>本資料庫不是完整定本，而是可持續校訂的第一版。內容優先採用文化部國家文化記憶庫、國立臺灣文學館、國家圖書館、客家委員會、地方政府與學術研究資料。</p><p>本地參考文獻包括使用者提供的《客家文化事典》與苗栗文學步道相簿。姓名、年代或名錄有異說時，卡片中直接註明；尚無充分公開史料者不推測補寫。</p><div className="policy-tags"><span>官方資料優先</span><span>逐筆附連結</span><span>異說明確註記</span><span>持續校訂</span></div></div>
+        <div className="source-policy"><p>本資料庫是可持續校訂的全面清查版。內容優先採用文化部國家文化記憶庫、國立臺灣文學館、國家圖書館、客家委員會、地方政府、正式出版及學術研究資料。</p><p>本地參考文獻包括使用者提供的《客家文化事典》與苗栗文學步道相簿。姓名、年代或版本有異說時，卡片中直接註明；目前收錄的252筆作品是「已查證主要作品」，作家作品極多或公開書目有限時不宣稱完整全集。</p><div className="policy-tags"><span>官方資料優先</span><span>逐筆附連結</span><span>異說明確註記</span><span>252筆作品索引</span></div></div>
       </section>
 
       <section id="join" className="join-section"><div><p className="kicker">TAKE PART</p><h2>一起，為苗栗留下<br />更深的人文風景。</h2></div><div><p>我們正在招募發起人會員、籌備委員、一般會員、志工夥伴與顧問。歡迎教師、校友、文化工作者與關心苗栗的朋友加入。</p><a className="join-action" href="https://forms.gle/otkC9QQo6Hp31ShK6" target="_blank" rel="noreferrer">填寫「加入我們」表單 <span>↗</span></a><small>表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。</small></div></section>

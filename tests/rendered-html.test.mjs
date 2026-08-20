@@ -36,7 +36,7 @@ test("GitHub Pages snapshot contains the finished site", async () => {
   const html = await readFile(new URL("docs/index.html", root), "utf8");
   assert.match(html, /苗栗文學步道/);
   assert.match(html, /苗栗作家資料庫/);
-  assert.match(html, /苗栗淵源/);
+  assert.doesNotMatch(html, /苗栗淵源/);
   assert.equal((html.match(/class="writer-relation"/g) ?? []).length, 39);
   assert.match(html, /苗栗頭份｜地方文人/);
   assert.match(html, /苗栗獅潭｜出生、成長/);

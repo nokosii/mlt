@@ -1,4 +1,5 @@
 import WriterExplorer from "./WriterExplorer";
+import TrailGallery from "./TrailGallery";
 import "./enhancements.css";
 
 const directions = [
@@ -8,12 +9,20 @@ const directions = [
   ["地方共創", "連結作家、文化工作者與地方團隊"],
 ];
 
+const founders = [
+  "何修仁", "何照清", "何莉珠",
+  "吳文章", "吳宛玉", "吳翠松", "吳貴俐",
+  "李筑軒", "李羿慧", "周念湘",
+  "侯帝光", "胡淑連", "張陳基", "黃勝銘",
+  "潘玲玲", "賴俊宏", "蔡豐任", "鄭正德",
+];
+
 export default function Home() {
   return (
     <main>
       <header className="nav-shell">
         <a className="brand" href="#top" aria-label="苗栗文學步道首頁"><span className="brand-mark">MLT</span><span>苗栗文學步道<small>推廣協會（籌備中）</small></span></a>
-        <nav aria-label="主要選單"><a href="#archive">作家資料庫</a><a href="#story">步道緣起</a><a href="#association">關於協會</a><a className="nav-cta" href="#join">加入我們</a></nav>
+        <nav aria-label="主要選單"><a href="#archive">作家資料庫</a><a href="#story">步道緣起</a><a href="#association">關於協會</a><a href="#founders">發起人</a><a className="nav-cta" href="#join">加入我們</a></nav>
       </header>
 
       <section id="top" className="hero">
@@ -43,12 +52,17 @@ export default function Home() {
 
       <section className="gallery-section" aria-labelledby="gallery-title">
         <div className="gallery-title"><p className="kicker">WALK &amp; READ</p><h2 id="gallery-title">文字就在湖畔發生</h2><p>作品以玻璃噴砂、大理石雕刻、金屬板與水泥基座等形式，融入八甲校區的湖光與綠意。</p></div>
-        <div className="gallery-grid"><figure className="g-wide"><img src="/images/trail-poem-panel.jpg" alt="苗栗文學步道劉毓秀詩作展示板" /><figcaption>現代詩 · 湖畔展示</figcaption></figure><figure><img src="/images/trail-poem-lake.jpg" alt="陳滄玉古典詩作與大學湖景觀" /><figcaption>古典詩 · 湖面倒影</figcaption></figure><figure><img src="/images/trail-classic.jpg" alt="蔡啟運古典詩作展示與大學湖" /><figcaption>漢詩 · 地方風景</figcaption></figure><figure className="g-wide"><img src="/images/trail-stone.jpg" alt="草叢間的大理石文學作品碑" /><figcaption>石刻 · 校園地景</figcaption></figure></div>
+        <TrailGallery />
       </section>
 
       <section id="association" className="section association-section">
         <div className="association-lead"><p className="kicker">ABOUT THE ASSOCIATION</p><h2>守護一條步道，<br />也守護地方的記憶。</h2><p>「台灣苗栗文學步道推廣協會」正在籌備中。我們期待結合校園、社區、文化工作者與社會各界，讓苗栗文學成為可閱讀、可行走、可傳承的公共文化資產。</p><div className="mission-quote">讓文學走進校園<br />走進地方 · 走進生活</div></div>
         <div className="direction-list">{directions.map(([title, detail], index) => <article key={title}><span>{String(index + 1).padStart(2, "0")}</span><div><h3>{title}</h3><p>{detail}</p></div><b>↗</b></article>)}</div>
+      </section>
+
+      <section id="founders" className="section founders-section">
+        <div className="founders-heading"><p className="kicker">FOUNDING MEMBERS</p><h2>發起人名單</h2><p>依姓氏筆畫排列；僅列華語姓名。</p></div>
+        <div className="founders-grid">{founders.map((name, index) => <article key={name}><span>{String(index + 1).padStart(2, "0")}</span><strong>{name}</strong></article>)}</div>
       </section>
 
       <section className="charter-section">
@@ -64,7 +78,7 @@ export default function Home() {
 
       <section id="join" className="join-section"><div><p className="kicker">TAKE PART</p><h2>一起，為苗栗留下<br />更深的人文風景。</h2></div><div><p>我們正在招募發起人會員、籌備委員、一般會員、志工夥伴與顧問。歡迎教師、校友、文化工作者與關心苗栗的朋友加入。</p><a className="join-action" href="https://forms.gle/otkC9QQo6Hp31ShK6" target="_blank" rel="noreferrer">填寫「加入我們」表單 <span>↗</span></a><small>表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。</small></div></section>
 
-      <footer><a className="brand footer-brand" href="#top"><span className="brand-mark">MLT</span><span>苗栗文學步道<small>推廣協會（籌備中）</small></span></a><p>本網站為協會籌備版 · 作家資料庫持續校訂中</p><div><a href="#archive">作家資料庫</a><a href="#story">步道緣起</a><a href="#association">關於協會</a></div></footer>
+      <footer><a className="brand footer-brand" href="#top"><span className="brand-mark">MLT</span><span>苗栗文學步道<small>推廣協會（籌備中）</small></span></a><div className="footer-meta"><p>本網站為協會籌備版 · 作家資料庫持續校訂中</p><a className="visitor-count" href="https://hits.sh/nokosii.github.io/mlt/" target="_blank" rel="noreferrer"><img src="https://hits.sh/nokosii.github.io/mlt.svg?view=total&amp;style=flat-square&amp;label=%E5%88%B0%E8%A8%AA%E4%BA%BA%E6%AC%A1&amp;color=%23d4693e&amp;labelColor=%2317352e" alt="到訪人次；每次重新載入頁面加一" /></a></div><div><a href="#archive">作家資料庫</a><a href="#story">步道緣起</a><a href="#founders">發起人</a><a href="#association">關於協會</a></div></footer>
     </main>
   );
 }

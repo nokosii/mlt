@@ -1,5 +1,5 @@
 import assert from "node:assert/strict";
-import { readFile } from "node:fs/promises";
+import { readFile, readdir } from "node:fs/promises";
 import test from "node:test";
 
 const root = new URL("../", import.meta.url);
@@ -31,8 +31,16 @@ test("GitHub Pages snapshot contains the finished site", async () => {
   assert.match(html, /https:\/\/forms\.gle\/otkC9QQo6Hp31ShK6/);
   assert.match(html, /\.\/downloads\/苗栗文學作家資料庫\.xlsx/);
   assert.match(html, /trail-hero-identity\.png/);
+  assert.match(html, /完整相簿 · 52 張/);
+  assert.match(html, /trail-gallery\/trail-01\.jpg/);
+  assert.match(html, /發起人名單/);
+  assert.match(html, /何修仁/);
+  assert.match(html, /鄭正德/);
+  assert.doesNotMatch(html, />Ray</);
+  assert.match(html, /hits\.sh\/nokosii\.github\.io\/mlt\.svg/);
   assert.doesNotMatch(html, /codex-preview|SkeletonPreview|Your site is taking shape/);
   assert.doesNotMatch(html, /(?:src|href)="\/(?:_next|images)\//);
   assert.ok((await readFile(new URL("docs/downloads/苗栗文學作家資料庫.xlsx", root))).length > 10_000);
   assert.ok((await readFile(new URL("docs/images/trail-hero-identity.png", root))).length > 1_000_000);
+  assert.equal((await readdir(new URL("docs/images/trail-gallery/", root))).filter((name) => name.endsWith(".jpg")).length, 52);
 });

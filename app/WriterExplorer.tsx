@@ -17,7 +17,7 @@ export default function WriterExplorer() {
     return writersData.filter((writer) => {
       const genreMatch = genre === "全部" || writer.genre === genre;
       const workText = writer.works.map((work) => `${work.title} ${work.type} ${work.note}`).join(" ");
-      const text = `${writer.name} ${writer.alias} ${writer.bio} ${writer.workTitle} ${writer.workIntro} ${workText}`.toLocaleLowerCase("zh-Hant");
+      const text = `${writer.name} ${writer.alias} ${writer.relation} ${writer.bio} ${writer.workTitle} ${writer.workIntro} ${workText}`.toLocaleLowerCase("zh-Hant");
       return genreMatch && (!needle || text.includes(needle));
     });
   }, [genre, query]);
@@ -62,6 +62,7 @@ export default function WriterExplorer() {
               <div className="card-meta"><span>{writer.genre}</span><small>{writer.years}</small></div>
               <h3>{writer.name}</h3>
               <p className="alias">{writer.alias}</p>
+              <p className="writer-relation"><span>苗栗淵源</span>{writer.relation}</p>
               <div className="card-rule" />
               <p className="work-label">代表作品</p>
               <p className="work-title">{writer.workTitle}</p>
@@ -77,7 +78,7 @@ export default function WriterExplorer() {
         <div className="modal-backdrop" role="presentation" onMouseDown={(event) => event.target === event.currentTarget && setActive(null)}>
           <section className="writer-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title">
             <button className="modal-close" type="button" onClick={() => setActive(null)} aria-label="關閉作家資料">×</button>
-            <div className="modal-header"><p>{active.genre} · {active.years}</p><h2 id="modal-title">{active.name}</h2><span>{active.alias}</span></div>
+            <div className="modal-header"><p>{active.genre} · {active.years}</p><h2 id="modal-title">{active.name}</h2><span>{active.alias}</span><strong className="modal-relation">苗栗淵源 · {active.relation}</strong></div>
             <div className="modal-body">
               <div className="bio-block"><p className="modal-label">01 / 生平簡介</p><p>{active.bio}</p></div>
               <div className="work-block"><p className="modal-label">02 / 代表作品</p><h3>{active.workTitle}</h3><p>{active.workIntro}</p></div>

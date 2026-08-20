@@ -41,6 +41,37 @@
   justify-content: flex-end;
 }
 
+.writer-relation {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  min-height: 36px;
+  margin: 14px 0 0;
+  color: var(--ink);
+  font-size: 11px;
+  line-height: 1.5;
+}
+
+.writer-card {
+  min-height: 380px;
+}
+
+.writer-relation span {
+  color: var(--orange);
+  font-size: 8px;
+  font-weight: 800;
+  letter-spacing: 0.14em;
+}
+
+.modal-relation {
+  display: block;
+  margin-top: 18px;
+  color: #e7a171;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
 .works-list {
   list-style: none;
   margin: 0;

@@ -41,7 +41,8 @@
         "type": "祭文",
         "note": ""
       }
-    ]
+    ],
+    "relation": "福建漳浦｜曾任臺灣北路營參將"
   },
   {
     "id": "huang-qingtai",
@@ -85,7 +86,8 @@
         "type": "古典詩",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜曾居頭份"
   },
   {
     "id": "li-ying",
@@ -115,7 +117,8 @@
         "type": "手抄詩稿",
         "note": "現存手稿題名；收詩140首，其中128首可歸於黎瑩"
       }
-    ]
+    ],
+    "relation": "苗栗西湖｜定居三湖村"
   },
   {
     "id": "wu-ziguang",
@@ -165,7 +168,8 @@
         "type": "後人輯本",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗銅鑼｜定居雙峰山"
   },
   {
     "id": "zhang-weiyuan",
@@ -190,7 +194,8 @@
         "type": "遺稿輯本",
         "note": "現存作品主要由後人輯存"
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜辭官後定居"
   },
   {
     "id": "cai-qiyun",
@@ -235,7 +240,8 @@
         "type": "地方志",
         "note": "參與修編"
       }
-    ]
+    ],
+    "relation": "苗栗苑裡｜出生"
   },
   {
     "id": "qiu-fengjia",
@@ -289,7 +295,8 @@
         "type": "組詩",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗銅鑼｜出生"
   },
   {
     "id": "chen-hu",
@@ -343,7 +350,8 @@
         "type": "古典詩",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗苑裡｜出生"
   },
   {
     "id": "luo-fuxing",
@@ -377,7 +385,8 @@
         "type": "古典詩／獄中詩",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗｜青年時居住、參與抗日"
   },
   {
     "id": "zhang-hanwen",
@@ -412,7 +421,8 @@
         "type": "期刊作品",
         "note": "多數作品散見《醒獅》"
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜地方文人"
   },
   {
     "id": "lai-jiangzhi",
@@ -452,7 +462,8 @@
         "type": "傳統文學",
         "note": "散見於作品集"
       }
-    ]
+    ],
+    "relation": "苗栗縣｜出生、長期書寫地方"
   },
   {
     "id": "wu-zhuoliu",
@@ -531,7 +542,8 @@
         "type": "文學回憶",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗西湖｜曾任教"
   },
   {
     "id": "li-qiao",
@@ -590,7 +602,8 @@
         "type": "客語史詩",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗大湖｜出生"
   },
   {
     "id": "tian-minzhong",
@@ -635,7 +648,8 @@
         "type": "口傳文學譯著",
         "note": "副題：北勢八社天狗部落的祖靈傳說與抗日傳奇"
       }
-    ]
+    ],
+    "relation": "苗栗泰安｜天狗部落出生"
   },
   {
     "id": "wang-youhua",
@@ -700,7 +714,8 @@
         "type": "評論集",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜出生"
   },
   {
     "id": "liang-hanyi",
@@ -744,7 +759,8 @@
         "type": "中篇小說",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗縣籍｜小說家、散文家"
   },
   {
     "id": "gan-yaoming",
@@ -761,6 +777,10 @@
       {
         "label": "文化部 Books from Taiwan・甘耀明",
         "url": "https://booksfromtaiwan.moc.gov.tw/authors_info.php?id=49"
+      },
+      {
+        "label": "臺中文學館・甘耀明作家小傳",
+        "url": "https://www.tlm.taichung.gov.tw/tour/Details.aspx?Parser=13%2C8%2C85%2C95%2C%2C%2C66"
       }
     ],
     "works": [
@@ -784,7 +804,8 @@
         "type": "長篇小說",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗獅潭｜出生、成長"
   },
   {
     "id": "chen-ying",
@@ -844,7 +865,8 @@
         "type": "譯作／選集",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜曾居頭份"
   },
   {
     "id": "lin-haiyin",
@@ -928,7 +950,8 @@
         "type": "文學評論／散文",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜父親故鄉"
   },
   {
     "id": "jiang-shang",
@@ -1011,7 +1034,8 @@
         "type": "小說集",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜任教大成高中"
   },
   {
     "id": "xie-shuangtian",
@@ -1076,7 +1100,8 @@
         "type": "作品集",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗銅鑼｜出生"
   },
   {
     "id": "chen-chaodong",
@@ -1121,7 +1146,8 @@
         "type": "報導／地方書寫",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗後龍｜出生、返鄉書寫"
   },
   {
     "id": "moshang-chen",
@@ -1191,7 +1217,8 @@
         "type": "小說",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗縣籍｜工人文學作家"
   },
   {
     "id": "zhan-bing",
@@ -1212,6 +1239,10 @@
       {
         "label": "政府出版品・《詹冰全集》",
         "url": "https://gpi.culture.tw/books/1011400519"
+      },
+      {
+        "label": "臺灣文學虛擬博物館・詹冰文學故事館",
+        "url": "https://tlvm.nmtl.gov.tw/zh/Travel/TravelFamilyCont?Familyid=10"
       }
     ],
     "works": [
@@ -1235,7 +1266,8 @@
         "type": "全集",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗卓蘭｜出生"
   },
   {
     "id": "luo-lang",
@@ -1264,7 +1296,8 @@
         "type": "詩文集",
         "note": "收中文詩53首、日文詩36首、散文2篇、日譯詩9首、詩論2篇及畫作20幅"
       }
-    ]
+    ],
+    "relation": "苗栗市｜出生"
   },
   {
     "id": "mo-yu",
@@ -1359,7 +1392,8 @@
         "type": "地方文學史",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗竹南｜出生"
   },
   {
     "id": "liu-yuxiu",
@@ -1398,7 +1432,8 @@
         "type": "主編／女性研究",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜成長"
   },
   {
     "id": "huang-hengqiu",
@@ -1448,7 +1483,8 @@
         "type": "文學史",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗銅鑼｜出生"
   },
   {
     "id": "lu-hanshou",
@@ -1522,7 +1558,8 @@
         "type": "繪本",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗苑裡｜出生"
   },
   {
     "id": "li-duchou",
@@ -1547,7 +1584,8 @@
         "type": "現代詩",
         "note": "1987年成稿，後刊於《大海洋詩刊》第30期；館藏手稿可查"
       }
-    ]
+    ],
+    "relation": "苗栗縣籍｜現代詩人"
   },
   {
     "id": "qiu-yifan",
@@ -1616,7 +1654,8 @@
         "type": "客語詩",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗南庄｜出生"
   },
   {
     "id": "xie-kunhua",
@@ -1684,7 +1723,8 @@
         "type": "文學研究",
         "note": "副題：臺灣現代詩手稿學"
       }
-    ]
+    ],
+    "relation": "苗栗籍｜出生臺北"
   },
   {
     "id": "zhong-qiao",
@@ -1759,7 +1799,8 @@
         "type": "詩抄",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗三義｜出身"
   },
   {
     "id": "li-huanxiong",
@@ -1843,7 +1884,8 @@
         "type": "劇場文集",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗大湖｜出生"
   },
   {
     "id": "chen-zhengzhi",
@@ -1898,7 +1940,8 @@
         "type": "兒童寫作教育",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗縣｜出生"
   },
   {
     "id": "du-rongchen",
@@ -1957,7 +2000,8 @@
         "type": "兒童文學",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗後龍｜出生、任教"
   },
   {
     "id": "hong-zhiming",
@@ -2002,7 +2046,8 @@
         "type": "評論",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗縣｜出生"
   },
   {
     "id": "zhang-dianwan",
@@ -2050,7 +2095,8 @@
         "type": "人物報導",
         "note": "副題：施陳秀蓮的故事"
       }
-    ]
+    ],
+    "relation": "苗栗頭份｜成長"
   },
   {
     "id": "lan-bozhou",
@@ -2133,6 +2179,7 @@
         "type": "作家研究",
         "note": ""
       }
-    ]
+    ],
+    "relation": "苗栗西湖｜出生"
   }
 ]

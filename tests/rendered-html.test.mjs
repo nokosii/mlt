@@ -15,6 +15,9 @@ test("writer archive has the requested 39 records and genre counts", async () =>
     for (const work of writer.works) assert.ok(work.title && work.type, `${writer.id} has an incomplete work entry`);
   }
   assert.equal(writers.reduce((sum, writer) => sum + writer.works.length, 0), 252);
+  const chenHu = writers.find((writer) => writer.id === "chen-hu");
+  assert.equal(chenHu.name, "陳瑚");
+  assert.match(chenHu.alias, /字滄玉/);
   const zhangHanwen = writers.find((writer) => writer.id === "zhang-hanwen");
   assert.equal(zhangHanwen.years, "1902—1979");
   assert.deepEqual(zhangHanwen.links, [{
@@ -28,6 +31,16 @@ test("GitHub Pages snapshot contains the finished site", async () => {
   const html = await readFile(new URL("docs/index.html", root), "utf8");
   assert.match(html, /苗栗文學步道/);
   assert.match(html, /苗栗作家資料庫/);
+  assert.match(html, /href="#news">最新消息/);
+  assert.match(html, /2022年，國立聯合大學於校慶期間啟動苗栗文學步道規劃/);
+  assert.doesNotMatch(html, /2012/);
+  assert.match(html, /title="苗栗文學步道—國立聯合大學大學湖 Google 地圖"/);
+  assert.match(html, /output=embed/);
+  assert.match(html, /使用 Google Maps 導航/);
+  assert.match(html, /<h3>陳瑚<\/h3><p class="alias">字滄玉/);
+  assert.doesNotMatch(html, /<h3>陳瑚（字滄玉）<\/h3>/);
+  assert.match(html, /gallery-arrow gallery-arrow-previous/);
+  assert.match(html, /gallery-arrow gallery-arrow-next/);
   assert.match(html, /https:\/\/forms\.gle\/otkC9QQo6Hp31ShK6/);
   assert.match(html, /\.\/downloads\/苗栗文學作家資料庫\.xlsx/);
   assert.match(html, /trail-hero-identity\.png/);

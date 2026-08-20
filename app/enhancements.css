@@ -81,35 +81,49 @@
 .gallery-controls {
   display: flex;
   align-items: center;
-  justify-content: space-between;
   margin-bottom: 18px;
   color: var(--muted);
   font-size: 11px;
   letter-spacing: 0.1em;
 }
 
-.gallery-controls > div {
-  display: flex;
-  gap: 8px;
+.gallery-viewport {
+  position: relative;
 }
 
-.gallery-controls button {
-  width: 48px;
-  height: 48px;
-  border: 1px solid var(--ink);
+.gallery-arrow {
+  position: absolute;
+  top: 50%;
+  z-index: 3;
+  display: grid;
+  place-items: center;
+  width: 54px;
+  height: 54px;
+  transform: translateY(-50%);
+  border: 1px solid rgba(255, 255, 255, 0.72);
   border-radius: 50%;
-  background: transparent;
+  background: rgba(23, 53, 46, 0.86);
+  color: #fff;
+  box-shadow: 0 8px 25px rgba(9, 29, 25, 0.24);
   cursor: pointer;
-  font-size: 20px;
+  font-size: 22px;
   transition: 0.2s;
 }
 
-.gallery-controls button:hover,
-.gallery-controls button:focus-visible {
-  border-color: var(--orange);
+.gallery-arrow-previous {
+  left: 16px;
+}
+
+.gallery-arrow-next {
+  right: 16px;
+}
+
+.gallery-arrow:hover,
+.gallery-arrow:focus-visible {
+  border-color: #fff;
   background: var(--orange);
-  color: #fff;
   outline: none;
+  transform: translateY(-50%) scale(1.06);
 }
 
 .gallery-track {
@@ -166,6 +180,76 @@
   color: var(--muted);
   font-size: 10px;
   text-align: right;
+}
+
+.visit-section {
+  display: grid;
+  grid-template-columns: 0.78fr 1.22fr;
+  min-height: 610px;
+  background: var(--cream);
+}
+
+.visit-copy {
+  padding: 100px clamp(24px, 7vw, 110px);
+}
+
+.visit-copy h2 {
+  margin: 12px 0 28px;
+  font: 500 clamp(38px, 4.5vw, 64px)/1.22 "Noto Serif TC", "Songti TC", serif;
+}
+
+.visit-copy > p:not(.kicker) {
+  max-width: 560px;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 2;
+}
+
+.visit-copy address {
+  margin-top: 25px;
+  padding-left: 18px;
+  border-left: 3px solid var(--orange);
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.8;
+}
+
+.visit-actions {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  margin-top: 35px;
+  font-size: 12px;
+}
+
+.map-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  min-width: 220px;
+  padding: 15px 17px;
+  background: var(--orange);
+  color: #fff;
+  font-weight: 700;
+  transition: 0.2s;
+}
+
+.map-action:hover {
+  background: var(--orange-dark);
+}
+
+.map-frame {
+  min-height: 610px;
+  background: #d8d4ca;
+}
+
+.map-frame iframe {
+  width: 100%;
+  height: 100%;
+  min-height: 610px;
+  border: 0;
+  filter: saturate(0.82) contrast(0.95);
 }
 
 .founders-section {
@@ -233,7 +317,37 @@
   height: 20px;
 }
 
+@media (max-width: 1250px) {
+  .nav-shell nav {
+    gap: 18px;
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 1100px) {
+  .nav-shell nav {
+    gap: 13px;
+  }
+
+  .nav-cta {
+    padding: 9px 11px;
+  }
+}
+
 @media (max-width: 800px) {
+  .visit-section {
+    grid-template-columns: 1fr;
+  }
+
+  .visit-copy {
+    padding: 80px 24px;
+  }
+
+  .map-frame,
+  .map-frame iframe {
+    min-height: 480px;
+  }
+
   .gallery-track {
     grid-auto-columns: 82vw;
   }
@@ -256,9 +370,17 @@
 }
 
 @media (max-width: 520px) {
-  .gallery-controls button {
-    width: 42px;
-    height: 42px;
+  .gallery-arrow {
+    width: 46px;
+    height: 46px;
+  }
+
+  .gallery-arrow-previous {
+    left: 10px;
+  }
+
+  .gallery-arrow-next {
+    right: 10px;
   }
 
   .gallery-track {
@@ -280,5 +402,10 @@
 
   .founders-grid strong {
     font-size: 20px;
+  }
+
+  .visit-actions {
+    align-items: stretch;
+    flex-direction: column;
   }
 }

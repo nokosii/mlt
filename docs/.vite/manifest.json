@@ -11,7 +11,7 @@
     "name": "rolldown-runtime"
   },
   "app/TrailGallery.tsx": {
-    "file": "_next/static/chunks/TrailGallery-xwlVkTie.js",
+    "file": "_next/static/chunks/TrailGallery-CxpR_jq9.js",
     "name": "TrailGallery",
     "src": "app/TrailGallery.tsx",
     "isDynamicEntry": true,
@@ -21,7 +21,7 @@
     ]
   },
   "app/WriterExplorer.tsx": {
-    "file": "_next/static/chunks/WriterExplorer-C5IqqNHL.js",
+    "file": "_next/static/chunks/WriterExplorer-DsWfNJze.js",
     "name": "WriterExplorer",
     "src": "app/WriterExplorer.tsx",
     "isDynamicEntry": true,
@@ -31,7 +31,7 @@
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-CBCW1po6.js",
+    "file": "_next/static/chunks/layout-segment-context-i3_IUZpo.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -42,7 +42,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-BQ8UyXcJ.js",
+    "file": "_next/static/chunks/index-CzMg-cHl.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,

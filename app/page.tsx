@@ -22,7 +22,7 @@ export default function Home() {
     <main>
       <header className="nav-shell">
         <a className="brand" href="#top" aria-label="苗栗文學步道首頁"><span className="brand-mark">MLT</span><span>苗栗文學步道<small>推廣協會（籌備中）</small></span></a>
-        <nav aria-label="主要選單"><a href="#archive">作家資料庫</a><a href="#story">步道緣起</a><a href="#association">關於協會</a><a href="#founders">發起人</a><a className="nav-cta" href="#join">加入我們</a></nav>
+        <nav aria-label="主要選單"><a href="#news">最新消息</a><a href="#archive">作家資料庫</a><a href="#story">步道緣起</a><a href="#visit">交通指引</a><a href="#association">關於協會</a><a href="#founders">發起人</a><a className="nav-cta" href="#join">加入我們</a></nav>
       </header>
 
       <section id="top" className="hero">
@@ -38,7 +38,7 @@ export default function Home() {
         <p className="photo-credit">影像／苗栗文學步道實景照片・主視覺調色設計</p>
       </section>
 
-      <section className="intro-strip" aria-label="協會簡介"><p>一條步道，串起苗栗的人文風景</p><p>我們以研究、導覽與數位典藏，讓在地文學走出書頁，走進校園與生活。</p></section>
+      <section id="news" className="intro-strip" aria-label="最新消息"><p>最新消息 · 2026.08</p><p>作家資料庫全面清查版、52張步道實景相簿與大學湖 Google 地圖指引已上線。</p></section>
 
       <section id="archive" className="section archive-section">
         <div className="section-heading"><div><p className="kicker">WRITER ARCHIVE</p><h2>苗栗作家資料庫</h2></div><div className="heading-note"><span>全面清查版 2026.08</span><p>39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。</p><a className="download-link" href="./downloads/苗栗文學作家資料庫.xlsx" download>下載完整作家資料 Excel <b>↓</b></a></div></div>
@@ -46,8 +46,13 @@ export default function Home() {
       </section>
 
       <section id="story" className="story-section">
-        <div className="story-copy"><p className="kicker light">THE BEGINNING</p><h2>從五十週年校慶，<br />走出一條文學的路。</h2><p>2012年，國立聯合大學迎接建校五十週年。為強化在地連結與人文教育，校友募款、學者與校內團隊共同規劃，在八甲校區大學湖畔建置約六百公尺的苗栗文學步道。</p><p>諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。</p><div className="story-links"><a href="https://hakkanews.tw/2022/12/23/hos-beauty-column-united-university-literature-trail-to-praise-the-people-of-miaoli-and-miaoli/" target="_blank" rel="noreferrer">客新聞專題 ↗</a><a href="https://youtu.be/KuIbCRVktIc" target="_blank" rel="noreferrer">步道參考影片 ↗</a></div></div>
-        <div className="story-number"><strong>600</strong><span>公尺的閱讀風景</span><div className="timeline"><p><b>2012</b> 校慶規劃啟動</p><p><b>38</b> 位作家作品落地</p><p><b>NOW</b> 數位資料庫延伸</p></div></div>
+        <div className="story-copy"><p className="kicker light">THE BEGINNING</p><h2>從校慶啟動規劃，<br />走出一條文學的路。</h2><p>2022年，國立聯合大學於校慶期間啟動苗栗文學步道規劃。為強化在地連結與人文教育，校友募款、學者與校內團隊共同參與，在八甲校區大學湖畔建置約六百公尺的苗栗文學步道。</p><p>諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。</p><div className="story-links"><a href="https://hakkanews.tw/2022/12/23/hos-beauty-column-united-university-literature-trail-to-praise-the-people-of-miaoli-and-miaoli/" target="_blank" rel="noreferrer">客新聞專題 ↗</a><a href="https://youtu.be/KuIbCRVktIc" target="_blank" rel="noreferrer">步道參考影片 ↗</a></div></div>
+        <div className="story-number"><strong>600</strong><span>公尺的閱讀風景</span><div className="timeline"><p><b>2022</b> 校慶規劃啟動</p><p><b>38</b> 位作家作品落地</p><p><b>NOW</b> 數位資料庫延伸</p></div></div>
+      </section>
+
+      <section id="visit" className="visit-section" aria-labelledby="visit-title">
+        <div className="visit-copy"><p className="kicker">VISIT THE TRAIL</p><h2 id="visit-title">前往苗栗文學步道</h2><p>步道位於國立聯合大學第二（八甲）校區大學湖畔。抵達校區後，請循大學湖方向步行，即可看見環湖設置的文學作品。</p><address>苗栗市南勢里聯大2號 · 國立聯合大學八甲校區大學湖</address><div className="visit-actions"><a className="map-action" href="https://www.google.com/maps/dir/?api=1&amp;destination=%E5%9C%8B%E7%AB%8B%E8%81%AF%E5%90%88%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%AD%B8%E6%B9%96" target="_blank" rel="noreferrer">使用 Google Maps 導航 <span>↗</span></a><a href="https://www.nuu.edu.tw/p/412-1000-3769.php?Lang=zh-tw" target="_blank" rel="noreferrer">聯大校址資訊 ↗</a></div></div>
+        <div className="map-frame"><iframe title="苗栗文學步道—國立聯合大學大學湖 Google 地圖" src="https://www.google.com/maps?q=%E5%9C%8B%E7%AB%8B%E8%81%AF%E5%90%88%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%AD%B8%E6%B9%96&amp;output=embed" loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen /></div>
       </section>
 
       <section className="gallery-section" aria-labelledby="gallery-title">

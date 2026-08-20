@@ -1,0 +1,73 @@
+.charter-section {
+  padding: 100px clamp(22px, 7vw, 110px);
+  background: #e9e1d2;
+}
+
+.charter-section > div:first-child {
+  margin-bottom: 40px;
+}
+
+.charter-section h2 {
+  margin: 10px 0 0;
+  font: 500 clamp(34px, 4vw, 52px) "Noto Serif TC", "Songti TC", serif;
+}
+
+.charter-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  border-top: 1px solid var(--line);
+  border-left: 1px solid var(--line);
+}
+
+.charter-grid article {
+  padding: 26px;
+  border-right: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.charter-grid span {
+  color: var(--orange);
+  font: 11px Georgia, serif;
+}
+
+.charter-grid h3 {
+  margin: 28px 0 12px;
+  font: 500 22px "Noto Serif TC", "Songti TC", serif;
+}
+
+.charter-grid p {
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.9;
+}
+
+.charter-note {
+  margin: 20px 0 0;
+  color: #78827e;
+  font-size: 10px;
+}
+
+.contact-placeholder {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 35px;
+  padding: 18px 0;
+  border-top: 1px solid var(--ink);
+  border-bottom: 1px solid var(--ink);
+  font-weight: 700;
+}
+
+.contact-placeholder span {
+  color: #566e68;
+  font-weight: 500;
+}
+
+@media (max-width: 900px) {
+  .charter-grid { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 520px) {
+  .charter-section { padding: 80px 22px; }
+  .charter-grid { grid-template-columns: 1fr; }
+  .contact-placeholder { gap: 24px; }
+}

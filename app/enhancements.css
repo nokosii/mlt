@@ -37,6 +37,10 @@
   font-size: 11px !important;
 }
 
+.card-foot-detail {
+  justify-content: flex-end;
+}
+
 .works-list {
   list-style: none;
   margin: 0;

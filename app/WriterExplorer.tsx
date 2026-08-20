@@ -65,7 +65,7 @@ export default function WriterExplorer() {
               <div className="card-rule" />
               <p className="work-label">代表作品</p>
               <p className="work-title">{writer.workTitle}</p>
-              <div className="card-foot"><span className={writer.status.includes("待補") ? "status pending" : "status"}>{writer.status}</span><b aria-hidden="true">↗</b></div>
+              <div className="card-foot card-foot-detail"><b aria-hidden="true">↗</b></div>
             </button>
           ))}
         </div>

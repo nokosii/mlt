@@ -31,6 +31,8 @@ test("GitHub Pages snapshot contains the finished site", async () => {
   const html = await readFile(new URL("docs/index.html", root), "utf8");
   assert.match(html, /苗栗文學步道/);
   assert.match(html, /苗栗作家資料庫/);
+  assert.doesNotMatch(html, /<span class="status(?: pending)?">/);
+  assert.doesNotMatch(html, /已核對・|史料待補強/);
   assert.match(html, /href="#news">最新消息/);
   assert.match(html, /2022年，國立聯合大學於校慶期間啟動苗栗文學步道規劃/);
   assert.doesNotMatch(html, /2012/);

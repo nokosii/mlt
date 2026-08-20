@@ -48,6 +48,8 @@ test("GitHub Pages snapshot contains the finished site", async () => {
   assert.match(html, /title="苗栗文學步道—國立聯合大學大學湖 Google 地圖"/);
   assert.match(html, /output=embed/);
   assert.match(html, /使用 Google Maps 導航/);
+  assert.ok(html.indexOf('id="visit"') > html.indexOf('id="join"'), "visit section should follow the join section");
+  assert.ok(html.indexOf('id="visit"') < html.indexOf("<footer>"), "visit section should be the final content section");
   assert.match(html, /<h3>陳瑚<\/h3><p class="alias">字滄玉/);
   assert.doesNotMatch(html, /<h3>陳瑚（字滄玉）<\/h3>/);
   assert.match(html, /gallery-arrow gallery-arrow-previous/);

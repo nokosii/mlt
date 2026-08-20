@@ -50,11 +50,6 @@ export default function Home() {
         <div className="story-number"><strong>600</strong><span>公尺的閱讀風景</span><div className="timeline"><p><b>2022</b> 校慶規劃啟動</p><p><b>38</b> 位作家作品落地</p><p><b>NOW</b> 數位資料庫延伸</p></div></div>
       </section>
 
-      <section id="visit" className="visit-section" aria-labelledby="visit-title">
-        <div className="visit-copy"><p className="kicker">VISIT THE TRAIL</p><h2 id="visit-title">前往苗栗文學步道</h2><p>步道位於國立聯合大學第二（八甲）校區大學湖畔。抵達校區後，請循大學湖方向步行，即可看見環湖設置的文學作品。</p><address>苗栗市南勢里聯大2號 · 國立聯合大學八甲校區大學湖</address><div className="visit-actions"><a className="map-action" href="https://www.google.com/maps/dir/?api=1&amp;destination=%E5%9C%8B%E7%AB%8B%E8%81%AF%E5%90%88%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%AD%B8%E6%B9%96" target="_blank" rel="noreferrer">使用 Google Maps 導航 <span>↗</span></a><a href="https://www.nuu.edu.tw/p/412-1000-3769.php?Lang=zh-tw" target="_blank" rel="noreferrer">聯大校址資訊 ↗</a></div></div>
-        <div className="map-frame"><iframe title="苗栗文學步道—國立聯合大學大學湖 Google 地圖" src="https://www.google.com/maps?q=%E5%9C%8B%E7%AB%8B%E8%81%AF%E5%90%88%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%AD%B8%E6%B9%96&amp;output=embed" loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen /></div>
-      </section>
-
       <section className="gallery-section" aria-labelledby="gallery-title">
         <div className="gallery-title"><p className="kicker">WALK &amp; READ</p><h2 id="gallery-title">文字就在湖畔發生</h2><p>作品以玻璃噴砂、大理石雕刻、金屬板與水泥基座等形式，融入八甲校區的湖光與綠意。</p></div>
         <TrailGallery />
@@ -82,6 +77,11 @@ export default function Home() {
       </section>
 
       <section id="join" className="join-section"><div><p className="kicker">TAKE PART</p><h2>一起，為苗栗留下<br />更深的人文風景。</h2></div><div><p>我們正在招募發起人會員、籌備委員、一般會員、志工夥伴與顧問。歡迎教師、校友、文化工作者與關心苗栗的朋友加入。</p><a className="join-action" href="https://forms.gle/otkC9QQo6Hp31ShK6" target="_blank" rel="noreferrer">填寫「加入我們」表單 <span>↗</span></a><small>表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。</small></div></section>
+
+      <section id="visit" className="visit-section" aria-labelledby="visit-title">
+        <div className="visit-copy"><p className="kicker">VISIT THE TRAIL</p><h2 id="visit-title">前往苗栗文學步道</h2><p>步道位於國立聯合大學第二（八甲）校區大學湖畔。抵達校區後，請循大學湖方向步行，即可看見環湖設置的文學作品。</p><address>苗栗市南勢里聯大2號 · 國立聯合大學八甲校區大學湖</address><div className="visit-actions"><a className="map-action" href="https://www.google.com/maps/dir/?api=1&amp;destination=%E5%9C%8B%E7%AB%8B%E8%81%AF%E5%90%88%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%AD%B8%E6%B9%96" target="_blank" rel="noreferrer">使用 Google Maps 導航 <span>↗</span></a><a href="https://www.nuu.edu.tw/p/412-1000-3769.php?Lang=zh-tw" target="_blank" rel="noreferrer">聯大校址資訊 ↗</a></div></div>
+        <div className="map-frame"><iframe title="苗栗文學步道—國立聯合大學大學湖 Google 地圖" src="https://www.google.com/maps?q=%E5%9C%8B%E7%AB%8B%E8%81%AF%E5%90%88%E5%A4%A7%E5%AD%B8%E5%A4%A7%E5%AD%B8%E6%B9%96&amp;output=embed" loading="lazy" referrerPolicy="no-referrer-when-downgrade" allowFullScreen /></div>
+      </section>
 
       <footer><a className="brand footer-brand" href="#top"><span className="brand-mark">MLT</span><span>苗栗文學步道<small>推廣協會（籌備中）</small></span></a><div className="footer-meta"><p>本網站為協會籌備版 · 作家資料庫持續校訂中</p><a className="visitor-count" href="https://hits.sh/nokosii.github.io/mlt/" target="_blank" rel="noreferrer"><img src="https://hits.sh/nokosii.github.io/mlt.svg?view=total&amp;style=flat-square&amp;label=%E5%88%B0%E8%A8%AA%E4%BA%BA%E6%AC%A1&amp;color=%23d4693e&amp;labelColor=%2317352e" alt="到訪人次；每次重新載入頁面加一" /></a></div><div><a href="#archive">作家資料庫</a><a href="#story">步道緣起</a><a href="#founders">發起人</a><a href="#association">關於協會</a></div></footer>
     </main>

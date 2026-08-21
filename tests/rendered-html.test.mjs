@@ -35,6 +35,10 @@ test("writer archive has the requested 39 records and genre counts", async () =>
 test("GitHub Pages snapshot contains the finished site", async () => {
   const html = await readFile(new URL("docs/index.html", root), "utf8");
   assert.match(html, /苗栗文學步道/);
+  assert.match(html, /aria-label="網站語言"/);
+  assert.match(html, /aria-pressed="true">華語/);
+  assert.match(html, /aria-pressed="false">客語/);
+  assert.match(html, /GoHakka 自然翻譯模式/);
   assert.match(html, /苗栗作家資料庫/);
   assert.doesNotMatch(html, /苗栗淵源/);
   assert.equal((html.match(/class="writer-relation"/g) ?? []).length, 39);
@@ -69,4 +73,22 @@ test("GitHub Pages snapshot contains the finished site", async () => {
   assert.ok((await readFile(new URL("docs/downloads/苗栗文學作家資料庫.xlsx", root))).length > 10_000);
   assert.ok((await readFile(new URL("docs/images/trail-hero-identity.png", root))).length > 1_000_000);
   assert.equal((await readdir(new URL("docs/images/trail-gallery/", root))).filter((name) => name.endsWith(".jpg")).length, 52);
+});
+
+test("GoHakka Sixian bilingual data is complete and synchronized", async () => {
+  const siteZh = JSON.parse(await readFile(new URL("app/data/site-copy.json", root), "utf8"));
+  const siteHak = JSON.parse(await readFile(new URL("app/data/site-copy-hak.json", root), "utf8"));
+  const writers = JSON.parse(await readFile(new URL("app/data/writers.json", root), "utf8"));
+  const writersHak = JSON.parse(await readFile(new URL("app/data/writers-hak.json", root), "utf8"));
+  const raw = JSON.parse(await readFile(new URL("translations/mlt_site_gohakka_raw_translations.json", root), "utf8"));
+  const reviewed = JSON.parse(await readFile(new URL("translations/mlt_site_hakka_reviewed_segments.json", root), "utf8"));
+  assert.deepEqual(Object.keys(siteHak).sort(), Object.keys(siteZh).sort());
+  assert.equal(writersHak.length, 39);
+  assert.deepEqual(writersHak.map(({ id }) => id), writers.map(({ id }) => id));
+  assert.equal(writersHak.reduce((sum, writer) => sum + writer.works.length, 0), 252);
+  assert.equal(raw.metadata.dialectCode, "sixian");
+  assert.equal(raw.metadata.engine, "model");
+  assert.equal(raw.translations.length, 388);
+  assert.ok(raw.translations.every((entry) => entry.httpStatus === 200 && entry.status === "success" && entry.translated));
+  assert.equal(reviewed.segments.length, raw.translations.length);
 });

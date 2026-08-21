@@ -1,14 +1,18 @@
 "use client";
 
 import { useRef } from "react";
+import type { Language } from "./page";
+import siteZh from "./data/site-copy.json";
+import siteHak from "./data/site-copy-hak.json";
 
 const photos = Array.from({ length: 52 }, (_, index) => ({
   number: index + 1,
   src: `/images/trail-gallery/trail-${String(index + 1).padStart(2, "0")}.jpg`,
 }));
 
-export default function TrailGallery() {
+export default function TrailGallery({ language }: { language: Language }) {
   const trackRef = useRef<HTMLDivElement>(null);
+  const c = language === "hak" ? siteHak : siteZh;
 
   const move = (direction: -1 | 1) => {
     const track = trackRef.current;
@@ -19,21 +23,21 @@ export default function TrailGallery() {
   return (
     <div className="gallery-carousel">
       <div className="gallery-controls">
-        <span>完整相簿 · 52 張</span>
+        <span>{c.galleryAlbum}</span>
       </div>
       <div className="gallery-viewport">
-        <button className="gallery-arrow gallery-arrow-previous" type="button" onClick={() => move(-1)} aria-label="瀏覽上一批步道照片">←</button>
+        <button className="gallery-arrow gallery-arrow-previous" type="button" onClick={() => move(-1)} aria-label={c.galleryPrevious}>←</button>
         <div
           ref={trackRef}
           className="gallery-track"
           role="region"
-          aria-label="苗栗文學步道52張實景照片"
+          aria-label={c.galleryRegion}
         >
           {photos.map((photo) => (
             <figure key={photo.src}>
               <img
                 src={photo.src}
-                alt={`苗栗文學步道實景照片，第 ${photo.number} 張`}
+                alt={c.galleryPhotoAlt.replace("{number}", String(photo.number))}
                 loading={photo.number <= 3 ? "eager" : "lazy"}
                 decoding="async"
               />
@@ -41,9 +45,9 @@ export default function TrailGallery() {
             </figure>
           ))}
         </div>
-        <button className="gallery-arrow gallery-arrow-next" type="button" onClick={() => move(1)} aria-label="瀏覽下一批步道照片">→</button>
+        <button className="gallery-arrow gallery-arrow-next" type="button" onClick={() => move(1)} aria-label={c.galleryNext}>→</button>
       </div>
-      <p className="gallery-hint">拖曳、滑動或使用左右按鈕瀏覽完整相簿</p>
+      <p className="gallery-hint">{c.galleryHint}</p>
     </div>
   );
 }

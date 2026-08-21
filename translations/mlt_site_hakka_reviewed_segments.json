@@ -1,0 +1,3117 @@
+{
+  "metadata": {
+    "provider": "GoHakka",
+    "dialectCode": "sixian",
+    "mode": "natural",
+    "engine": "model",
+    "reviewedAt": "2026-08-21T01:18:00.297Z",
+    "sharedRules": "C:/Users/User/.codex/shared/hakka",
+    "segmentCount": 388
+  },
+  "segments": [
+    {
+      "id": "site.brandHomeLabel",
+      "scope": "site",
+      "source": "苗栗文學步道首頁",
+      "raw": "苗栗文學步道首頁",
+      "reviewed": "苗栗文學步道首頁",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.brandName",
+      "scope": "site",
+      "source": "苗栗文學步道",
+      "raw": "苗栗文學步道",
+      "reviewed": "苗栗文學步道",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.brandStatus",
+      "scope": "site",
+      "source": "推廣協會（籌備中）",
+      "raw": "推廣協會（籌備中）",
+      "reviewed": "推廣協會（籌備中）",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.navLabel",
+      "scope": "site",
+      "source": "主要選單",
+      "raw": "主要選單",
+      "reviewed": "主要選單",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.navNews",
+      "scope": "site",
+      "source": "最新消息",
+      "raw": "最新个消息",
+      "reviewed": "最新个消息",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.navArchive",
+      "scope": "site",
+      "source": "作家資料庫",
+      "raw": "作家資料庫",
+      "reviewed": "作家資料庫",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.navStory",
+      "scope": "site",
+      "source": "步道緣起",
+      "raw": "步道緣起",
+      "reviewed": "步道緣起",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.navVisit",
+      "scope": "site",
+      "source": "交通指引",
+      "raw": "交通指引",
+      "reviewed": "交通指引",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.navAssociation",
+      "scope": "site",
+      "source": "關於協會",
+      "raw": "有關協會",
+      "reviewed": "有關協會",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.navFounders",
+      "scope": "site",
+      "source": "發起人",
+      "raw": "發起人",
+      "reviewed": "發起人",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.navJoin",
+      "scope": "site",
+      "source": "加入我們",
+      "raw": "分𠊎加入𫣆",
+      "reviewed": "加入𫣆",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.languageLabel",
+      "scope": "site",
+      "source": "網站語言",
+      "raw": "網站語言",
+      "reviewed": "網站語言",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.languageMandarin",
+      "scope": "site",
+      "source": "華語",
+      "raw": "Chineselanguage",
+      "reviewed": "華語",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.languageHakka",
+      "scope": "site",
+      "source": "客語",
+      "raw": "客話",
+      "reviewed": "客話",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.heroAlt",
+      "scope": "site",
+      "source": "國立聯合大學八甲校區湖畔的苗栗文學步道入口、湖景與校舍",
+      "raw": "國立聯合大學八甲校區湖畔个苗栗文學步道入口、湖景同學寮",
+      "reviewed": "國立聯合大學八甲校區湖畔个苗栗文學步道入口、湖景摎校舍",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.heroTitle",
+      "scope": "site",
+      "source": "讓文學，走進地方的風景。",
+      "raw": "分文學，行落所在个風景。",
+      "reviewed": "分文學，行落所在个風景。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.heroDescription",
+      "scope": "site",
+      "source": "沿著聯大湖畔，閱讀橫跨古典詩、小說、散文與新詩的苗栗文學。",
+      "raw": "跈等聯大湖畔，閱讀橫跨古典詩、小說、散文同新詩个苗栗文學。",
+      "reviewed": "跈等聯大湖畔，閱讀橫跨古典詩、小說、散文同新詩个苗栗文學。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.heroAction",
+      "scope": "site",
+      "source": "探索作家資料庫",
+      "raw": "探索作家資料庫",
+      "reviewed": "探索作家資料庫",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.heroStatsLabel",
+      "scope": "site",
+      "source": "資料庫統計",
+      "raw": "資料庫統計",
+      "reviewed": "資料庫統計",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.heroStatCatalog",
+      "scope": "site",
+      "source": "網站名錄",
+      "raw": "網站名錄",
+      "reviewed": "網站名錄",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.heroStatGenres",
+      "scope": "site",
+      "source": "種文類",
+      "raw": "種文類",
+      "reviewed": "種文類",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.heroStatTrail",
+      "scope": "site",
+      "source": "步道現地作家",
+      "raw": "這條步道係當地作家",
+      "reviewed": "步道現地作家",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.photoCredit",
+      "scope": "site",
+      "source": "影像／苗栗文學步道實景照片・主視覺調色設計",
+      "raw": "影像／苗栗文學步道實景相片・主視覺調色設計",
+      "reviewed": "影像／苗栗文學步道實景相片・主視覺調色設計",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.newsLabel",
+      "scope": "site",
+      "source": "最新消息 · 2026.08",
+      "raw": "最新个消息 · 2026.08",
+      "reviewed": "最新个消息 · 2026.08",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.newsText",
+      "scope": "site",
+      "source": "作家資料庫全面清查版、52張步道實景相簿與大學湖 Google 地圖指引已上線。",
+      "raw": "作家資料庫全面清查版、52張步道實景相簿摎大學湖 Google 地圖指引已上線。",
+      "reviewed": "作家資料庫全面清查版、52張步道實景相簿摎大學湖 Google 地圖指引已上線。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.archiveTitle",
+      "scope": "site",
+      "source": "苗栗作家資料庫",
+      "raw": "苗栗作家資料庫",
+      "reviewed": "苗栗作家資料庫",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.archiveVersion",
+      "scope": "site",
+      "source": "全面清查版 2026.08",
+      "raw": "全面清查版 2026.08",
+      "reviewed": "全面清查版 2026.08",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.archiveDescription",
+      "scope": "site",
+      "source": "39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。",
+      "raw": "39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。",
+      "reviewed": "39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.archiveDownload",
+      "scope": "site",
+      "source": "下載完整作家資料 Excel",
+      "raw": "下載完整作家資料 Excel",
+      "reviewed": "下載完整作家資料 Excel",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.storyTitle",
+      "scope": "site",
+      "source": "從校慶啟動規劃，走出一條文學的路。",
+      "raw": "對校慶啟動規劃，行出一條文學个路。",
+      "reviewed": "由校慶啟動規劃，行出一條文學个路。",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.storyParagraph1",
+      "scope": "site",
+      "source": "2022年，國立聯合大學於校慶期間啟動苗栗文學步道規劃。為強化在地連結與人文教育，校友募款、學者與校內團隊共同參與，在八甲校區大學湖畔建置約六百公尺的苗栗文學步道。",
+      "raw": "2022年，國立聯合大學在校慶期間啟動苗栗文學步道打算。為強化在地連結摎人文教育，校友拈錢、學者同校內團隊共下參與，在八甲校區大學湖畔建置約六百公尺个苗栗文學步道。",
+      "reviewed": "2022年，國立聯合大學在校慶期間啟動苗栗文學步道打算。為強化在地連結摎人文教育，校友拈錢、學者同校內團隊共下參與，在八甲校區大學湖畔建置約六百公尺个苗栗文學步道。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.storyParagraph2",
+      "scope": "site",
+      "source": "諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。",
+      "raw": "諮詢小組以「書寫苗栗、「作品優良」為選錄原則，兼顧清代、日本時代摎戰後，涵蓋古典詩、小說、散文、新詩、戲劇、細人文學同報導文學。因為授權同聯絡个原因，這地最尾表現38位作家个創作。",
+      "reviewed": "諮詢小組以「書寫苗栗、作品優良」做選錄原則，兼顧清代、日本時代摎戰後，涵蓋古典詩、小說、散文、新詩、戲劇、細人文學摎報導文學。因為授權摎聯絡个因素，現地最尾呈現38位作家个作品。",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.storyNewsLink",
+      "scope": "site",
+      "source": "客新聞專題",
+      "raw": "客語新聞專題",
+      "reviewed": "客新聞專題",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.storyVideoLink",
+      "scope": "site",
+      "source": "步道參考影片",
+      "raw": "步道參考影片",
+      "reviewed": "步道參考影片",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.storyMeters",
+      "scope": "site",
+      "source": "公尺的閱讀風景",
+      "raw": "公尺个閱讀風景",
+      "reviewed": "公尺个閱讀風景",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.storyStart",
+      "scope": "site",
+      "source": "校慶規劃啟動",
+      "raw": "校慶規劃開始了",
+      "reviewed": "校慶規劃開始了",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.storyWriters",
+      "scope": "site",
+      "source": "位作家作品落地",
+      "raw": "這個作家个創作落地",
+      "reviewed": "位作家个作品落地",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.storyNow",
+      "scope": "site",
+      "source": "數位資料庫延伸",
+      "raw": "數位資料庫延伸",
+      "reviewed": "數位資料庫延伸",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.galleryTitle",
+      "scope": "site",
+      "source": "文字就在湖畔發生",
+      "raw": "文字就在湖脣發生",
+      "reviewed": "文字就在湖脣發生",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.galleryDescription",
+      "scope": "site",
+      "source": "作品以玻璃噴砂、大理石雕刻、金屬板與水泥基座等形式，融入八甲校區的湖光與綠意。",
+      "raw": "作品用玻璃噴砂、大理石雕刻、金屬板摎紅毛泥石墩等形式，融入八甲校區个湖光同綠意。",
+      "reviewed": "作品用玻璃噴砂、大理石雕刻、金屬板摎紅毛泥石墩等形式，融入八甲校區个湖光同綠意。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.galleryAlbum",
+      "scope": "site",
+      "source": "完整相簿 · 52 張",
+      "raw": "完整相簿 · 52 張",
+      "reviewed": "完整相簿 · 52 張",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.galleryRegion",
+      "scope": "site",
+      "source": "苗栗文學步道52張實景照片",
+      "raw": "苗栗文學步道52張實景相",
+      "reviewed": "苗栗文學步道52張實景相片",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.galleryPrevious",
+      "scope": "site",
+      "source": "瀏覽上一批步道照片",
+      "raw": "瀏覽頭一批步道相片",
+      "reviewed": "瀏覽頭一批步道相片",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.galleryNext",
+      "scope": "site",
+      "source": "瀏覽下一批步道照片",
+      "raw": "瀏覽下二批步道相片",
+      "reviewed": "瀏覽下一批步道相片",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.galleryPhotoAlt",
+      "scope": "site",
+      "source": "苗栗文學步道實景照片，第 {number} 張",
+      "raw": "苗栗文學步道實景相片，第 {number} 張",
+      "reviewed": "苗栗文學步道實景相片，第 {number} 張",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.galleryHint",
+      "scope": "site",
+      "source": "拖曳、滑動或使用左右按鈕瀏覽完整相簿",
+      "raw": "搖啊搖仔、滑動抑係使用左右按鈕瀏覽完整相簿",
+      "reviewed": "拖曳、滑動抑係使用左右按鈕瀏覽完整相簿",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.associationTitle",
+      "scope": "site",
+      "source": "守護一條步道，也守護地方的記憶。",
+      "raw": "守護一條步道，也守護地方个記憶。",
+      "reviewed": "守護一條步道，也守護地方个記憶。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.associationDescription",
+      "scope": "site",
+      "source": "「台灣苗栗文學步道推廣協會」正在籌備中。我們期待結合校園、社區、文化工作者與社會各界，讓苗栗文學成為可閱讀、可行走、可傳承的公共文化資產。",
+      "raw": "「台灣苗栗文學步道推廣協會」當在該籌備中。𠊎兜期待結合校園、社區、文化工作者摎社會各界，分苗栗文學變到可閱讀、行得路、可傳承个公共文化資產。",
+      "reviewed": "「台灣苗栗文學步道推廣協會」當在該籌備中。𫣆期待結合校園、社區、文化工作者摎社會各界，分苗栗文學變到可閱讀、行得路、可傳承个公共文化資產。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "site.associationQuote",
+      "scope": "site",
+      "source": "讓文學走進校園，走進地方，走進生活。",
+      "raw": "分文學走入校園，行落所在，行落生活。",
+      "reviewed": "分文學走入校園，行落所在，行落生活。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.directionEducationTitle",
+      "scope": "site",
+      "source": "文學教育",
+      "raw": "文學教育",
+      "reviewed": "文學教育",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.directionEducationDetail",
+      "scope": "site",
+      "source": "講座、閱讀、賞析與教師研習",
+      "raw": "講座、讀書、賞析同教書先生研習",
+      "reviewed": "講座、讀書、賞析同教書先生研習",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.directionGuideTitle",
+      "scope": "site",
+      "source": "在地導覽",
+      "raw": "在地導覽",
+      "reviewed": "在地導覽",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.directionGuideDetail",
+      "scope": "site",
+      "source": "培訓志工，串聯校園與社區",
+      "raw": "培訓志工，聯結校園同社區",
+      "reviewed": "培訓志工，聯結校園同社區",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.directionDigitalTitle",
+      "scope": "site",
+      "source": "數位典藏",
+      "raw": "數位典藏",
+      "reviewed": "數位典藏",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.directionDigitalDetail",
+      "scope": "site",
+      "source": "作家資料庫、QR Code 與語音導覽",
+      "raw": "作家資料庫、QR Code 同語音導覽",
+      "reviewed": "作家資料庫、QR Code 同語音導覽",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.directionLocalTitle",
+      "scope": "site",
+      "source": "地方共創",
+      "raw": "地方共創",
+      "reviewed": "地方共創",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.directionLocalDetail",
+      "scope": "site",
+      "source": "連結作家、文化工作者與地方團隊",
+      "raw": "連結作家、文化工作者同地方團隊",
+      "reviewed": "連結作家、文化工作者同地方團隊",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.foundersTitle",
+      "scope": "site",
+      "source": "發起人名單",
+      "raw": "發起人名單",
+      "reviewed": "發起人名單",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.foundersNote",
+      "scope": "site",
+      "source": "依姓氏筆畫排列；僅列華語姓名。",
+      "raw": "照姓氏筆畫排列；僅列華語名仔。",
+      "reviewed": "照姓氏筆畫排列；僅列華語名仔。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.charterTitle",
+      "scope": "site",
+      "source": "協會章程草案摘要",
+      "raw": "協會章程草案摘要",
+      "reviewed": "協會章程草案摘要",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.charter1Title",
+      "scope": "site",
+      "source": "宗旨與區域",
+      "raw": "宗旨佮區域",
+      "reviewed": "宗旨摎區域",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.charter1Text",
+      "scope": "site",
+      "source": "以苗栗縣為組織區域，推廣在地文學、人文教育、步道維護、文化觀光與地方創生。",
+      "raw": "以苗栗縣為組織區域，推廣在地文學、人文教育、步道維護、文化觀光同地方創生。",
+      "reviewed": "以苗栗縣為組織區域，推廣在地文學、人文教育、步道維護、文化觀光同地方創生。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.charter2Title",
+      "scope": "site",
+      "source": "會員與治理",
+      "raw": "會員同治理",
+      "reviewed": "會員同治理",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.charter2Text",
+      "scope": "site",
+      "source": "規劃個人、團體與贊助會員；會員大會為最高權力機構，設理事9人、監事3人。",
+      "raw": "打算個人、團體摎贊助會員；會員大會為最高權力機構，設理事9人、監事3人。",
+      "reviewed": "打算個人、團體摎贊助會員；會員大會為最高權力機構，設理事9人、監事3人。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.charter3Title",
+      "scope": "site",
+      "source": "四類委員會",
+      "raw": "四類委員會",
+      "reviewed": "四類委員會",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.charter3Text",
+      "scope": "site",
+      "source": "步道規劃、教育推廣、導覽與志工發展、數位與出版，依業務需要推進工作。",
+      "raw": "步道規劃、教育推廣、導覽摎志工發展、數位與出版，照業務需要推進工作。",
+      "reviewed": "步道規劃、教育推廣、導覽摎志工發展、數位與出版，照業務需要推進工作。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.charter4Title",
+      "scope": "site",
+      "source": "財務與公益",
+      "raw": "財務同公益",
+      "reviewed": "財務同公益",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.charter4Text",
+      "scope": "site",
+      "source": "經費來自會費、捐款、補助與活動；解散後剩餘財產不得分配會員，歸屬公益用途。",
+      "raw": "經費來自會費、捐款這種事情、補助參活動；解散後剩餘財產毋得分配會員，歸屬公益用途。",
+      "reviewed": "經費來自會費、捐款、補助摎活動；解散後剩餘財產毋得分配會員，歸屬公益用途。",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.charterNote",
+      "scope": "site",
+      "source": "本摘要依使用者提供的26條章程草案整理；正式版本須經會員大會通過並報主管機關核備。",
+      "raw": "本摘要根據使用者提供个26條章程草案整理；正式版本須經會員大會通過並報主管機關核備。",
+      "reviewed": "本摘要根據使用者提供个26條章程草案整理；正式版本須經會員大會通過並報主管機關核備。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.sourceTitle",
+      "scope": "site",
+      "source": "每一筆資料，都應該找得到來處。",
+      "raw": "逐條資料，都應該尋得著來處。",
+      "reviewed": "逐條資料，都應該尋得著來處。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.sourceParagraph1",
+      "scope": "site",
+      "source": "本資料庫是可持續校訂的全面清查版。內容優先採用文化部國家文化記憶庫、國立臺灣文學館、國家圖書館、客家委員會、地方政府、正式出版及學術研究資料。",
+      "raw": "本資料庫係做得持續校訂个全面清查版。內容優先採用文化部國家文化記憶庫、國立臺灣文學館、國家圖書館、客家委員會、地方官府、正式出版摎學術研究資料。",
+      "reviewed": "本資料庫係做得持續校訂个全面清查版。內容優先採用文化部國家文化記憶庫、國立臺灣文學館、國家圖書館、客家委員會、地方官府、正式出版摎學術研究資料。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.sourceParagraph2",
+      "scope": "site",
+      "source": "本地參考文獻包括使用者提供的《客家文化事典》與苗栗文學步道相簿。姓名、年代或版本有異說時，卡片中直接註明；目前收錄的252筆作品是「已查證主要作品」，作家作品極多或公開書目有限時不宣稱完整全集。",
+      "raw": "本地參考文獻包括使用者提供个《客家文化事典》同苗栗文學步道相簿。姓名、年代抑版本有異講時，卡片內直接註明；目前收錄个252筆作品係「已查證主要作品」，作家創作盡多或公開書目有限時毋宣稱完整全集。",
+      "reviewed": "本地參考文獻包括使用者提供个《客家文化事典》同苗栗文學步道相簿。姓名、年代抑版本有異講時，卡片內直接註明；目前收錄个252筆作品係「已查證主要作品」，作家創作盡多或公開書目有限時毋宣稱完整全集。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.sourceTagOfficial",
+      "scope": "site",
+      "source": "官方資料優先",
+      "raw": "官廳資料優先",
+      "reviewed": "官廳資料優先",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.sourceTagLinks",
+      "scope": "site",
+      "source": "逐筆附連結",
+      "raw": "逐筆附連結",
+      "reviewed": "逐筆附連結",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.sourceTagVariants",
+      "scope": "site",
+      "source": "異說明確註記",
+      "raw": "異說明確註記",
+      "reviewed": "異說明確註記",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.sourceTagWorks",
+      "scope": "site",
+      "source": "252筆作品索引",
+      "raw": "252筆作品索引",
+      "reviewed": "252筆作品索引",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.joinTitle",
+      "scope": "site",
+      "source": "一起，為苗栗留下更深的人文風景。",
+      "raw": "共下，為苗栗留下較深个人文風景。",
+      "reviewed": "共下，為苗栗留下較深个人文風景。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.joinText",
+      "scope": "site",
+      "source": "我們正在招募發起人會員、籌備委員、一般會員、志工夥伴與顧問。歡迎教師、校友、文化工作者與關心苗栗的朋友加入。",
+      "raw": "𠊎兜正在招募發起人會員、籌備委員、一般會員、志工伴仔摎顧問。歡迎先生、校友、文化工作者同關心苗栗个朋友加入。",
+      "reviewed": "𫣆正在招募發起人會員、籌備委員、一般會員、志工伴仔摎顧問。歡迎先生、校友、文化工作者同關心苗栗个朋友加入。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "site.joinAction",
+      "scope": "site",
+      "source": "填寫「加入我們」表單",
+      "raw": "填寫「加入𫣆」表單",
+      "reviewed": "填寫「加入𫣆」表單",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.joinNote",
+      "scope": "site",
+      "source": "表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。",
+      "raw": "表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。",
+      "reviewed": "表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.visitTitle",
+      "scope": "site",
+      "source": "前往苗栗文學步道",
+      "raw": "去苗栗文學步道",
+      "reviewed": "去苗栗文學步道",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.visitText",
+      "scope": "site",
+      "source": "步道位於國立聯合大學第二（八甲）校區大學湖畔。抵達校區後，請循大學湖方向步行，即可看見環湖設置的文學作品。",
+      "raw": "步道位於國立聯合大學第二（八甲）校區大學湖脣。到校區後，請循大學湖方向步行，就做得看著環湖設置个文學作品。",
+      "reviewed": "步道位於國立聯合大學第二（八甲）校區大學湖脣。到校區後，請循大學湖方向步行，就做得看著環湖設置个文學作品。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.visitAddress",
+      "scope": "site",
+      "source": "苗栗市南勢里聯大2號 · 國立聯合大學八甲校區大學湖",
+      "raw": "苗栗街項南勢里聯大2號 · 國立聯合大學八甲校區大學湖",
+      "reviewed": "苗栗市南勢里聯大2號 · 國立聯合大學八甲校區大學湖",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.visitMapAction",
+      "scope": "site",
+      "source": "使用 Google Maps 導航",
+      "raw": "用 Google Maps 指路",
+      "reviewed": "用 Google Maps 指路",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.visitSchoolLink",
+      "scope": "site",
+      "source": "聯大校址資訊",
+      "raw": "聯大校址資訊",
+      "reviewed": "聯大校址資訊",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.visitMapTitle",
+      "scope": "site",
+      "source": "苗栗文學步道—國立聯合大學大學湖 Google 地圖",
+      "raw": "苗栗文學步道—國立聯合大學大學湖 Google 地圖",
+      "reviewed": "苗栗文學步道—國立聯合大學大學湖 Google 地圖",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.footerNote",
+      "scope": "site",
+      "source": "本網站為協會籌備版 · 作家資料庫持續校訂中",
+      "raw": "本網站為協會籌備版 · 作家資料庫持續校訂中",
+      "reviewed": "本網站為協會籌備版 · 作家資料庫持續校訂中",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.visitorAlt",
+      "scope": "site",
+      "source": "到訪人次；每次重新載入頁面加一",
+      "raw": "來參觀个人次；逐擺重新載入頁面加一",
+      "reviewed": "來參觀个人次；逐擺重新載入頁面加一",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerFilterLabel",
+      "scope": "site",
+      "source": "依文類篩選",
+      "raw": "照文類篩選",
+      "reviewed": "照文類篩選",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerSearchLabel",
+      "scope": "site",
+      "source": "搜尋作家或作品",
+      "raw": "尋作家抑就作品",
+      "reviewed": "尋作家抑係作品",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.writerSearchPlaceholder",
+      "scope": "site",
+      "source": "搜尋作家、別名或作品…",
+      "raw": "蒐上蒐下作家、別名抑係作品…",
+      "reviewed": "尋作家、別名抑係作品…",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.writerClearSearch",
+      "scope": "site",
+      "source": "清除搜尋",
+      "raw": "消忒蒐上蒐下",
+      "reviewed": "清除搜尋",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.writerShowing",
+      "scope": "site",
+      "source": "顯示 {shown} / {total} 位作家",
+      "raw": "顯示 {shown} / {total} 該個作家",
+      "reviewed": "顯示 {shown} / {total} 位作家",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.writerWorkCount",
+      "scope": "site",
+      "source": "共收錄 {count} 筆已查證主要作品",
+      "raw": "總共錄取 {count} 筆已查證主要作品",
+      "reviewed": "共下收錄 {count} 筆已查證主要作品",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.writerFeatured",
+      "scope": "site",
+      "source": "代表作品",
+      "raw": "代表作品",
+      "reviewed": "代表作品",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerNoResults",
+      "scope": "site",
+      "source": "找不到相符資料",
+      "raw": "尋無相應資料",
+      "reviewed": "尋無相應資料",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerClearFilter",
+      "scope": "site",
+      "source": "清除篩選",
+      "raw": "攪穀",
+      "reviewed": "清除篩選",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
+    },
+    {
+      "id": "site.writerClose",
+      "scope": "site",
+      "source": "關閉作家資料",
+      "raw": "關等作家資料",
+      "reviewed": "關等作家資料",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerBio",
+      "scope": "site",
+      "source": "生平簡介",
+      "raw": "生平簡介",
+      "reviewed": "生平簡介",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerWorks",
+      "scope": "site",
+      "source": "已查證主要作品",
+      "raw": "已查證主要作品",
+      "reviewed": "已查證主要作品",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerWorksNote",
+      "scope": "site",
+      "source": "依目前可公開查核之官方、館藏、出版與學術書目整理；作品極多者採主要作品選列，不宣稱完整全集。",
+      "raw": "照目前可公開查核个官廳、館藏、出版同學術書目整理；作品盡多者採主要作品選列，毋宣稱完整全集。",
+      "reviewed": "照目前可公開查核个官廳、館藏、出版同學術書目整理；作品盡多者採主要作品選列，毋宣稱完整全集。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerStyle",
+      "scope": "site",
+      "source": "文學風格",
+      "raw": "文學風格",
+      "reviewed": "文學風格",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerSources",
+      "scope": "site",
+      "source": "資料來源與連結",
+      "raw": "資料來源同連結",
+      "reviewed": "資料來源同連結",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.writerSourceNote",
+      "scope": "site",
+      "source": "另交叉參考使用者提供之《客家文化事典》文學類條目與苗栗文學步道名錄；年代或版本有異說者已在卡片內標示。",
+      "raw": "另交叉參考使用者提供之《客家文化事典》文學類條目摎苗栗文學步道名錄；年代抑版本有異講者既經在卡片肚標示。",
+      "reviewed": "另交叉參考使用者提供之《客家文化事典》文學類條目摎苗栗文學步道名錄；年代抑版本有異講者既經在卡片肚標示。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.genreAll",
+      "scope": "site",
+      "source": "全部",
+      "raw": "總下",
+      "reviewed": "總下",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.genreClassical",
+      "scope": "site",
+      "source": "古典文學",
+      "raw": "古典文學",
+      "reviewed": "古典文學",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.genreNovel",
+      "scope": "site",
+      "source": "小說",
+      "raw": "小說",
+      "reviewed": "小說",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.genreProse",
+      "scope": "site",
+      "source": "散文",
+      "raw": "散文",
+      "reviewed": "散文",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.genrePoetry",
+      "scope": "site",
+      "source": "新詩",
+      "raw": "新詩",
+      "reviewed": "新詩",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.genreDrama",
+      "scope": "site",
+      "source": "劇作",
+      "raw": "劇作",
+      "reviewed": "劇作",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.genreChildren",
+      "scope": "site",
+      "source": "兒童文學",
+      "raw": "細人仔文學",
+      "reviewed": "細人仔文學",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.genreReportage",
+      "scope": "site",
+      "source": "報導文學",
+      "raw": "報導文學",
+      "reviewed": "報導文學",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "site.translationCredit",
+      "scope": "site",
+      "source": "客語翻譯使用 GoHakka 自然翻譯模式，並依共用客語規則校訂。",
+      "raw": "客語翻譯使用 GoHakka 自然翻譯模式，並照共用客語規則校訂。",
+      "reviewed": "客語翻譯使用 GoHakka 自然翻譯模式，並照共用客語規則校訂。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.ruan-caiwen.bio",
+      "scope": "writer:ruan-caiwen",
+      "source": "清代福建漳浦人。1715年調任臺灣北路營參將，在臺整飭吏治、撫恤民眾並捐俸興學；其臺灣題材詩文留下清初地方社會的珍貴觀察。",
+      "raw": "清代福建漳浦人。1715年調任臺灣北路營參將，在臺整飭吏治、體恤民眾並捐俸興學；其臺灣題材詩文留下清初地方社會个珍貴觀察。",
+      "reviewed": "清代福建漳浦人。1715年調任臺灣北路營參將，在臺整飭吏治、體恤民眾並捐俸興學；其臺灣題材詩文留下清初地方社會个珍貴觀察。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.ruan-caiwen.workIntro",
+      "scope": "writer:ruan-caiwen",
+      "source": "悼祭流落臺灣、死於異鄉而無人奉祀者的祭文，也反映作者在任期間對地方民生的關懷。",
+      "raw": "悼祭流落臺灣、死在異鄉而無人服祀者个祭文，乜反映作者在任期間對地方民生个關懷。",
+      "reviewed": "悼祭流落臺灣、死在異鄉而無人服祀者个祭文，乜反映作者在任期間對地方民生个關懷。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.ruan-caiwen.style",
+      "scope": "writer:ruan-caiwen",
+      "source": "以官員親歷寫地方風物與民瘼，文字兼具紀實、憫恤與教化色彩。",
+      "raw": "以官員親歷寫地方風物摎民瘼，文字兼具紀實、體恤與教化色彩。",
+      "reviewed": "以官員親歷寫地方風物摎民瘼，文字兼具紀實、體恤與教化色彩。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.ruan-caiwen.relation",
+      "scope": "writer:ruan-caiwen",
+      "source": "福建漳浦｜曾任臺灣北路營參將",
+      "raw": "福建漳浦｜曾任臺灣北路營參將",
+      "reviewed": "福建漳浦｜曾任臺灣北路營參將",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.huang-qingtai.bio",
+      "scope": "writer:huang-qingtai",
+      "source": "祖籍廣東鎮平，先後居於鳳山與頭份，任武職三十餘年。1822年與海盜作戰負傷，未及赴任新職即卒；史料稱其好學能詩，有儒將之風。",
+      "raw": "祖籍廣東鎮平，先後住佇鳳山摎頭份，任武職三十過年。1822年摎海賊作戰負傷，未及赴任新職即卒；史料講佢好學能詩，有儒將之風。",
+      "reviewed": "祖籍廣東鎮平，先後住佇鳳山摎頭份，任武職三十過年。1822年摎海賊作戰負傷，未及赴任新職即卒；史料講佢好學能詩，有儒將之風。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.huang-qingtai.workIntro",
+      "scope": "writer:huang-qingtai",
+      "source": "現存四首詩之一，以行旅所見書寫臺灣河川地景；另存〈烏水溪〉、〈九日登八卦山〉等作。",
+      "raw": "現存四首詩之一，用旅行所見書寫臺灣河川地景；另存〈烏水溪〉、〈九日登八卦山〉等作。",
+      "reviewed": "現存四首詩之一，用旅行所見書寫臺灣河川地景；另存〈烏水溪〉、〈九日登八卦山〉等作。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.huang-qingtai.style",
+      "scope": "writer:huang-qingtai",
+      "source": "以軍旅行履結合臺灣山川紀遊，筆調清健。",
+      "raw": "以軍旅行履結合臺灣山川紀遊，筆調清健。",
+      "reviewed": "以軍旅行履結合臺灣山川紀遊，筆調清健。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.huang-qingtai.relation",
+      "scope": "writer:huang-qingtai",
+      "source": "苗栗頭份｜曾居頭份",
+      "raw": "苗栗頭份｜曾居頭份",
+      "reviewed": "苗栗頭份｜曾居頭份",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.li-ying.bio",
+      "scope": "writer:li-ying",
+      "source": "清代苗栗重要教育家與古典詩人，1782年生，後定居西湖並以教讀維生，形成三湖村黎氏塾師世家。國家文化記憶庫同一條目並存1833與1843兩種卒年記載，條目考證傾向1843年。",
+      "raw": "清代苗栗重要教育家摎古典詩人，1782年出世，後定居西湖並以教讀討食，形成三湖村黎屋塾師世家。國家文化記憶庫同一條目並存1833摎1843兩種卒年記載，條目考證傾向1843年。",
+      "reviewed": "清代苗栗重要教育家摎古典詩人，1782年出世，後定居西湖並以教讀討食，形成三湖村黎屋塾師世家。國家文化記憶庫同一條目並存1833摎1843兩種卒年記載，條目考證傾向1843年。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-ying.workIntro",
+      "scope": "writer:li-ying",
+      "source": "國家文化記憶庫以此詩集標示其古典詩創作脈絡；作品與版本資訊仍需進一步校勘。",
+      "raw": "國家文化記憶庫以此詩集標示其古典詩創作線脈；作品摎版本資訊還係愛進一步校勘。",
+      "reviewed": "國家文化記憶庫以此詩集標示其古典詩創作線脈；作品摎版本資訊還係愛進一步校勘。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-ying.style",
+      "scope": "writer:li-ying",
+      "source": "以傳統漢詩與地方教育實踐相連；更細緻的風格判定待作品校勘後補充。",
+      "raw": "用傳統漢詩同地方教育實踐相連；較細緻个風格判定待作品校勘後補充。",
+      "reviewed": "用傳統漢詩同地方教育實踐相連；較細緻个風格判定待作品校勘後補充。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-ying.relation",
+      "scope": "writer:li-ying",
+      "source": "苗栗西湖｜定居三湖村",
+      "raw": "苗栗西湖｜定居三湖村",
+      "reviewed": "苗栗西湖｜定居三湖村",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.li-ying.works.0.note",
+      "scope": "writer:li-ying:work",
+      "source": "據國家文化記憶庫條目",
+      "raw": "據國家文化記憶庫條目",
+      "reviewed": "據國家文化記憶庫條目",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-ying.works.1.note",
+      "scope": "writer:li-ying:work",
+      "source": "現存手稿題名；收詩140首，其中128首可歸於黎瑩",
+      "raw": "現存手稿題名；收詩140首，其中128首可歸於黎瑩",
+      "reviewed": "現存手稿題名；收詩140首，其中128首可歸於黎瑩",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-ziguang.bio",
+      "scope": "writer:wu-ziguang",
+      "source": "清代文人與教育家，1837年起多次渡臺，後定居苗栗銅鑼雙峰山，設草堂授徒。其著述兼具詩文、地方紀事與教育史價值。",
+      "raw": "清代讀書人同教育家，1837年起當多擺渡臺，後定居苗栗銅鑼雙峰山，設草堂授徒。其著述兼具詩文、地方紀事同教育史價值。",
+      "reviewed": "清代讀書人同教育家，1837年起當多擺渡臺，後定居苗栗銅鑼雙峰山，設草堂授徒。其著述兼具詩文、地方紀事同教育史價值。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-ziguang.workIntro",
+      "scope": "writer:wu-ziguang",
+      "source": "後人自其稿本輯出與臺灣史跡相關的文字，收入《臺灣文獻叢刊》，是研究清代臺灣地方社會的重要材料。",
+      "raw": "後人自其稿本輯出同臺灣史跡相關个文字，收入《臺灣文獻叢刊》，係研究清代臺灣地方社會个重要材料。",
+      "reviewed": "後人自其稿本輯出同臺灣史跡相關个文字，收入《臺灣文獻叢刊》，係研究清代臺灣地方社會个重要材料。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-ziguang.style",
+      "scope": "writer:wu-ziguang",
+      "source": "兼採紀事、議論與詩文，重視地方文教與民生觀察。",
+      "raw": "兼採紀事、議論同詩文，重視地方文教參民生觀察。",
+      "reviewed": "兼採紀事、議論同詩文，重視地方文教參民生觀察。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-ziguang.relation",
+      "scope": "writer:wu-ziguang",
+      "source": "苗栗銅鑼｜定居雙峰山",
+      "raw": "苗栗銅鑼｜定居雙峰山",
+      "reviewed": "苗栗銅鑼｜定居雙峰山",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.wu-ziguang.works.0.note",
+      "scope": "writer:wu-ziguang:work",
+      "source": "18卷",
+      "raw": "18卷",
+      "reviewed": "18卷",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-ziguang.works.1.note",
+      "scope": "writer:wu-ziguang:work",
+      "source": "1卷",
+      "raw": "1卷",
+      "reviewed": "1卷",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-ziguang.works.2.note",
+      "scope": "writer:wu-ziguang:work",
+      "source": "16卷",
+      "raw": "16卷",
+      "reviewed": "16卷",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-ziguang.works.3.note",
+      "scope": "writer:wu-ziguang:work",
+      "source": "12卷",
+      "raw": "12卷",
+      "reviewed": "12卷",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-weiyuan.bio",
+      "scope": "writer:zhang-weiyuan",
+      "source": "清代苗栗地方文人，1871年中進士，與苗栗地方文教及張氏家族史密切相關。現存創作主要見於後人整理的詩稿與地方文獻。",
+      "raw": "清代苗栗地方讀書人，1871年進士，同苗栗地方文教及張氏家族史密切相關。現存創作主要見於後人整理个詩稿摎地方文獻。",
+      "reviewed": "清代苗栗地方讀書人，1871年進士，同苗栗地方文教及張氏家族史密切相關。現存創作主要見於後人整理个詩稿摎地方文獻。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-weiyuan.workIntro",
+      "scope": "writer:zhang-weiyuan",
+      "source": "後人整理其漢詩而成，是認識其古典詩創作的主要文獻。",
+      "raw": "後人整理其漢詩而成，係認識其古典詩創作个主要文獻。",
+      "reviewed": "後人整理其漢詩而成，係認識其古典詩創作个主要文獻。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-weiyuan.style",
+      "scope": "writer:zhang-weiyuan",
+      "source": "傳統近體詩寫作；細部風格不在資料不足時逕作推論。",
+      "raw": "傳統近體詩著作；細部風格毋在資料毋罅完全該下逕作推論。",
+      "reviewed": "傳統近體詩著作；細部風格毋在資料毋罅完全該下逕作推論。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-weiyuan.relation",
+      "scope": "writer:zhang-weiyuan",
+      "source": "苗栗頭份｜辭官後定居",
+      "raw": "苗栗頭份｜辭官後定居",
+      "reviewed": "苗栗頭份｜辭官後定居",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.zhang-weiyuan.works.0.note",
+      "scope": "writer:zhang-weiyuan:work",
+      "source": "現存作品主要由後人輯存",
+      "raw": "現存作品主要由後人輯存",
+      "reviewed": "現存作品主要由後人輯存",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.cai-qiyun.bio",
+      "scope": "writer:cai-qiyun",
+      "source": "苗栗苑裡人，清代古典詩人。曾組織竹梅吟社，並為櫟社早期重要成員；1895年參與抗日，失敗後退居詩文生活。名錄原標1862，依國家文化記憶庫更正為1855年生。",
+      "raw": "苗栗苑裡人，清代古典詩人。曾組織竹梅吟社，並毋係櫟社早期重要成員；1895年參與抗日，失敗後退居詩文生活。名錄原標1862，照國家文化記憶庫更正為1855年生。",
+      "reviewed": "苗栗苑裡人，清代古典詩人。曾組織竹梅吟社，並毋係櫟社早期重要成員；1895年參與抗日，失敗後退居詩文生活。名錄原標1862，照國家文化記憶庫更正為1855年生。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.cai-qiyun.workIntro",
+      "scope": "writer:cai-qiyun",
+      "source": "未刊詩稿；另有《啟運詩鈔》及收錄四百餘首唱酬作品的《臺海擊缽吟集》。",
+      "raw": "未刊詩稿；另有《啟運詩鈔》同收錄四百過條唱酬作品个《臺海擊缽吟集》。",
+      "reviewed": "未刊詩稿；另有《啟運詩鈔》同收錄四百過條唱酬作品个《臺海擊缽吟集》。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.cai-qiyun.style",
+      "scope": "writer:cai-qiyun",
+      "source": "詩文唱酬與遺民情懷並見，也書寫苑裡藺草等地方物產。",
+      "raw": "詩文唱酬摎遺民情懷並見，也書寫苑裡鹹草等地方物產。",
+      "reviewed": "詩文唱酬摎遺民情懷並見，也書寫苑裡鹹草等地方物產。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.cai-qiyun.relation",
+      "scope": "writer:cai-qiyun",
+      "source": "苗栗苑裡｜出生",
+      "raw": "苗栗苑裡｜胞衣跡",
+      "reviewed": "苗栗苑裡｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.cai-qiyun.works.0.note",
+      "scope": "writer:cai-qiyun:work",
+      "source": "未刊",
+      "raw": "未刊",
+      "reviewed": "未刊",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.cai-qiyun.works.1.note",
+      "scope": "writer:cai-qiyun:work",
+      "source": "《櫟社第一集》錄18首",
+      "raw": "《櫟社第一集》錄十八首",
+      "reviewed": "《櫟社第一集》錄十八首",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.cai-qiyun.works.2.note",
+      "scope": "writer:cai-qiyun:work",
+      "source": "蔡汝修編，收唱酬詩400餘首",
+      "raw": "蔡汝修編，收唱酬詩四百外首",
+      "reviewed": "蔡汝修編，收唱酬詩四百外首",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.cai-qiyun.works.4.note",
+      "scope": "writer:cai-qiyun:work",
+      "source": "參與修編",
+      "raw": "參加修編",
+      "reviewed": "參加修編",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-fengjia.bio",
+      "scope": "writer:qiu-fengjia",
+      "source": "生於苗栗銅鑼，清末進士、詩人與教育家。1895年反對割臺並參與臺灣民主國，後內渡廣東持續辦學與創作。",
+      "raw": "生於苗栗銅鑼，清末進士、詩人同教育家。1895年反對割臺並參加臺灣民主國，後內渡廣東持續辦學與創作。",
+      "reviewed": "生於苗栗銅鑼，清末進士、詩人同教育家。1895年反對割臺並參加臺灣民主國，後內渡廣東持續辦學與創作。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-fengjia.workIntro",
+      "scope": "writer:qiu-fengjia",
+      "source": "收錄其在臺時期的重要詩作，呈現感時憂世、關注臺灣命運與地方風物的面向。",
+      "raw": "收錄佢在臺時節个重要詩作，表現感時憂世、關注臺灣命運同地方風物个面向。",
+      "reviewed": "收錄佢在臺時節个重要詩作，表現感時憂世、關注臺灣命運同地方風物个面向。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-fengjia.style",
+      "scope": "writer:qiu-fengjia",
+      "source": "強調詩史精神與時政關懷，語勢明朗強健，並實踐詩界革命。",
+      "raw": "強調詩史精神同時政關懷，語勢明朗強健，並實踐詩界革命。",
+      "reviewed": "強調詩史精神同時政關懷，語勢明朗強健，並實踐詩界革命。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-fengjia.relation",
+      "scope": "writer:qiu-fengjia",
+      "source": "苗栗銅鑼｜出生",
+      "raw": "苗栗銅鑼｜正降出來",
+      "reviewed": "苗栗銅鑼｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.chen-hu.bio",
+      "scope": "writer:chen-hu",
+      "source": "苗栗苑裡人，詩人、教師、記者與地方實業參與者，為櫟社早期重要成員。名錄中的「陳滄玉」是以字稱人，本名陳瑚；國立臺灣文學館資料記其生年為1875年。",
+      "raw": "苗栗苑裡人，詩人、教書先生、記者同地方實業參與者，為櫟社早期重要成員。名錄中个「陳滄玉」係以字稱人，本名陳瑚；國立臺灣文學館資料記佢生年為1875年。",
+      "reviewed": "苗栗苑裡人，詩人、教書先生、記者同地方實業參與者，為櫟社早期重要成員。名錄中个「陳滄玉」係以字稱人，本名陳瑚；國立臺灣文學館資料記佢生年為1875年。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-hu.workIntro",
+      "scope": "writer:chen-hu",
+      "source": "陳瑚逝世後由詩友整理刊行的主要詩作結集；其生前作品另以〈趣園詩草〉之名收入《櫟社第一集》。",
+      "raw": "陳瑚逝世後由詩友整理刊行个主要詩作結集；厥生前个作品另用〈趣園詩草〉个名收入《櫟社第一集》。",
+      "reviewed": "陳瑚逝世後由詩友整理刊行个主要詩作結集；厥生前个作品另用〈趣園詩草〉个名收入《櫟社第一集》。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-hu.style",
+      "scope": "writer:chen-hu",
+      "source": "以漢詩唱酬、地方景物與時代感懷為主要取向。",
+      "raw": "用漢詩唱酬、地方景物摎時代感懷為主要取向。",
+      "reviewed": "用漢詩唱酬、地方景物摎時代感懷為主要取向。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-hu.works.0.note",
+      "scope": "writer:chen-hu:work",
+      "source": "身後輯刊",
+      "raw": "身後輯刊",
+      "reviewed": "身後輯刊",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-hu.works.1.note",
+      "scope": "writer:chen-hu:work",
+      "source": "收入《櫟社第一集》",
+      "raw": "收入《櫟社第一集》",
+      "reviewed": "收入《櫟社第一集》",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.luo-fuxing.bio",
+      "scope": "writer:luo-fuxing",
+      "source": "生於印尼雅加達，青年時來臺居苗栗並參與革命組織。1913年苗栗事件後遭捕，1914年在臺北監獄被處絞刑。部分資料作1884年生，本站採文化部資料的1886年並保留分歧。",
+      "raw": "生於印尼雅加達，青年時來臺居苗栗並參加革命組織。1913年苗栗事件後遭捕，1914年在臺北監獄分處絞刑。部分資料作1884年生，本站採文化部資料个1886年並保留分歧。",
+      "reviewed": "生於印尼雅加達，青年時來臺居苗栗並參加革命組織。1913年苗栗事件後遭捕，1914年在臺北監獄分處絞刑。部分資料作1884年生，本站採文化部資料个1886年並保留分歧。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.luo-fuxing.workIntro",
+      "scope": "writer:luo-fuxing",
+      "source": "獄中以「中華民國孫逸仙救」八字為句首寫成，凝聚其政治理想與犧牲意志。",
+      "raw": "獄中以「中華民國孫逸仙救」八字為句首寫成，凝聚其政治理想同犧牲意志。",
+      "reviewed": "獄中以「中華民國孫逸仙救」八字為句首寫成，凝聚其政治理想同犧牲意志。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.luo-fuxing.style",
+      "scope": "writer:luo-fuxing",
+      "source": "以古典詩詞形式承載革命宣言與民族情感。",
+      "raw": "用古典詩詞形式承載革命宣言同民族情感。",
+      "reviewed": "用古典詩詞形式承載革命宣言同民族情感。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.luo-fuxing.relation",
+      "scope": "writer:luo-fuxing",
+      "source": "苗栗｜青年時居住、參與抗日",
+      "raw": "苗栗｜青年時戴、跈抗日",
+      "reviewed": "苗栗｜青年時居住、參與抗日",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.zhang-hanwen.bio",
+      "scope": "writer:zhang-hanwen",
+      "source": "苗栗頭份地方文人，1902年生、1979年卒。曾赴日本及中國求學，為康有為萬木草堂末代門生之一；民國初年曾任外交人員、派駐日本與新加坡，戰後返臺，持續書寫苗栗地方文化。",
+      "raw": "苗栗頭份地方讀書人，1902年出世、1979年卒。曾赴日本及中國求學，為康有為萬木草堂末代門生之一；民國初年曾任外交人員、派駐日本摎新加坡，戰後返臺，持續書寫苗栗地方文化。",
+      "reviewed": "苗栗頭份地方讀書人，1902年出世、1979年卒。曾赴日本及中國求學，為康有為萬木草堂末代門生之一；民國初年曾任外交人員、派駐日本摎新加坡，戰後返臺，持續書寫苗栗地方文化。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-hanwen.workIntro",
+      "scope": "writer:zhang-hanwen",
+      "source": "後人整理為兩冊作品集；另可查〈永貞宮改建記〉，多數詩文曾刊於《醒獅》雜誌。",
+      "raw": "後人整理為兩冊作品集；另外可查〈永貞宮改建記〉，多數詩文曾刊於《醒獅》雜誌。",
+      "reviewed": "後人整理為兩冊作品集；另外可查〈永貞宮改建記〉，多數詩文曾刊於《醒獅》雜誌。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-hanwen.style",
+      "scope": "writer:zhang-hanwen",
+      "source": "以傳統詩文、碑記與地方文化書寫為主，連結民國初年學術養成與戰後苗栗文史記憶。",
+      "raw": "以傳統詩文、碑記同地方文化書寫為主，連結民國初年學術養成同戰後苗栗文史記憶。",
+      "reviewed": "以傳統詩文、碑記同地方文化書寫為主，連結民國初年學術養成同戰後苗栗文史記憶。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-hanwen.relation",
+      "scope": "writer:zhang-hanwen",
+      "source": "苗栗頭份｜地方文人",
+      "raw": "苗栗頭份｜地方讀書人",
+      "reviewed": "苗栗頭份｜地方文人",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.zhang-hanwen.works.0.note",
+      "scope": "writer:zhang-hanwen:work",
+      "source": "全兩冊",
+      "raw": "全兩冊",
+      "reviewed": "全兩冊",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-hanwen.works.2.note",
+      "scope": "writer:zhang-hanwen:work",
+      "source": "多數作品散見《醒獅》",
+      "raw": "多數作品散見《醒獅》",
+      "reviewed": "多數作品散見《醒獅》",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lai-jiangzhi.bio",
+      "scope": "writer:lai-jiangzhi",
+      "source": "苗栗詩人，曾任栗社社長，兼擅詩詞、書法、客家歌謠與地方文史，被稱為「苗栗詩仙」。晚年仍教授漢詩。",
+      "raw": "苗栗詩人，曾任栗社社長，兼擅詩詞、毛筆字、客家歌謠同地方文史，安到「苗栗詩仙」。暮年還係教漢詩。",
+      "reviewed": "苗栗詩人，曾任栗社社長，兼擅詩詞、毛筆字、客家歌謠同地方文史，安到「苗栗詩仙」。暮年還係教漢詩。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lai-jiangzhi.workIntro",
+      "scope": "writer:lai-jiangzhi",
+      "source": "1993年由黃鼎松整理出版，收錄其一生作品；其中七十首「苗栗竹枝詞」以十八鄉鎮風貌為題。",
+      "raw": "1993年由黃鼎松整理出版，收錄佢一生个創作；其中七十首「苗栗竹枝詞」以十八鄉鎮風貌為題。",
+      "reviewed": "1993年由黃鼎松整理出版，收錄佢一生个創作；其中七十首「苗栗竹枝詞」以十八鄉鎮風貌為題。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lai-jiangzhi.style",
+      "scope": "writer:lai-jiangzhi",
+      "source": "融地方地理、民情風俗與客家語感入傳統詩詞。",
+      "raw": "融地方地理、民情風俗摎客家語感入傳統詩詞。",
+      "reviewed": "融地方地理、民情風俗摎客家語感入傳統詩詞。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lai-jiangzhi.relation",
+      "scope": "writer:lai-jiangzhi",
+      "source": "苗栗縣｜出生、長期書寫地方",
+      "raw": "苗栗縣｜正降出來、長年書寫位所",
+      "reviewed": "苗栗縣｜出生、長期書寫地方",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.lai-jiangzhi.works.1.note",
+      "scope": "writer:lai-jiangzhi:work",
+      "source": "共70首，描寫苗栗18鄉鎮",
+      "raw": "共七十首，描寫苗栗18鄉鎮",
+      "reviewed": "共七十首，描寫苗栗18鄉鎮",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lai-jiangzhi.works.2.note",
+      "scope": "writer:lai-jiangzhi:work",
+      "source": "散見於作品集",
+      "raw": "散見於作品集",
+      "reviewed": "散見於作品集",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-zhuoliu.bio",
+      "scope": "writer:wu-zhuoliu",
+      "source": "新竹新埔人，曾任教員、記者與公職。1936年開始小說創作，1964年創辦《臺灣文藝》，並設文學獎鼓勵本土作家。曾在苗栗西湖任教，與苗栗文學史關係深厚。",
+      "raw": "新竹新埔人，曾做過先生、記者同公職。1936年開始小說創作，1964年創辦《臺灣文藝》，並設文學獎鼓勵本土作家。有去苗栗西湖教書，同苗栗文學史關係深厚。",
+      "reviewed": "新竹新埔人，曾做過先生、記者同公職。1936年開始小說創作，1964年創辦《臺灣文藝》，並設文學獎鼓勵本土作家。有去苗栗西湖教書，同苗栗文學史關係深厚。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-zhuoliu.workIntro",
+      "scope": "writer:wu-zhuoliu",
+      "source": "透過胡太明在臺灣、日本與中國間的遭遇，呈現殖民統治下臺灣人的認同困境，是臺灣文學的重要經典。",
+      "raw": "透過胡太明在臺灣、日本同中國間个遭遇，表現殖民統治下臺灣人个認同困境，係臺灣文學个重要經典。",
+      "reviewed": "透過胡太明在臺灣、日本同中國間个遭遇，表現殖民統治下臺灣人个認同困境，係臺灣文學个重要經典。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-zhuoliu.style",
+      "scope": "writer:wu-zhuoliu",
+      "source": "寫實而具歷史使命感，關注殖民處境、社會荒謬與臺灣人的精神命運。",
+      "raw": "寫實而有歷史使命感，關注殖民處境、社會荒謬摎臺灣人个精神命運。",
+      "reviewed": "寫實而有歷史使命感，關注殖民處境、社會荒謬摎臺灣人个精神命運。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wu-zhuoliu.relation",
+      "scope": "writer:wu-zhuoliu",
+      "source": "苗栗西湖｜曾任教",
+      "raw": "苗栗西湖｜曾任教",
+      "reviewed": "苗栗西湖｜曾任教",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.li-qiao.bio",
+      "scope": "writer:li-qiao",
+      "source": "苗栗大湖人，小說家與文化評論者，長期任教。1959年發表首篇小說，創作橫跨短篇、長篇與文化論述。",
+      "raw": "苗栗大湖人，小說家同文化評論者，長期教書。1959年發表頭篇小說，創作橫跨短篇、長篇同文化論述。",
+      "reviewed": "苗栗大湖人，小說家同文化評論者，長期教書。1959年發表頭篇小說，創作橫跨短篇、長篇同文化論述。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-qiao.workIntro",
+      "scope": "writer:li-qiao",
+      "source": "以清末至日治時期苗栗山村為背景，描寫拓墾、抗爭與戰爭下的庶民生命，是臺灣大河小說的重要里程碑。",
+      "raw": "以清末到日本時代苗栗山村做背景，描寫拓墾、抗爭同戰爭下个庶民生命，係臺灣大河小說个重要里程碑。",
+      "reviewed": "以清末到日本時代苗栗山村做背景，描寫拓墾、抗爭同戰爭下个庶民生命，係臺灣大河小說个重要里程碑。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-qiao.style",
+      "scope": "writer:li-qiao",
+      "source": "結合歷史寫實、意識流與強烈的人道批判，建構庶民觀點的臺灣史。",
+      "raw": "結合歷史寫實、意識流合強烈个人道批判，建構庶民觀點个臺灣史。",
+      "reviewed": "結合歷史寫實、意識流合強烈个人道批判，建構庶民觀點个臺灣史。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-qiao.relation",
+      "scope": "writer:li-qiao",
+      "source": "苗栗大湖｜出生",
+      "raw": "苗栗大湖｜胞衣跡",
+      "reviewed": "苗栗大湖｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.li-qiao.works.0.note",
+      "scope": "writer:li-qiao:work",
+      "source": "《寒夜三部曲》之一",
+      "raw": "《寒夜三部曲》之一",
+      "reviewed": "《寒夜三部曲》之一",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-qiao.works.1.note",
+      "scope": "writer:li-qiao:work",
+      "source": "《寒夜三部曲》之二",
+      "raw": "《寒夜三部曲》之二",
+      "reviewed": "《寒夜三部曲》之二",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-qiao.works.2.note",
+      "scope": "writer:li-qiao:work",
+      "source": "《寒夜三部曲》之三",
+      "raw": "《寒夜三部曲》之三",
+      "reviewed": "《寒夜三部曲》之三",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.tian-minzhong.bio",
+      "scope": "writer:tian-minzhong",
+      "source": "泰雅族作家，生於苗栗泰安鄉大安溪流域的天狗部落。創作與翻譯聚焦族群認同、部落傳統、口傳歷史及原住民族處境。",
+      "raw": "泰雅族作家，生在苗栗泰安鄉大安溪流域个天狗部落。創作同翻譯聚焦族群認同、部落傳統、口傳歷史摎原住民族處境。",
+      "reviewed": "泰雅族作家，生在苗栗泰安鄉大安溪流域个天狗部落。創作同翻譯聚焦族群認同、部落傳統、口傳歷史摎原住民族處境。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.tian-minzhong.workIntro",
+      "scope": "writer:tian-minzhong",
+      "source": "1995年出版的短篇小說集，從部落生活、歷史記憶與族群觀點書寫泰雅世界；另有《赤裸山脈》。",
+      "raw": "1995年出版个短篇小說集，對部落生活、歷史記憶同族群觀點書寫泰雅世界；另外有《赤裸山脈》。",
+      "reviewed": "1995年出版个短篇小說集，對部落生活、歷史記憶同族群觀點書寫泰雅世界；另外有《赤裸山脈》。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.tian-minzhong.style",
+      "scope": "writer:tian-minzhong",
+      "source": "以部落口傳、古典語彙與現實批判交織，呈現泰雅族主體視角。",
+      "raw": "以部落口傳、古典語彙同現實批判交織，表現泰雅族主體視角。",
+      "reviewed": "以部落口傳、古典語彙同現實批判交織，表現泰雅族主體視角。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.tian-minzhong.relation",
+      "scope": "writer:tian-minzhong",
+      "source": "苗栗泰安｜天狗部落出生",
+      "raw": "苗栗泰安｜天狗部落胞衣跡",
+      "reviewed": "苗栗泰安｜天狗部落出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.tian-minzhong.works.4.note",
+      "scope": "writer:tian-minzhong:work",
+      "source": "副題：北勢八社天狗部落的祖靈傳說與抗日傳奇",
+      "raw": "副題：北勢八社天狗部落个祖靈傳說與抗日傳奇",
+      "reviewed": "副題：北勢八社天狗部落个祖靈傳說與抗日傳奇",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wang-youhua.bio",
+      "scope": "writer:wang-youhua",
+      "source": "生於苗栗頭份，小說家、散文家、評論者與地方文化工作者，曾任國立聯合大學華語文學系教授，並與莫渝合著《苗栗縣文學史》。",
+      "raw": "生於苗栗頭份，小說家、散文家、評論者同地方文化工作者，曾任國立聯合大學華語文學系教授，並同莫渝共著《苗栗縣文學史》。",
+      "reviewed": "生於苗栗頭份，小說家、散文家、評論者同地方文化工作者，曾任國立聯合大學華語文學系教授，並同莫渝共著《苗栗縣文學史》。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wang-youhua.workIntro",
+      "scope": "writer:wang-youhua",
+      "source": "其小說創作的重要結集之一；作品經常處理臺灣社會變遷、族群認同與現代人的精神處境。",
+      "raw": "其小說創作个重要結集之一；作品輒常處理臺灣社會變遷、族群認同摎現代人个精神處境。",
+      "reviewed": "其小說創作个重要結集之一；作品輒常處理臺灣社會變遷、族群認同摎現代人个精神處境。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wang-youhua.style",
+      "scope": "writer:wang-youhua",
+      "source": "形式實驗與社會批判並重，關注現代文明邊緣、移民經驗與生命原罪。",
+      "raw": "形式實驗同社會批判並重，關注現代文明邊脣、移民經驗同生命原罪。",
+      "reviewed": "形式實驗同社會批判並重，關注現代文明邊脣、移民經驗同生命原罪。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.wang-youhua.relation",
+      "scope": "writer:wang-youhua",
+      "source": "苗栗頭份｜出生",
+      "raw": "苗栗頭份｜胞衣跡",
+      "reviewed": "苗栗頭份｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.wang-youhua.works.6.note",
+      "scope": "writer:wang-youhua:work",
+      "source": "副題：日治時期苗栗縣的詩社",
+      "raw": "副題：日治時期苗栗縣个詩社",
+      "reviewed": "副題：日治時期苗栗縣个詩社",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.liang-hanyi.bio",
+      "scope": "writer:liang-hanyi",
+      "source": "苗栗籍作家，臺灣大學外文系畢業，創作涵蓋小說、散文與宗教書寫。公開資料對完整年表記載有限。",
+      "raw": "苗栗籍作家，臺灣大學外文系畢業，創作涵蓋小說、散文同宗教書寫。公開資料對完整年表記載有限。",
+      "reviewed": "苗栗籍作家，臺灣大學外文系畢業，創作涵蓋小說、散文同宗教書寫。公開資料對完整年表記載有限。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.liang-hanyi.workIntro",
+      "scope": "writer:liang-hanyi",
+      "source": "其重要著作之一；小說常以寓言、黑色童話與內在心象探索人性的可能。",
+      "raw": "其重要个著作之一；小說長透用寓言、烏色童話摎內在心象探索人性个可能。",
+      "reviewed": "其重要个著作之一；小說長透用寓言、烏色童話摎內在心象探索人性个可能。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.liang-hanyi.style",
+      "scope": "writer:liang-hanyi",
+      "source": "反寫實、寓言化，重視心象、嘲弄與黑色童話氣質。",
+      "raw": "反寫實、寓言化，看重門面、恥笑同烏色童話氣質。",
+      "reviewed": "反寫實、寓言化，看重門面、恥笑同烏色童話氣質。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.liang-hanyi.relation",
+      "scope": "writer:liang-hanyi",
+      "source": "苗栗縣籍｜小說家、散文家",
+      "raw": "苗栗縣籍｜小說家、散文家",
+      "reviewed": "苗栗縣籍｜小說家、散文家",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.liang-hanyi.works.2.note",
+      "scope": "writer:liang-hanyi:work",
+      "source": "副題：元曉大師傳",
+      "raw": "副題：元宵大師傳",
+      "reviewed": "副題：元宵大師傳",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.gan-yaoming.bio",
+      "scope": "writer:gan-yaoming",
+      "source": "臺灣小說家，成長於苗栗客庄，曾任小劇場工作者、記者與教師。其創作吸收客家民間傳說、歷史記憶與多族群經驗。",
+      "raw": "臺灣小說家，成長於苗栗客莊，曾任小劇場工作者、記者同教書先生。厥創作吸收客家民間傳說、歷史記憶同多族群經驗。",
+      "reviewed": "臺灣小說家，成長於苗栗客莊，曾任小劇場工作者、記者同教書先生。厥創作吸收客家民間傳說、歷史記憶同多族群經驗。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.gan-yaoming.workIntro",
+      "scope": "writer:gan-yaoming",
+      "source": "以日治末期至戰後為背景，讓歷史、傳說、戰爭與少年成長交錯，展現其獨特的魔幻敘事。",
+      "raw": "以日本時代末期到戰後為背景，分歷史、聽人講、戰爭同少年成長橫架直架，展現其獨特个魔幻敘事。",
+      "reviewed": "以日本時代末期到戰後為背景，分歷史、聽人講、戰爭同少年成長橫架直架，展現其獨特个魔幻敘事。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.gan-yaoming.style",
+      "scope": "writer:gan-yaoming",
+      "source": "融合鄉野傳奇、誇飾、黑色幽默與魔幻寫實，常被歸入新鄉土書寫。",
+      "raw": "融合鄉野傳奇、畫虎膦、烏色幽默同魔幻寫實，輒輒分歸入新鄉土書寫。",
+      "reviewed": "融合鄉野傳奇、誇飾、烏色幽默摎魔幻寫實，輒輒分歸入新鄉土書寫。",
+      "reviewNote": "GoHakka output grammar or literary term corrected"
+    },
+    {
+      "id": "writer.gan-yaoming.relation",
+      "scope": "writer:gan-yaoming",
+      "source": "苗栗獅潭｜出生、成長",
+      "raw": "苗栗獅潭｜胞衣跡、成長",
+      "reviewed": "苗栗獅潭｜出生、成長",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.chen-ying.bio",
+      "scope": "writer:chen-ying",
+      "source": "山東濰縣人，作家與翻譯家，上海復旦大學中文系畢業。1948年後來臺，曾居苗栗頭份；創作高峰始於1920至1930年代。名錄作「沈櫻」，依臺灣文學館作「沉櫻」。",
+      "raw": "山東濰縣人，作家與翻譯家，上海復旦大學中文系畢業。1948年後來臺，曾居苗栗頭份；創作高峰始於1920到1930年代。名仔安到「沈櫻」，照臺灣文學館做「沉櫻」。",
+      "reviewed": "山東濰縣人，作家與翻譯家，上海復旦大學中文系畢業。1948年後來臺，曾居苗栗頭份；創作高峰始於1920到1930年代。名仔安到「沈櫻」，照臺灣文學館做「沉櫻」。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-ying.workIntro",
+      "scope": "writer:chen-ying",
+      "source": "由林海音編輯的散文增補本，呈現其簡約純樸、真摯內斂的散文面貌。",
+      "raw": "由林海音編輯个散文增補本，表現其簡約純樸、真摯內斂个散文面貌。",
+      "reviewed": "由林海音編輯个散文增補本，表現其簡約純樸、真摯內斂个散文面貌。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-ying.style",
+      "scope": "writer:chen-ying",
+      "source": "語言簡潔、情感真摯，並受俄國與歐洲文學閱讀及翻譯經驗影響。",
+      "raw": "語言縮結、情感真摯，並受俄國同歐洲文學閱讀及翻譯經驗影響。",
+      "reviewed": "語言縮結、情感真摯，並受俄國同歐洲文學閱讀及翻譯經驗影響。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lin-haiyin.bio",
+      "scope": "writer:lin-haiyin",
+      "source": "生於日本大阪，父親為苗栗頭份人；童年與青年時期主要在北京成長，1948年來臺後成為作家、編輯與出版人，扶植許多臺灣文學創作者。",
+      "raw": "生於日本大阪，阿爸係苗栗頭份人；童年同青年時期主要在北京成長，1948年來臺後變到作家、編輯佮出版人，扶植當多臺灣文學創作个分人。",
+      "reviewed": "生於日本大阪，阿爸係苗栗頭份人；童年同青年時期主要在北京成長，1948年來臺後變到作家、編輯佮出版人，扶植當多臺灣文學創作个分人。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lin-haiyin.workIntro",
+      "scope": "writer:lin-haiyin",
+      "source": "以童年視角重構1920年代北京城南的人物與生活，兼具小說連作與回憶敘事特色。",
+      "raw": "用做細人時節个視角重構1920年代北京城南个人同生活，兼具小說連作同回憶敘事特色。",
+      "reviewed": "用做細人時節个視角重構1920年代北京城南个人同生活，兼具小說連作同回憶敘事特色。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lin-haiyin.style",
+      "scope": "writer:lin-haiyin",
+      "source": "以平易節制的語言寫童年、女性與離散記憶，溫厚中保有對人物命運的敏銳觀察。",
+      "raw": "用平易節制个語言寫做細人時節、婦人家與離散記憶，溫厚中保有對人物命運个敏銳觀察。",
+      "reviewed": "用平易節制个語言寫做細人時節、婦人家與離散記憶，溫厚中保有對人物命運个敏銳觀察。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lin-haiyin.relation",
+      "scope": "writer:lin-haiyin",
+      "source": "苗栗頭份｜父親故鄉",
+      "raw": "苗栗頭份｜阿爸故鄉",
+      "reviewed": "苗栗頭份｜父親故鄉",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.jiang-shang.bio",
+      "scope": "writer:jiang-shang",
+      "source": "本名江文雙，苗栗籍戰後作家，創作以小說為主，兼及散文、兒童文學與日文翻譯。作品以樸實筆觸書寫帶有濃厚鄉土味的小人物，並記錄不易被看見的社會切面。",
+      "raw": "本名安到江文雙，苗栗籍戰後作家，創作以小說為主，兼及散文、Children'sliteratureandJapanesetranslation。作品用樸實个筆觸書寫帶有濃厚鄉土味个小人物，並記錄毋容易看著个社會切面。",
+      "reviewed": "本名安到江文雙，苗栗籍戰後作家，創作以小說為主，兼及散文、Children'sliteratureandJapanesetranslation。作品用樸實个筆觸書寫帶有濃厚鄉土味个小人物，並記錄毋容易看著个社會切面。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.jiang-shang.workIntro",
+      "scope": "writer:jiang-shang",
+      "source": "其小說代表作之一；另有《田園戀》、《下弦月》、《霧夜》及三冊《江上小說集》。",
+      "raw": "其小說代表作之一；另有《田園戀》、《下弦月》、《霧夜》同三冊《江上小說集》。",
+      "reviewed": "其小說代表作之一；另有《田園戀》、《下弦月》、《霧夜》同三冊《江上小說集》。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.jiang-shang.style",
+      "scope": "writer:jiang-shang",
+      "source": "樸實、直率的寫實筆法，關注鄉土小人物與戰後社會變動，不刻意粉飾生活困境。",
+      "raw": "老實、直率个寫實筆法，關注鄉土小人物摎戰後社會變動，毋刻意粉飾生活困頓。",
+      "reviewed": "老實、直率个寫實筆法，關注鄉土小人物摎戰後社會變動，毋刻意粉飾生活困頓。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.jiang-shang.relation",
+      "scope": "writer:jiang-shang",
+      "source": "苗栗頭份｜任教大成高中",
+      "raw": "苗栗頭份｜在大成高中教書",
+      "reviewed": "苗栗頭份｜任教大成高中",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.jiang-shang.works.6.note",
+      "scope": "writer:jiang-shang:work",
+      "source": "以筆名文玨出版",
+      "raw": "用筆名文玨出版",
+      "reviewed": "用筆名文玨出版",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-shuangtian.bio",
+      "scope": "writer:xie-shuangtian",
+      "source": "生於苗栗銅鑼，散文與小說作家。早期出版散文集《綠樹》，後續持續書寫鄉土、人生與女性經驗。",
+      "raw": "生於苗栗銅鑼，散文同小說作家。早期出版散文集《綠樹》，後續持續書寫鄉土、人生摎女性經驗。",
+      "reviewed": "生於苗栗銅鑼，散文同小說作家。早期出版散文集《綠樹》，後續持續書寫鄉土、人生摎女性經驗。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-shuangtian.workIntro",
+      "scope": "writer:xie-shuangtian",
+      "source": "以77個短篇組成長篇，透過春晨、秋暮、冬夜三個單元呈現節氣流轉、歷史滄桑與人生曲折。",
+      "raw": "以77個短篇組成長篇，透過早晨、秋暮、冬夜三個單元表現節氣流轉、歷史滄桑摎人生曲折。",
+      "reviewed": "以77個短篇組成長篇，透過早晨、秋暮、冬夜三個單元表現節氣流轉、歷史滄桑摎人生曲折。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-shuangtian.style",
+      "scope": "writer:xie-shuangtian",
+      "source": "文字靈巧真摯，從鄉土景物、女性處境與人生感懷出發。",
+      "raw": "文字異生活又真摯，從鄉土景物、女性處境摎人生感懷出發。",
+      "reviewed": "文字異生活又真摯，從鄉土景物、女性處境摎人生感懷出發。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-shuangtian.works.5.note",
+      "scope": "writer:xie-shuangtian:work",
+      "source": "副題：蕭紅傳",
+      "raw": "副題：蕭紅傳",
+      "reviewed": "副題：蕭紅傳",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-chaodong.bio",
+      "scope": "writer:chen-chaodong",
+      "source": "生於苗栗後龍，鄉土作家與文史工作者。任職商界後返鄉從事記者與編輯工作，長期記錄後龍地方史、產業與生活文化。",
+      "raw": "生於苗栗後龍，鄉土作家摎文史工作者。任職商界後轉家鄉做記者同編輯个頭路，長期記錄後龍地方史、產業同生活文化。",
+      "reviewed": "生於苗栗後龍，鄉土作家摎文史工作者。任職商界後轉家鄉做記者同編輯个頭路，長期記錄後龍地方史、產業同生活文化。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-chaodong.workIntro",
+      "scope": "writer:chen-chaodong",
+      "source": "以後龍地方生活與文史為核心的作品；另有《家鄉豐年》、《永遠的牛聲》、《這村晨春景》等可查著作。",
+      "raw": "以後龍地方生活同文史做核心个創作；另有《家鄉豐年》、《永恆个牛聲》、《這莊晨春景》等可查著作。",
+      "reviewed": "以後龍地方生活同文史做重點个創作；另有《家鄉豐年》、《永遠的牛聲》、《這村晨春景》等可查著作。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.chen-chaodong.style",
+      "scope": "writer:chen-chaodong",
+      "source": "報導與散文筆法交融，重視田野調查、老照片與口述記憶。",
+      "raw": "報導摎散文筆法交融，重視田野調查、老相同口述記憶。",
+      "reviewed": "報導摎散文筆法交融，重視田野調查、老相同口述記憶。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-chaodong.relation",
+      "scope": "writer:chen-chaodong",
+      "source": "苗栗後龍｜出生、返鄉書寫",
+      "raw": "苗栗後龍｜胞衣跡、轉年書寫",
+      "reviewed": "苗栗後龍｜出生、返鄉書寫",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.moshang-chen.bio",
+      "scope": "writer:moshang-chen",
+      "source": "苗栗人，16歲起進入造船產業，早年寫詩與散文，1979年後集中創作小說。其親身工廠經驗使作品成為臺灣工人文學的重要聲音。",
+      "raw": "苗栗人，十六歲起進入造船產業，早期寫詩同散文，1979年後集中創作小說。佢親身工廠經驗使作品變做臺灣工人文學个重要聲音。",
+      "reviewed": "苗栗人，十六歲起進入造船產業，早期寫詩同散文，1979年後集中創作小說。佢親身工廠經驗使作品變做臺灣工人文學个重要聲音。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.moshang-chen.workIntro",
+      "scope": "writer:moshang-chen",
+      "source": "以藍領勞動者的工作、家庭與社會處境為核心，呈現工業化背後的黑暗與無奈。",
+      "raw": "用青領勞動者个工作、家庭同社會處境為核心，表現工業化背後个烏同無結煞。",
+      "reviewed": "用藍領勞動者个工作、家庭同社會處境為重點，表現工業化背後个烏同無結煞。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.moshang-chen.style",
+      "scope": "writer:moshang-chen",
+      "source": "直接、寫實，從工人內部視角書寫勞動尊嚴、階級與社會矛盾。",
+      "raw": "直接、寫實，從工人內部視角書寫勞動尊嚴、階級同社會矛盾。",
+      "reviewed": "直接、寫實，從工人內部視角書寫勞動尊嚴、階級同社會矛盾。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.moshang-chen.relation",
+      "scope": "writer:moshang-chen",
+      "source": "苗栗縣籍｜工人文學作家",
+      "raw": "苗栗縣籍｜工人文學作家",
+      "reviewed": "苗栗縣籍｜工人文學作家",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.zhan-bing.bio",
+      "scope": "writer:zhan-bing",
+      "source": "臺灣跨越語言一代的重要詩人，曾赴日本學藥，戰後參與銀鈴會並為笠詩社創辦人之一。創作涵蓋現代詩、童詩、圖像詩、散文與戲劇。",
+      "raw": "臺灣跨越語言一代个重要詩人，有赴日本學藥，戰後參加銀鈴會並係笠詩社創辦人之一。創作涵蓋現代詩、細人詩、圖像詩、散文同戲劇。",
+      "reviewed": "臺灣跨越語言一代个重要詩人，有赴日本學藥，戰後參加銀鈴會並係笠詩社創辦人之一。創作涵蓋現代詩、細人詩、圖像詩、散文同戲劇。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhan-bing.workIntro",
+      "scope": "writer:zhan-bing",
+      "source": "代表性詩集之一，展現其把藥學、自然觀察與現代詩實驗結合的特色。",
+      "raw": "代表性詩集之一，展現其藥學、自然觀察摎現代詩實驗結合个特色。",
+      "reviewed": "代表性詩集之一，展現其藥學、自然觀察摎現代詩實驗結合个特色。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhan-bing.style",
+      "scope": "writer:zhan-bing",
+      "source": "現代主義、科學意象與童心並存，擅長圖像詩、短詩與活潑的形式實驗。",
+      "raw": "現代主義、科學意象同童心並存，當會圖像詩、短詩同活潑个形式實驗。",
+      "reviewed": "現代主義、科學意象同童心並存，當會圖像詩、短詩同活潑个形式實驗。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhan-bing.relation",
+      "scope": "writer:zhan-bing",
+      "source": "苗栗卓蘭｜出生",
+      "raw": "苗栗卓蘭｜胞衣跡",
+      "reviewed": "苗栗卓蘭｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.luo-lang.bio",
+      "scope": "writer:luo-lang",
+      "source": "生於苗栗市，詩人兼日文翻譯者。名錄未列卒年，依國立臺灣文學館年鑑補為2015年。",
+      "raw": "生於苗栗街項，詩人兼日文翻譯者。名錄吂列卒年，照國立臺灣文學館年鑑補為2015年。",
+      "reviewed": "生於苗栗市，詩人兼日文翻譯者。名錄吂列卒年，照國立臺灣文學館年鑑補為2015年。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.luo-lang.workIntro",
+      "scope": "writer:luo-lang",
+      "source": "由苗栗縣文化局出版，整理其詩文創作，作品多為故鄉山川與人生樣貌留下心靈投影。",
+      "raw": "由苗栗縣文化局出版，整理其詩文創作，作品多為故鄉山川摎人生樣貌留下心靈投影。",
+      "reviewed": "由苗栗縣文化局出版，整理其詩文創作，作品多為故鄉山川摎人生樣貌留下心靈投影。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.luo-lang.style",
+      "scope": "writer:luo-lang",
+      "source": "抒情而內斂，聚焦故鄉地景、日常感受與人生回聲。",
+      "raw": "抒情而內斂，聚焦故鄉地景、日常感受摎人生應聲。",
+      "reviewed": "抒情而內斂，聚焦故鄉地景、日常感受摎人生應聲。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.luo-lang.relation",
+      "scope": "writer:luo-lang",
+      "source": "苗栗市｜出生",
+      "raw": "苗栗街項｜降出來",
+      "reviewed": "苗栗市｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.luo-lang.works.0.note",
+      "scope": "writer:luo-lang:work",
+      "source": "收中文詩53首、日文詩36首、散文2篇、日譯詩9首、詩論2篇及畫作20幅",
+      "raw": "收中文詩五十三首、日文詩36首、散文2篇、日譯詩九首、詩論2篇及畫作20幅",
+      "reviewed": "收中文詩五十三首、日文詩36首、散文2篇、日譯詩九首、詩論2篇及畫作20幅",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.mo-yu.bio",
+      "scope": "writer:mo-yu",
+      "source": "生於苗栗竹南，詩人、翻譯家與評論者。1960年代開始寫詩，後長期翻譯法國及第三世界文學，1990年代起投入臺灣與苗栗地方文學研究。",
+      "raw": "生在苗栗竹南，詩人、翻譯家同評論者。1960年代開始寫詩，後長年翻譯法國摎第三世界文學，1990年代起投入臺灣摎苗栗地方文學研究。",
+      "reviewed": "生在苗栗竹南，詩人、翻譯家同評論者。1960年代開始寫詩，後長年翻譯法國摎第三世界文學，1990年代起投入臺灣摎苗栗地方文學研究。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.mo-yu.workIntro",
+      "scope": "writer:mo-yu",
+      "source": "以土地、現實與人道關懷為核心的代表詩集；另有《無語的春天》、《長城》等。",
+      "raw": "以土地、現實摎人道關懷為核心个代表詩集；另有《無語个春天》、《長城》等。",
+      "reviewed": "以土地、現實摎人道關懷為重點个代表詩集；另有《無語的春天》、《長城》等。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.mo-yu.style",
+      "scope": "writer:mo-yu",
+      "source": "現實主義與人文關懷鮮明，追求詩的批判力與感動力。",
+      "raw": "現實主義與人文關懷鮮明，追求詩个批判力同感動力。",
+      "reviewed": "現實主義與人文關懷鮮明，追求詩个批判力同感動力。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.mo-yu.relation",
+      "scope": "writer:mo-yu",
+      "source": "苗栗竹南｜出生",
+      "raw": "苗栗竹南｜胞衣跡",
+      "reviewed": "苗栗竹南｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.liu-yuxiu.bio",
+      "scope": "writer:liu-yuxiu",
+      "source": "成長於苗栗頭份客庄，曾任臺灣大學外文系教授，長期參與女性主義研究與婦女運動；1980年代中期起在詩刊與報紙副刊發表詩作。",
+      "raw": "成長於苗栗頭份客莊，曾任臺灣大學外文系教授，長期參與女性主義研究摎婦女運動；1980年代中期起在詩刊同報紙副刊發表詩作。",
+      "reviewed": "成長於苗栗頭份客莊，曾任臺灣大學外文系教授，長期參與女性主義研究摎婦女運動；1980年代中期起在詩刊同報紙副刊發表詩作。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.liu-yuxiu.workIntro",
+      "scope": "writer:liu-yuxiu",
+      "source": "公開學術資料庫收錄的詩作之一；其詩作散見詩刊、年度詩選與副刊，尚缺完整個人詩集書目。",
+      "raw": "公開學術資料庫收錄个詩作之一；其詩作散見詩刊、年度詩選同副刊，z:還缺少完整個人詩集書目。",
+      "reviewed": "公開學術資料庫收錄个詩作之一；其詩作散見詩刊、年度詩選同副刊，還缺少完整個人詩集書目。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.liu-yuxiu.style",
+      "scope": "writer:liu-yuxiu",
+      "source": "把女性經驗、知識反思與社會批判帶入現代詩。",
+      "raw": "婦人家經驗、智識反思摎社會批判帶入現代詩。",
+      "reviewed": "婦人家經驗、智識反思摎社會批判帶入現代詩。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.liu-yuxiu.relation",
+      "scope": "writer:liu-yuxiu",
+      "source": "苗栗頭份｜成長",
+      "raw": "苗栗頭份｜成長",
+      "reviewed": "苗栗頭份｜成長",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.liu-yuxiu.works.0.note",
+      "scope": "writer:liu-yuxiu:work",
+      "source": "刊於《中外文學》24卷12期，1996",
+      "raw": "刊於《中外文學》24卷12期，1996",
+      "reviewed": "刊於《中外文學》24卷12期，1996",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.huang-hengqiu.bio",
+      "scope": "writer:huang-hengqiu",
+      "source": "苗栗銅鑼人，客家詩人與評論者。曾參與笠詩社、創組蕃薯詩社並推動客家文學，亦從事文史、出版與廣播工作。",
+      "raw": "苗栗銅鑼人，客家詩人同評論者。有參加笠詩社、創組蕃薯詩社並推動客家文學，也從事文史、出版佮廣播个工作。",
+      "reviewed": "苗栗銅鑼人，客家詩人同評論者。有參加笠詩社、創組蕃薯詩社並推動客家文學，也從事文史、出版佮廣播个工作。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.huang-hengqiu.workIntro",
+      "scope": "writer:huang-hengqiu",
+      "source": "1990年出版，被視為臺灣第一本客語現代詩集，在客語文學史上具有指標性。",
+      "raw": "1990年出版，分視為臺灣第一本客語現代詩集，在客語文學史上具備指標性。",
+      "reviewed": "1990年出版，分視為臺灣第一本客語現代詩集，在客語文學史上具備指標性。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.huang-hengqiu.style",
+      "scope": "writer:huang-hengqiu",
+      "source": "以客語、土地與族群經驗為核心，結合現代詩形式與社會文化評論。",
+      "raw": "用客話、土地摎族群經驗做核芯，結合現代詩形式摎社會文化評論。",
+      "reviewed": "用客話、土地摎族群經驗做核芯，結合現代詩形式摎社會文化評論。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lu-hanshou.bio",
+      "scope": "writer:lu-hanshou",
+      "source": "生於苗栗苑裡，後成長於臺中大甲。詩人、歌詞作者與文化工作者，創作涵蓋華語詩、臺語詩、散文、攝影及歌詞。",
+      "raw": "生於苗栗苑裡，後成長佇臺中大甲。詩人、歌詞作者同文化工作者，創作涵蓋華語詩、臺語詩、散文、攝影同歌詞。",
+      "reviewed": "生於苗栗苑裡，後成長佇臺中大甲。詩人、歌詞作者同文化工作者，創作涵蓋華語詩、臺語詩、散文、攝影同歌詞。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lu-hanshou.workIntro",
+      "scope": "writer:lu-hanshou",
+      "source": "以傳記式序列整理二十年詩作，從親情、童年、愛情到土地，呈現詩人生命軌跡。",
+      "raw": "用傳仔式序列整理二十年詩作，tòng親情、做細人時節、愛情到土地，表現詩人生命軌跡。",
+      "reviewed": "用傳仔式序列整理二十年詩作，tòng 親情、做細人時節、愛情到土地，表現詩人生命軌跡。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.lu-hanshou.style",
+      "scope": "writer:lu-hanshou",
+      "source": "抒情而具音樂性，將古典涵養、日常生活與臺語歌詩傳統相連。",
+      "raw": "抒情而具音樂性，將古典涵養、日常生活同臺語歌詩傳統相連。",
+      "reviewed": "抒情而具音樂性，將古典涵養、日常生活同臺語歌詩傳統相連。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-duchou.bio",
+      "scope": "writer:li-duchou",
+      "source": "苗栗籍現代詩人，曾參與詩刊活動。公開網路資料較少，國立臺灣文學館藏有其手稿並確認本名為郭賢作。",
+      "raw": "苗栗籍現代詩人，有參加詩刊活動。公開網路資料較少，國立臺灣文學館囥有其手稿並確認本名安到郭賢作。",
+      "reviewed": "苗栗籍現代詩人，有參加詩刊活動。公開網路資料較少，國立臺灣文學館囥有其手稿並確認本名安到郭賢作。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-duchou.workIntro",
+      "scope": "writer:li-duchou",
+      "source": "1987年成稿、刊於《大海洋詩刊》，以鄉愁、玫瑰、曙光與繁星等意象展現孤寂與追尋自由的精神歷程。",
+      "raw": "1987年成稿、刊在《大海洋詩刊》，以鄉愁、玫瑰花、曙光摎繁星等意象展現孤栖栖摎追尋自由个精神歷程。",
+      "reviewed": "1987年成稿、刊在《大海洋詩刊》，以鄉愁、玫瑰花、曙光摎繁星等意象展現孤栖栖摎追尋自由个精神歷程。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-duchou.style",
+      "scope": "writer:li-duchou",
+      "source": "偏重文化鄉愁、象徵意象與內在精神辯證。",
+      "raw": "偏重文化鄉愁、象徵意象摎內在精神辯證。",
+      "reviewed": "偏重文化鄉愁、象徵意象摎內在精神辯證。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-duchou.relation",
+      "scope": "writer:li-duchou",
+      "source": "苗栗縣籍｜現代詩人",
+      "raw": "苗栗縣籍｜現代詩人",
+      "reviewed": "苗栗縣籍｜現代詩人",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.li-duchou.works.0.note",
+      "scope": "writer:li-duchou:work",
+      "source": "1987年成稿，後刊於《大海洋詩刊》第30期；館藏手稿可查",
+      "raw": "1987年成稿，後刊在《大海洋詩刊》第30期；館藏手稿可查",
+      "reviewed": "1987年成稿，後刊在《大海洋詩刊》第30期；館藏手稿可查",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-yifan.bio",
+      "scope": "writer:qiu-yifan",
+      "source": "苗栗南庄人，長期任教並投入客語教育與客語詩歌創作，以現代詩為主，也有客語散文、小說與研究論著。",
+      "raw": "苗栗南庄人，長年教書並投入客語教育同客語詩歌創作，現代个詩為主，乜有客語散文、小說摎研究論著。",
+      "reviewed": "苗栗南庄人，長年教書並投入客語教育同客語詩歌創作，現代个詩為主，乜有客語散文、小說摎研究論著。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-yifan.workIntro",
+      "scope": "writer:qiu-yifan",
+      "source": "以客語書寫南庄、親情與土地記憶，是其持續建立客語現代詩表達的重要作品。",
+      "raw": "用客語書寫南庄、親情摎土地記憶，係其持續建立客語現代詩表達个重要作品。",
+      "reviewed": "用客語書寫南庄、親情摎土地記憶，係其持續建立客語現代詩表達个重要作品。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-yifan.style",
+      "scope": "writer:qiu-yifan",
+      "source": "堅持客語書寫，語言親近生活，強調土地、母語與族群情感。",
+      "raw": "堅持客語書寫，話語親近生活，強調土地、母語同族群情感。",
+      "reviewed": "堅持客語書寫，話語親近生活，強調土地、母語同族群情感。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-yifan.relation",
+      "scope": "writer:qiu-yifan",
+      "source": "苗栗南庄｜出生",
+      "raw": "苗栗南庄｜正降出來",
+      "reviewed": "苗栗南庄｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.qiu-yifan.works.0.note",
+      "scope": "writer:qiu-yifan:work",
+      "source": "與龔萬灶合著",
+      "raw": "同龔萬灶合著",
+      "reviewed": "同龔萬灶合著",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-yifan.works.5.note",
+      "scope": "writer:qiu-yifan:work",
+      "source": "副題：客語詩歌文學論集",
+      "raw": "副題：客話詩歌文學論集",
+      "reviewed": "副題：客話詩歌文學論集",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.qiu-yifan.works.6.note",
+      "scope": "writer:qiu-yifan:work",
+      "source": "副題：客籍作家吳濁流的詩歌表現",
+      "raw": "副題：客籍作家吳濁流个詩歌表現",
+      "reviewed": "副題：客籍作家吳濁流个詩歌表現",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-kunhua.bio",
+      "scope": "writer:xie-kunhua",
+      "source": "籍貫苗栗，生於臺北，從事現代詩、小說、散文、劇本與文學研究，研究專長包含臺灣現代詩史與詩社。",
+      "raw": "籍貫苗栗，生於臺北，做現代詩、小說、散文、劇本摎文學研究，研究專長包含臺灣現代詩史摎詩社。",
+      "reviewed": "籍貫苗栗，生於臺北，做現代詩、小說、散文、劇本摎文學研究，研究專長包含臺灣現代詩史摎詩社。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-kunhua.workIntro",
+      "scope": "writer:xie-kunhua",
+      "source": "累積二十餘年創作後出版的第一部個人詩集，收錄七十首作品；《合奏版圖》則為其較早期的詩歌創作計畫。",
+      "raw": "積累二十過年創作後出版个第一部個人詩集，收錄七十首作品；《合奏版圖》就係佢頭過个詩歌創作計畫。",
+      "reviewed": "積累二十過年創作後出版个第一部個人詩集，收錄七十首作品；《合奏版圖》就係佢頭過个詩歌創作計畫。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-kunhua.style",
+      "scope": "writer:xie-kunhua",
+      "source": "知性與意象並進，經常處理歷史記憶、文化符號及跨媒介表達。",
+      "raw": "知性同意象共進，長間處理歷史記憶、文化符號摎跨媒介表達。",
+      "reviewed": "知性同意象共進，長間處理歷史記憶、文化符號摎跨媒介表達。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-kunhua.relation",
+      "scope": "writer:xie-kunhua",
+      "source": "苗栗籍｜出生臺北",
+      "raw": "苗栗籍｜出生臺北",
+      "reviewed": "苗栗籍｜出生臺北",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.xie-kunhua.works.0.note",
+      "scope": "writer:xie-kunhua:work",
+      "source": "首部個人詩集，收70首",
+      "raw": "頭部個人詩集，收70首",
+      "reviewed": "頭部個人詩集，收70首",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.xie-kunhua.works.7.note",
+      "scope": "writer:xie-kunhua:work",
+      "source": "副題：臺灣現代詩手稿學",
+      "raw": "副題：臺灣現代詩手稿學",
+      "reviewed": "副題：臺灣現代詩手稿學",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhong-qiao.bio",
+      "scope": "writer:zhong-qiao",
+      "source": "苗栗三義出身的詩人、報導文學作家與劇場工作者，長期推動民眾劇場，關注農村、勞動、政治暴力與亞洲第三世界處境。",
+      "raw": "苗栗三義出身个詩人、報導文學作家同劇場工作者，長年透天推動民眾劇場，關注農村、勞動、政治暴力摎亞洲第三世界處境。",
+      "reviewed": "苗栗三義出身个詩人、報導文學作家同劇場工作者，長年推動民眾劇場，關注農村、勞動、政治暴力摎亞洲第三世界處境。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.zhong-qiao.workIntro",
+      "scope": "writer:zhong-qiao",
+      "source": "其重要劇本之一，透過劇場打破舞臺與觀眾界線，實踐社會介入與公共對話。",
+      "raw": "其重要个劇本之一，透過劇場打破舞臺共觀眾个界線，實踐社會介入同公共對話。",
+      "reviewed": "其重要个劇本之一，透過劇場打破舞臺共觀眾个界線，實踐社會介入同公共對話。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhong-qiao.style",
+      "scope": "writer:zhong-qiao",
+      "source": "受布雷希特與民眾劇場影響，強調社會批判、現場性與觀眾參與。",
+      "raw": "受布雷希特同民眾劇場影響，強調社會批判、現場性同觀眾參與。",
+      "reviewed": "受布雷希特同民眾劇場影響，強調社會批判、現場性同觀眾參與。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhong-qiao.relation",
+      "scope": "writer:zhong-qiao",
+      "source": "苗栗三義｜出身",
+      "raw": "苗栗三義｜出身",
+      "reviewed": "苗栗三義｜出身",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.li-huanxiong.bio",
+      "scope": "writer:li-huanxiong",
+      "source": "苗栗大湖人，河左岸劇團、創作社劇團創始成員，並任人力飛行劇團藝術總監。創作橫跨詩、劇本、音樂劇與舞臺導演。",
+      "raw": "苗栗大湖人，河左岸劇團、創作社劇團創始成員，並任人力飛行劇團藝術總監。創作橫跨詩、劇本、音樂劇與舞臺導演。",
+      "reviewed": "苗栗大湖人，河左岸劇團、創作社劇團創始成員，並任人力飛行劇團藝術總監。創作橫跨詩、劇本、音樂劇與舞臺導演。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-huanxiong.workIntro",
+      "scope": "writer:li-huanxiong",
+      "source": "其代表劇場作品之一，從1980年代以來持續改寫與演出，展現解嚴世代的政治感知與劇場實驗。",
+      "raw": "佢代表劇場作品之一，從1980年代以來持續改寫同演出，展現解嚴世代个政治感知同劇場實驗。",
+      "reviewed": "佢代表劇場作品之一，從1980年代以來持續改寫同演出，展現解嚴世代个政治感知同劇場實驗。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.li-huanxiong.style",
+      "scope": "writer:li-huanxiong",
+      "source": "臺詞富詩性與節奏，善用多層意象、舞臺機關與動線引導觀眾進入情節。",
+      "raw": "臺詞富詩性同節奏，善用多層意象、舞臺機關參動線引導觀眾進入情節。",
+      "reviewed": "臺詞富詩性同節奏，善用多層意象、舞臺機關參動線引導觀眾進入情節。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-zhengzhi.bio",
+      "scope": "writer:chen-zhengzhi",
+      "source": "生於苗栗，畢業於臺南師專、淡江中文系，長期從事兒童文學、語文教育、修辭與作文教學，著作及論文豐富。",
+      "raw": "生於苗栗，畢業於臺南師專、淡江中文系，長年透天從事細人文學、語文教育、修辭同作文教學，著作及論文豐富。",
+      "reviewed": "生於苗栗，畢業於臺南師專、淡江中文系，長年從事細人文學、語文教育、修辭同作文教學，著作及論文豐富。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.chen-zhengzhi.workIntro",
+      "scope": "writer:chen-zhengzhi",
+      "source": "以適合兒童閱讀的短篇童話傳遞觀察、想像與思考；另著《有趣的中國文字》等語文教育作品。",
+      "raw": "用適合細人仔看个短篇童話傳遞觀察、想像同參詳；另著《生趣个中國文字》等語文教育作品。",
+      "reviewed": "用適合細人仔看个短篇童話傳遞觀察、想像同參詳；另著《有趣的中國文字》等語文教育作品。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.chen-zhengzhi.style",
+      "scope": "writer:chen-zhengzhi",
+      "source": "寓知識於趣味，以清楚、活潑的語言連結識字、修辭與兒童想像。",
+      "raw": "將知識寓於趣味，看現現、活潑个語言連結識字、修辭摎細人仔想像。",
+      "reviewed": "將知識寓於趣味，看現現、活潑个語言連結識字、修辭摎細人仔想像。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.chen-zhengzhi.relation",
+      "scope": "writer:chen-zhengzhi",
+      "source": "苗栗縣｜出生",
+      "raw": "苗栗縣｜正降出來",
+      "reviewed": "苗栗縣｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.du-rongchen.bio",
+      "scope": "writer:du-rongchen",
+      "source": "苗栗人，兒童詩人、作家與研究者，畢業於新竹師專，長期參與兒童文學團體與教學推廣。",
+      "raw": "苗栗人，細人仔詩人、作家摎研究者，畢業於新竹師專，長期參與細人文學團體摎教學推廣。",
+      "reviewed": "苗栗人，細人仔詩人、作家摎研究者，畢業於新竹師專，長期參與細人文學團體摎教學推廣。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.du-rongchen.workIntro",
+      "scope": "writer:du-rongchen",
+      "source": "早期童詩集，另有《花夢》、《童詩五家》及多部兒歌、童詩教學與閱讀指導作品。",
+      "raw": "早期童詩集，另外有《花夢》、《童詩五家》摎多部兒歌、童詩教學佮閱讀指導作品。",
+      "reviewed": "早期童詩集，另外有《花夢》、《童詩五家》摎多部兒歌、童詩教學佮閱讀指導作品。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.du-rongchen.style",
+      "scope": "writer:du-rongchen",
+      "source": "重視忠誠、慈愛、希望與兒童想像，語言有韻律且適合朗讀。",
+      "raw": "重視忠誠、慈愛、希望同細人仔想像，語言有韻律且當好朗讀。",
+      "reviewed": "重視忠誠、慈愛、希望同細人仔想像，語言有韻律且當好朗讀。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.du-rongchen.relation",
+      "scope": "writer:du-rongchen",
+      "source": "苗栗後龍｜出生、任教",
+      "raw": "苗栗後龍｜胞衣跡、教書",
+      "reviewed": "苗栗後龍｜出生、任教",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.hong-zhiming.bio",
+      "scope": "writer:hong-zhiming",
+      "source": "苗栗人，畢業於臺東師院兒童文學研究所，曾任國小教師並參與國語教科書編撰與兒童文學團體。",
+      "raw": "苗栗人，畢業於臺東師院細人文學研究所，曾任國小先生並參加國語教科書編撰摎兒童文學團體。",
+      "reviewed": "苗栗人，畢業於臺東師院細人文學研究所，曾任國小先生並參加國語教科書編撰摎細人文學團體。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.hong-zhiming.workIntro",
+      "scope": "writer:hong-zhiming",
+      "source": "以精簡、具啟發性的寓言帶領兒童思考；另有《童詩萬花筒》、《花巫婆的寵物店》、《星星樹》等。",
+      "raw": "用精簡、具啟發性个寓言帶領細人仔思考；另外有《童詩萬花筒》、《花巫婆个寵物店》、《星仔樹》等。",
+      "reviewed": "用精簡、具啟發性个寓言帶領細人仔思考；另外有《童詩萬花筒》、《花巫婆的寵物店》、《星星樹》等。",
+      "reviewNote": "Shared Hakka rules applied"
+    },
+    {
+      "id": "writer.hong-zhiming.style",
+      "scope": "writer:hong-zhiming",
+      "source": "輕鬆自然、富童趣，重視童詩創作歷程、閱讀欣賞與校園生活。",
+      "raw": "輕鬆自然、富童趣，重視童詩創作个歷程、閱讀欣賞同校園生活。",
+      "reviewed": "輕鬆自然、富童趣，重視童詩創作个歷程、閱讀欣賞同校園生活。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-dianwan.bio",
+      "scope": "writer:zhang-dianwan",
+      "source": "在苗栗頭份客庄成長，資深媒體工作者與報導文學作家，曾兩度獲聯合報報導文學獎。長期記錄女性、客家族群、地方文化與戰後離散記憶。",
+      "raw": "在苗栗頭份客莊成長，老媒體工作者同報導文學作家，有兩擺獲聯合報報導文學獎。長期記錄婦人家、客家族群、地方文化摎戰後離散記憶。",
+      "reviewed": "在苗栗頭份客莊成長，老媒體工作者同報導文學作家，有兩擺獲聯合報報導文學獎。長期記錄婦人家、客家族群、地方文化摎戰後離散記憶。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-dianwan.workIntro",
+      "scope": "writer:zhang-dianwan",
+      "source": "透過檔案、訪談與家族記憶重建太平輪事件及大時代中的個人命運，歷時多年採訪完成。",
+      "raw": "透過檔案、訪談摎家族記憶重建太平輪事件摎大時代肚个個人運命，歷時多年採訪完成。",
+      "reviewed": "透過檔案、訪談摎家族記憶重建太平輪事件摎大時代肚个個人運命，歷時多年採訪完成。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-dianwan.style",
+      "scope": "writer:zhang-dianwan",
+      "source": "以田野訪談與檔案考證為骨架，融入家族史、女性觀點與口述記憶。",
+      "raw": "以田野訪談摎檔案考證為骨架，融合入家族史、女性觀點同口述記憶。",
+      "reviewed": "以田野訪談摎檔案考證為骨架，融合入家族史、女性觀點同口述記憶。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-dianwan.works.2.note",
+      "scope": "writer:zhang-dianwan:work",
+      "source": "副題：日治台灣客家青年群像",
+      "raw": "副題：日本時代臺灣客家青年群像",
+      "reviewed": "副題：日本時代臺灣客家青年群像",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.zhang-dianwan.works.3.note",
+      "scope": "writer:zhang-dianwan:work",
+      "source": "副題：施陳秀蓮的故事",
+      "raw": "副題：施陳秀蓮个故事",
+      "reviewed": "副題：施陳秀蓮个故事",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lan-bozhou.bio",
+      "scope": "writer:lan-bozhou",
+      "source": "生於苗栗西湖，記者與報導文學作家。長期訪談白色恐怖受難者及其家屬，透過口述歷史、檔案與文學敘事重建被壓抑的歷史記憶。",
+      "raw": "生於苗栗西湖，記者同報導文學作家。長期訪談白色恐怖受難者及其家屬，透過口述歷史、檔案同文學敘事重建分壓抑个歷史記憶。",
+      "reviewed": "生於苗栗西湖，記者同報導文學作家。長期訪談白色恐怖受難者及其家屬，透過口述歷史、檔案同文學敘事重建分壓抑个歷史記憶。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lan-bozhou.workIntro",
+      "scope": "writer:lan-bozhou",
+      "source": "追索醫師郭琇琮等人的生命與白色恐怖經驗，是其以報導文學介入臺灣近代史的重要作品。",
+      "raw": "追索醫師郭琇琮等个人个性命同白色恐怖經驗，係其用報導文學介入臺灣近代史个重要作品。",
+      "reviewed": "追索醫師郭琇琮等个人个性命同白色恐怖經驗，係其用報導文學介入臺灣近代史个重要作品。",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lan-bozhou.style",
+      "scope": "writer:lan-bozhou",
+      "source": "以長期田野、口述訪談與歷史檔案交織，立場鮮明地為受難者作傳。",
+      "raw": "長年透天田坵項、口述訪談同歷史檔案交織，立場鮮明地為受難者作傳。",
+      "reviewed": "以長年田野、口述訪談摎歷史檔案交織，立場鮮明地為受難者作傳。",
+      "reviewNote": "GoHakka output grammar or literary term corrected"
+    },
+    {
+      "id": "writer.lan-bozhou.relation",
+      "scope": "writer:lan-bozhou",
+      "source": "苗栗西湖｜出生",
+      "raw": "苗栗西湖｜胞衣跡",
+      "reviewed": "苗栗西湖｜出生",
+      "reviewNote": "Miaoli relation fact label preserved for accuracy"
+    },
+    {
+      "id": "writer.lan-bozhou.works.5.note",
+      "scope": "writer:lan-bozhou:work",
+      "source": "追憶1949年四六事件（師院部分）",
+      "raw": "追憶1949年四六事件（師院部分）",
+      "reviewed": "追憶1949年四六事件（師院部分）",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lan-bozhou.works.6.note",
+      "scope": "writer:lan-bozhou:work",
+      "source": "追憶1949年四六事件（臺大部分）",
+      "raw": "追憶1949年四六事件（臺大部分）",
+      "reviewed": "追憶1949年四六事件（臺大部分）",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "writer.lan-bozhou.works.9.note",
+      "scope": "writer:lan-bozhou:work",
+      "source": "副題：大河底的政治風暴",
+      "raw": "副題：大河壩底个政治風暴",
+      "reviewed": "副題：大河壩底个政治風暴",
+      "reviewNote": "GoHakka natural output retained"
+    },
+    {
+      "id": "workType.0",
+      "scope": "work-type",
+      "source": "古典詩",
+      "raw": "古典詩",
+      "reviewed": "古典詩",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.1",
+      "scope": "work-type",
+      "source": "祭文",
+      "raw": "祭文",
+      "reviewed": "祭文",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.2",
+      "scope": "work-type",
+      "source": "詩集",
+      "raw": "詩集",
+      "reviewed": "詩集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.3",
+      "scope": "work-type",
+      "source": "手抄詩稿",
+      "raw": "手抄詩稿",
+      "reviewed": "手抄詩稿",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.4",
+      "scope": "work-type",
+      "source": "文集",
+      "raw": "文集",
+      "reviewed": "文集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.5",
+      "scope": "work-type",
+      "source": "附集",
+      "raw": "捎捎揫來",
+      "reviewed": "附集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.6",
+      "scope": "work-type",
+      "source": "筆記",
+      "raw": "筆記",
+      "reviewed": "筆記",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.7",
+      "scope": "work-type",
+      "source": "雜錄",
+      "raw": "雜錄",
+      "reviewed": "雜錄",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.8",
+      "scope": "work-type",
+      "source": "地方紀事",
+      "raw": "地方紀事",
+      "reviewed": "地方紀事",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.9",
+      "scope": "work-type",
+      "source": "後人輯本",
+      "raw": "後人輯本",
+      "reviewed": "後人輯本",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.10",
+      "scope": "work-type",
+      "source": "遺稿輯本",
+      "raw": "遺稿輯本",
+      "reviewed": "遺稿輯本",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.11",
+      "scope": "work-type",
+      "source": "詩稿",
+      "raw": "詩稿",
+      "reviewed": "詩稿",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.12",
+      "scope": "work-type",
+      "source": "詩鈔",
+      "raw": "詩鈔",
+      "reviewed": "詩鈔",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.13",
+      "scope": "work-type",
+      "source": "地方志",
+      "raw": "地方志",
+      "reviewed": "地方志",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.14",
+      "scope": "work-type",
+      "source": "組詩",
+      "raw": "組詩",
+      "reviewed": "組詩",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.15",
+      "scope": "work-type",
+      "source": "詩作輯錄",
+      "raw": "詩作輯錄",
+      "reviewed": "詩作輯錄",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.16",
+      "scope": "work-type",
+      "source": "古典詩／獄中詩",
+      "raw": "古典詩／獄中詩",
+      "reviewed": "古典詩／獄中詩",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.17",
+      "scope": "work-type",
+      "source": "作品集",
+      "raw": "作品集",
+      "reviewed": "作品集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.18",
+      "scope": "work-type",
+      "source": "碑記",
+      "raw": "石碑記數",
+      "reviewed": "碑記",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.19",
+      "scope": "work-type",
+      "source": "期刊作品",
+      "raw": "期刊作品",
+      "reviewed": "期刊作品",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.20",
+      "scope": "work-type",
+      "source": "詩文集",
+      "raw": "詩文集",
+      "reviewed": "詩文集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.21",
+      "scope": "work-type",
+      "source": "歌詞",
+      "raw": "歌詞",
+      "reviewed": "歌詞",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.22",
+      "scope": "work-type",
+      "source": "傳統文學",
+      "raw": "傳統个文學",
+      "reviewed": "傳統文學",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.23",
+      "scope": "work-type",
+      "source": "長篇小說",
+      "raw": "長篇小說",
+      "reviewed": "長篇小說",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.24",
+      "scope": "work-type",
+      "source": "自傳體小說",
+      "raw": "自傳體小說",
+      "reviewed": "自傳體小說",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.25",
+      "scope": "work-type",
+      "source": "回憶／評論",
+      "raw": "回憶／評論",
+      "reviewed": "回憶／評論",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.28",
+      "scope": "work-type",
+      "source": "文學回憶",
+      "raw": "文學回憶",
+      "reviewed": "文學回憶",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.29",
+      "scope": "work-type",
+      "source": "客語史詩",
+      "raw": "客語史詩",
+      "reviewed": "客語史詩",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.30",
+      "scope": "work-type",
+      "source": "小說集",
+      "raw": "小說集",
+      "reviewed": "小說集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.31",
+      "scope": "work-type",
+      "source": "口傳文學譯著",
+      "raw": "口傳文學譯著",
+      "reviewed": "口傳文學譯著",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.32",
+      "scope": "work-type",
+      "source": "評論集",
+      "raw": "評論集",
+      "reviewed": "評論集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.33",
+      "scope": "work-type",
+      "source": "文學研究",
+      "raw": "文學研究",
+      "reviewed": "文學研究",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.34",
+      "scope": "work-type",
+      "source": "文學史",
+      "raw": "文學史",
+      "reviewed": "文學史",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.35",
+      "scope": "work-type",
+      "source": "小說／散文",
+      "raw": "小說／散文",
+      "reviewed": "小說／散文",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.36",
+      "scope": "work-type",
+      "source": "傳記文學",
+      "raw": "傳仔文學",
+      "reviewed": "傳記文學",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.37",
+      "scope": "work-type",
+      "source": "中篇小說",
+      "raw": "中篇小說",
+      "reviewed": "中篇小說",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.38",
+      "scope": "work-type",
+      "source": "散文集",
+      "raw": "散文集",
+      "reviewed": "散文集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.39",
+      "scope": "work-type",
+      "source": "短篇小說",
+      "raw": "短篇小說",
+      "reviewed": "短篇小說",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.40",
+      "scope": "work-type",
+      "source": "譯作",
+      "raw": "翻譯",
+      "reviewed": "譯作",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.41",
+      "scope": "work-type",
+      "source": "譯作／選集",
+      "raw": "譯作／選集",
+      "reviewed": "譯作／選集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.42",
+      "scope": "work-type",
+      "source": "回憶錄",
+      "raw": "回憶錄",
+      "reviewed": "回憶錄",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.43",
+      "scope": "work-type",
+      "source": "文壇回憶",
+      "raw": "文壇後生時",
+      "reviewed": "文壇回憶",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.44",
+      "scope": "work-type",
+      "source": "文學評論／散文",
+      "raw": "文學評論／散文",
+      "reviewed": "文學評論／散文",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.45",
+      "scope": "work-type",
+      "source": "合著小說集",
+      "raw": "合著小說集",
+      "reviewed": "合著小說集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.46",
+      "scope": "work-type",
+      "source": "傳記小說",
+      "raw": "傳仔小說",
+      "reviewed": "傳記小說",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.47",
+      "scope": "work-type",
+      "source": "地方文史",
+      "raw": "地方文史",
+      "reviewed": "地方文史",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.48",
+      "scope": "work-type",
+      "source": "地方書寫",
+      "raw": "地方書寫",
+      "reviewed": "地方書寫",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.49",
+      "scope": "work-type",
+      "source": "報導／地方書寫",
+      "raw": "報導／地方書寫",
+      "reviewed": "報導／地方書寫",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.50",
+      "scope": "work-type",
+      "source": "合集",
+      "raw": "合集",
+      "reviewed": "合集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.51",
+      "scope": "work-type",
+      "source": "勞工文學",
+      "raw": "勞工文學",
+      "reviewed": "勞工文學",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.52",
+      "scope": "work-type",
+      "source": "現代詩",
+      "raw": "現代个詩",
+      "reviewed": "現代詩",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.53",
+      "scope": "work-type",
+      "source": "長詩／詩劇",
+      "raw": "長詩／詩劇",
+      "reviewed": "長詩／詩劇",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.54",
+      "scope": "work-type",
+      "source": "全集",
+      "raw": "全集",
+      "reviewed": "全集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.55",
+      "scope": "work-type",
+      "source": "臺語詩集",
+      "raw": "臺語詩集",
+      "reviewed": "臺語詩集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.56",
+      "scope": "work-type",
+      "source": "評論",
+      "raw": "評論",
+      "reviewed": "評論",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.57",
+      "scope": "work-type",
+      "source": "地方文學史",
+      "raw": "地方文學史",
+      "reviewed": "地方文學史",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.58",
+      "scope": "work-type",
+      "source": "主編／女性研究",
+      "raw": "主編／女性研究",
+      "reviewed": "主編／女性研究",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.59",
+      "scope": "work-type",
+      "source": "客語詩集",
+      "raw": "客話詩集",
+      "reviewed": "客語詩集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.60",
+      "scope": "work-type",
+      "source": "文學論述",
+      "raw": "文學論述",
+      "reviewed": "文學論述",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.61",
+      "scope": "work-type",
+      "source": "詩選",
+      "raw": "詩選",
+      "reviewed": "詩選",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.62",
+      "scope": "work-type",
+      "source": "繪本",
+      "raw": "畫圖本",
+      "reviewed": "繪本",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.63",
+      "scope": "work-type",
+      "source": "客語散文集",
+      "raw": "客語散文集",
+      "reviewed": "客語散文集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.64",
+      "scope": "work-type",
+      "source": "客語詩歌文集",
+      "raw": "客語詩歌文集",
+      "reviewed": "客語詩歌文集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.65",
+      "scope": "work-type",
+      "source": "論文集",
+      "raw": "論文集",
+      "reviewed": "論文集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.66",
+      "scope": "work-type",
+      "source": "客語小說",
+      "raw": "客話小說",
+      "reviewed": "客語小說",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.67",
+      "scope": "work-type",
+      "source": "客語詩",
+      "raw": "客話詩",
+      "reviewed": "客語詩",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.68",
+      "scope": "work-type",
+      "source": "詩歌創作計畫",
+      "raw": "詩歌創作計畫",
+      "reviewed": "詩歌創作計畫",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.69",
+      "scope": "work-type",
+      "source": "劇作／劇場論述",
+      "raw": "劇作／劇場論述",
+      "reviewed": "劇作／劇場論述",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.70",
+      "scope": "work-type",
+      "source": "劇場論述",
+      "raw": "劇場論述",
+      "reviewed": "劇場論述",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.72",
+      "scope": "work-type",
+      "source": "劇本集",
+      "raw": "劇本集",
+      "reviewed": "劇本集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.73",
+      "scope": "work-type",
+      "source": "詩抄",
+      "raw": "詩抄",
+      "reviewed": "詩抄",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.74",
+      "scope": "work-type",
+      "source": "音樂劇",
+      "raw": "音樂劇",
+      "reviewed": "音樂劇",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.75",
+      "scope": "work-type",
+      "source": "劇場文集",
+      "raw": "劇場文集",
+      "reviewed": "劇場文集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.76",
+      "scope": "work-type",
+      "source": "童話",
+      "raw": "童話世界",
+      "reviewed": "童話",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.77",
+      "scope": "work-type",
+      "source": "兒歌／語文教育",
+      "raw": "兒歌／語文教育",
+      "reviewed": "兒歌／語文教育",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.78",
+      "scope": "work-type",
+      "source": "語文教育",
+      "raw": "語文教育",
+      "reviewed": "語文教育",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.79",
+      "scope": "work-type",
+      "source": "作文教育",
+      "raw": "作文教育",
+      "reviewed": "作文教育",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.80",
+      "scope": "work-type",
+      "source": "兒童文學研究",
+      "raw": "細人仔文學研究",
+      "reviewed": "細人文學研究",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.81",
+      "scope": "work-type",
+      "source": "兒童寫作教育",
+      "raw": "細人仔著作教育",
+      "reviewed": "細人寫作教育",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.82",
+      "scope": "work-type",
+      "source": "童詩集",
+      "raw": "做細人詩集",
+      "reviewed": "童詩集",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.83",
+      "scope": "work-type",
+      "source": "童詩／賞析",
+      "raw": "童詩／賞析",
+      "reviewed": "童詩／賞析",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.85",
+      "scope": "work-type",
+      "source": "童詩",
+      "raw": "細人詩",
+      "reviewed": "童詩",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.86",
+      "scope": "work-type",
+      "source": "寓言",
+      "raw": "寓言故事",
+      "reviewed": "寓言",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.87",
+      "scope": "work-type",
+      "source": "報導／性別文化",
+      "raw": "報導／个性別文化",
+      "reviewed": "報導／性別文化",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.89",
+      "scope": "work-type",
+      "source": "人物報導",
+      "raw": "人物報導",
+      "reviewed": "人物報導",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.90",
+      "scope": "work-type",
+      "source": "文學史／報導",
+      "raw": "文學史／報導",
+      "reviewed": "文學史／報導",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.91",
+      "scope": "work-type",
+      "source": "歷史報導",
+      "raw": "歷史報導",
+      "reviewed": "歷史報導",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.92",
+      "scope": "work-type",
+      "source": "報導／小說",
+      "raw": "報導／小說",
+      "reviewed": "報導／小說",
+      "reviewNote": "Formal bibliographic classification preserved"
+    },
+    {
+      "id": "workType.93",
+      "scope": "work-type",
+      "source": "作家研究",
+      "raw": "作家研究",
+      "reviewed": "作家研究",
+      "reviewNote": "Formal bibliographic classification preserved"
+    }
+  ]
+}

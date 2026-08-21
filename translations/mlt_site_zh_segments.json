@@ -1,0 +1,1953 @@
+{
+  "metadata": {
+    "sourceLanguage": "zh-Hant",
+    "targetLanguage": "hak-TW",
+    "dialectCode": "sixian",
+    "mode": "natural",
+    "engine": "model",
+    "generatedAt": "2026-08-21T01:05:35.732Z",
+    "note": "作家姓名、作品名、機構名、來源名稱與網址保留原文；其餘可見網站文案逐段翻譯。"
+  },
+  "segments": [
+    {
+      "id": "site.brandHomeLabel",
+      "scope": "site",
+      "text": "苗栗文學步道首頁"
+    },
+    {
+      "id": "site.brandName",
+      "scope": "site",
+      "text": "苗栗文學步道"
+    },
+    {
+      "id": "site.brandStatus",
+      "scope": "site",
+      "text": "推廣協會（籌備中）"
+    },
+    {
+      "id": "site.navLabel",
+      "scope": "site",
+      "text": "主要選單"
+    },
+    {
+      "id": "site.navNews",
+      "scope": "site",
+      "text": "最新消息"
+    },
+    {
+      "id": "site.navArchive",
+      "scope": "site",
+      "text": "作家資料庫"
+    },
+    {
+      "id": "site.navStory",
+      "scope": "site",
+      "text": "步道緣起"
+    },
+    {
+      "id": "site.navVisit",
+      "scope": "site",
+      "text": "交通指引"
+    },
+    {
+      "id": "site.navAssociation",
+      "scope": "site",
+      "text": "關於協會"
+    },
+    {
+      "id": "site.navFounders",
+      "scope": "site",
+      "text": "發起人"
+    },
+    {
+      "id": "site.navJoin",
+      "scope": "site",
+      "text": "加入我們"
+    },
+    {
+      "id": "site.languageLabel",
+      "scope": "site",
+      "text": "網站語言"
+    },
+    {
+      "id": "site.languageMandarin",
+      "scope": "site",
+      "text": "華語"
+    },
+    {
+      "id": "site.languageHakka",
+      "scope": "site",
+      "text": "客語"
+    },
+    {
+      "id": "site.heroAlt",
+      "scope": "site",
+      "text": "國立聯合大學八甲校區湖畔的苗栗文學步道入口、湖景與校舍"
+    },
+    {
+      "id": "site.heroTitle",
+      "scope": "site",
+      "text": "讓文學，走進地方的風景。"
+    },
+    {
+      "id": "site.heroDescription",
+      "scope": "site",
+      "text": "沿著聯大湖畔，閱讀橫跨古典詩、小說、散文與新詩的苗栗文學。"
+    },
+    {
+      "id": "site.heroAction",
+      "scope": "site",
+      "text": "探索作家資料庫"
+    },
+    {
+      "id": "site.heroStatsLabel",
+      "scope": "site",
+      "text": "資料庫統計"
+    },
+    {
+      "id": "site.heroStatCatalog",
+      "scope": "site",
+      "text": "網站名錄"
+    },
+    {
+      "id": "site.heroStatGenres",
+      "scope": "site",
+      "text": "種文類"
+    },
+    {
+      "id": "site.heroStatTrail",
+      "scope": "site",
+      "text": "步道現地作家"
+    },
+    {
+      "id": "site.photoCredit",
+      "scope": "site",
+      "text": "影像／苗栗文學步道實景照片・主視覺調色設計"
+    },
+    {
+      "id": "site.newsLabel",
+      "scope": "site",
+      "text": "最新消息 · 2026.08"
+    },
+    {
+      "id": "site.newsText",
+      "scope": "site",
+      "text": "作家資料庫全面清查版、52張步道實景相簿與大學湖 Google 地圖指引已上線。"
+    },
+    {
+      "id": "site.archiveTitle",
+      "scope": "site",
+      "text": "苗栗作家資料庫"
+    },
+    {
+      "id": "site.archiveVersion",
+      "scope": "site",
+      "text": "全面清查版 2026.08"
+    },
+    {
+      "id": "site.archiveDescription",
+      "scope": "site",
+      "text": "39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。"
+    },
+    {
+      "id": "site.archiveDownload",
+      "scope": "site",
+      "text": "下載完整作家資料 Excel"
+    },
+    {
+      "id": "site.storyTitle",
+      "scope": "site",
+      "text": "從校慶啟動規劃，走出一條文學的路。"
+    },
+    {
+      "id": "site.storyParagraph1",
+      "scope": "site",
+      "text": "2022年，國立聯合大學於校慶期間啟動苗栗文學步道規劃。為強化在地連結與人文教育，校友募款、學者與校內團隊共同參與，在八甲校區大學湖畔建置約六百公尺的苗栗文學步道。"
+    },
+    {
+      "id": "site.storyParagraph2",
+      "scope": "site",
+      "text": "諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。"
+    },
+    {
+      "id": "site.storyNewsLink",
+      "scope": "site",
+      "text": "客新聞專題"
+    },
+    {
+      "id": "site.storyVideoLink",
+      "scope": "site",
+      "text": "步道參考影片"
+    },
+    {
+      "id": "site.storyMeters",
+      "scope": "site",
+      "text": "公尺的閱讀風景"
+    },
+    {
+      "id": "site.storyStart",
+      "scope": "site",
+      "text": "校慶規劃啟動"
+    },
+    {
+      "id": "site.storyWriters",
+      "scope": "site",
+      "text": "位作家作品落地"
+    },
+    {
+      "id": "site.storyNow",
+      "scope": "site",
+      "text": "數位資料庫延伸"
+    },
+    {
+      "id": "site.galleryTitle",
+      "scope": "site",
+      "text": "文字就在湖畔發生"
+    },
+    {
+      "id": "site.galleryDescription",
+      "scope": "site",
+      "text": "作品以玻璃噴砂、大理石雕刻、金屬板與水泥基座等形式，融入八甲校區的湖光與綠意。"
+    },
+    {
+      "id": "site.galleryAlbum",
+      "scope": "site",
+      "text": "完整相簿 · 52 張"
+    },
+    {
+      "id": "site.galleryRegion",
+      "scope": "site",
+      "text": "苗栗文學步道52張實景照片"
+    },
+    {
+      "id": "site.galleryPrevious",
+      "scope": "site",
+      "text": "瀏覽上一批步道照片"
+    },
+    {
+      "id": "site.galleryNext",
+      "scope": "site",
+      "text": "瀏覽下一批步道照片"
+    },
+    {
+      "id": "site.galleryPhotoAlt",
+      "scope": "site",
+      "text": "苗栗文學步道實景照片，第 {number} 張"
+    },
+    {
+      "id": "site.galleryHint",
+      "scope": "site",
+      "text": "拖曳、滑動或使用左右按鈕瀏覽完整相簿"
+    },
+    {
+      "id": "site.associationTitle",
+      "scope": "site",
+      "text": "守護一條步道，也守護地方的記憶。"
+    },
+    {
+      "id": "site.associationDescription",
+      "scope": "site",
+      "text": "「台灣苗栗文學步道推廣協會」正在籌備中。我們期待結合校園、社區、文化工作者與社會各界，讓苗栗文學成為可閱讀、可行走、可傳承的公共文化資產。"
+    },
+    {
+      "id": "site.associationQuote",
+      "scope": "site",
+      "text": "讓文學走進校園，走進地方，走進生活。"
+    },
+    {
+      "id": "site.directionEducationTitle",
+      "scope": "site",
+      "text": "文學教育"
+    },
+    {
+      "id": "site.directionEducationDetail",
+      "scope": "site",
+      "text": "講座、閱讀、賞析與教師研習"
+    },
+    {
+      "id": "site.directionGuideTitle",
+      "scope": "site",
+      "text": "在地導覽"
+    },
+    {
+      "id": "site.directionGuideDetail",
+      "scope": "site",
+      "text": "培訓志工，串聯校園與社區"
+    },
+    {
+      "id": "site.directionDigitalTitle",
+      "scope": "site",
+      "text": "數位典藏"
+    },
+    {
+      "id": "site.directionDigitalDetail",
+      "scope": "site",
+      "text": "作家資料庫、QR Code 與語音導覽"
+    },
+    {
+      "id": "site.directionLocalTitle",
+      "scope": "site",
+      "text": "地方共創"
+    },
+    {
+      "id": "site.directionLocalDetail",
+      "scope": "site",
+      "text": "連結作家、文化工作者與地方團隊"
+    },
+    {
+      "id": "site.foundersTitle",
+      "scope": "site",
+      "text": "發起人名單"
+    },
+    {
+      "id": "site.foundersNote",
+      "scope": "site",
+      "text": "依姓氏筆畫排列；僅列華語姓名。"
+    },
+    {
+      "id": "site.charterTitle",
+      "scope": "site",
+      "text": "協會章程草案摘要"
+    },
+    {
+      "id": "site.charter1Title",
+      "scope": "site",
+      "text": "宗旨與區域"
+    },
+    {
+      "id": "site.charter1Text",
+      "scope": "site",
+      "text": "以苗栗縣為組織區域，推廣在地文學、人文教育、步道維護、文化觀光與地方創生。"
+    },
+    {
+      "id": "site.charter2Title",
+      "scope": "site",
+      "text": "會員與治理"
+    },
+    {
+      "id": "site.charter2Text",
+      "scope": "site",
+      "text": "規劃個人、團體與贊助會員；會員大會為最高權力機構，設理事9人、監事3人。"
+    },
+    {
+      "id": "site.charter3Title",
+      "scope": "site",
+      "text": "四類委員會"
+    },
+    {
+      "id": "site.charter3Text",
+      "scope": "site",
+      "text": "步道規劃、教育推廣、導覽與志工發展、數位與出版，依業務需要推進工作。"
+    },
+    {
+      "id": "site.charter4Title",
+      "scope": "site",
+      "text": "財務與公益"
+    },
+    {
+      "id": "site.charter4Text",
+      "scope": "site",
+      "text": "經費來自會費、捐款、補助與活動；解散後剩餘財產不得分配會員，歸屬公益用途。"
+    },
+    {
+      "id": "site.charterNote",
+      "scope": "site",
+      "text": "本摘要依使用者提供的26條章程草案整理；正式版本須經會員大會通過並報主管機關核備。"
+    },
+    {
+      "id": "site.sourceTitle",
+      "scope": "site",
+      "text": "每一筆資料，都應該找得到來處。"
+    },
+    {
+      "id": "site.sourceParagraph1",
+      "scope": "site",
+      "text": "本資料庫是可持續校訂的全面清查版。內容優先採用文化部國家文化記憶庫、國立臺灣文學館、國家圖書館、客家委員會、地方政府、正式出版及學術研究資料。"
+    },
+    {
+      "id": "site.sourceParagraph2",
+      "scope": "site",
+      "text": "本地參考文獻包括使用者提供的《客家文化事典》與苗栗文學步道相簿。姓名、年代或版本有異說時，卡片中直接註明；目前收錄的252筆作品是「已查證主要作品」，作家作品極多或公開書目有限時不宣稱完整全集。"
+    },
+    {
+      "id": "site.sourceTagOfficial",
+      "scope": "site",
+      "text": "官方資料優先"
+    },
+    {
+      "id": "site.sourceTagLinks",
+      "scope": "site",
+      "text": "逐筆附連結"
+    },
+    {
+      "id": "site.sourceTagVariants",
+      "scope": "site",
+      "text": "異說明確註記"
+    },
+    {
+      "id": "site.sourceTagWorks",
+      "scope": "site",
+      "text": "252筆作品索引"
+    },
+    {
+      "id": "site.joinTitle",
+      "scope": "site",
+      "text": "一起，為苗栗留下更深的人文風景。"
+    },
+    {
+      "id": "site.joinText",
+      "scope": "site",
+      "text": "我們正在招募發起人會員、籌備委員、一般會員、志工夥伴與顧問。歡迎教師、校友、文化工作者與關心苗栗的朋友加入。"
+    },
+    {
+      "id": "site.joinAction",
+      "scope": "site",
+      "text": "填寫「加入我們」表單"
+    },
+    {
+      "id": "site.joinNote",
+      "scope": "site",
+      "text": "表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。"
+    },
+    {
+      "id": "site.visitTitle",
+      "scope": "site",
+      "text": "前往苗栗文學步道"
+    },
+    {
+      "id": "site.visitText",
+      "scope": "site",
+      "text": "步道位於國立聯合大學第二（八甲）校區大學湖畔。抵達校區後，請循大學湖方向步行，即可看見環湖設置的文學作品。"
+    },
+    {
+      "id": "site.visitAddress",
+      "scope": "site",
+      "text": "苗栗市南勢里聯大2號 · 國立聯合大學八甲校區大學湖"
+    },
+    {
+      "id": "site.visitMapAction",
+      "scope": "site",
+      "text": "使用 Google Maps 導航"
+    },
+    {
+      "id": "site.visitSchoolLink",
+      "scope": "site",
+      "text": "聯大校址資訊"
+    },
+    {
+      "id": "site.visitMapTitle",
+      "scope": "site",
+      "text": "苗栗文學步道—國立聯合大學大學湖 Google 地圖"
+    },
+    {
+      "id": "site.footerNote",
+      "scope": "site",
+      "text": "本網站為協會籌備版 · 作家資料庫持續校訂中"
+    },
+    {
+      "id": "site.visitorAlt",
+      "scope": "site",
+      "text": "到訪人次；每次重新載入頁面加一"
+    },
+    {
+      "id": "site.writerFilterLabel",
+      "scope": "site",
+      "text": "依文類篩選"
+    },
+    {
+      "id": "site.writerSearchLabel",
+      "scope": "site",
+      "text": "搜尋作家或作品"
+    },
+    {
+      "id": "site.writerSearchPlaceholder",
+      "scope": "site",
+      "text": "搜尋作家、別名或作品…"
+    },
+    {
+      "id": "site.writerClearSearch",
+      "scope": "site",
+      "text": "清除搜尋"
+    },
+    {
+      "id": "site.writerShowing",
+      "scope": "site",
+      "text": "顯示 {shown} / {total} 位作家"
+    },
+    {
+      "id": "site.writerWorkCount",
+      "scope": "site",
+      "text": "共收錄 {count} 筆已查證主要作品"
+    },
+    {
+      "id": "site.writerFeatured",
+      "scope": "site",
+      "text": "代表作品"
+    },
+    {
+      "id": "site.writerNoResults",
+      "scope": "site",
+      "text": "找不到相符資料"
+    },
+    {
+      "id": "site.writerClearFilter",
+      "scope": "site",
+      "text": "清除篩選"
+    },
+    {
+      "id": "site.writerClose",
+      "scope": "site",
+      "text": "關閉作家資料"
+    },
+    {
+      "id": "site.writerBio",
+      "scope": "site",
+      "text": "生平簡介"
+    },
+    {
+      "id": "site.writerWorks",
+      "scope": "site",
+      "text": "已查證主要作品"
+    },
+    {
+      "id": "site.writerWorksNote",
+      "scope": "site",
+      "text": "依目前可公開查核之官方、館藏、出版與學術書目整理；作品極多者採主要作品選列，不宣稱完整全集。"
+    },
+    {
+      "id": "site.writerStyle",
+      "scope": "site",
+      "text": "文學風格"
+    },
+    {
+      "id": "site.writerSources",
+      "scope": "site",
+      "text": "資料來源與連結"
+    },
+    {
+      "id": "site.writerSourceNote",
+      "scope": "site",
+      "text": "另交叉參考使用者提供之《客家文化事典》文學類條目與苗栗文學步道名錄；年代或版本有異說者已在卡片內標示。"
+    },
+    {
+      "id": "site.genreAll",
+      "scope": "site",
+      "text": "全部"
+    },
+    {
+      "id": "site.genreClassical",
+      "scope": "site",
+      "text": "古典文學"
+    },
+    {
+      "id": "site.genreNovel",
+      "scope": "site",
+      "text": "小說"
+    },
+    {
+      "id": "site.genreProse",
+      "scope": "site",
+      "text": "散文"
+    },
+    {
+      "id": "site.genrePoetry",
+      "scope": "site",
+      "text": "新詩"
+    },
+    {
+      "id": "site.genreDrama",
+      "scope": "site",
+      "text": "劇作"
+    },
+    {
+      "id": "site.genreChildren",
+      "scope": "site",
+      "text": "兒童文學"
+    },
+    {
+      "id": "site.genreReportage",
+      "scope": "site",
+      "text": "報導文學"
+    },
+    {
+      "id": "site.translationCredit",
+      "scope": "site",
+      "text": "客語翻譯使用 GoHakka 自然翻譯模式，並依共用客語規則校訂。"
+    },
+    {
+      "id": "writer.ruan-caiwen.bio",
+      "scope": "writer:ruan-caiwen",
+      "text": "清代福建漳浦人。1715年調任臺灣北路營參將，在臺整飭吏治、撫恤民眾並捐俸興學；其臺灣題材詩文留下清初地方社會的珍貴觀察。"
+    },
+    {
+      "id": "writer.ruan-caiwen.workIntro",
+      "scope": "writer:ruan-caiwen",
+      "text": "悼祭流落臺灣、死於異鄉而無人奉祀者的祭文，也反映作者在任期間對地方民生的關懷。"
+    },
+    {
+      "id": "writer.ruan-caiwen.style",
+      "scope": "writer:ruan-caiwen",
+      "text": "以官員親歷寫地方風物與民瘼，文字兼具紀實、憫恤與教化色彩。"
+    },
+    {
+      "id": "writer.ruan-caiwen.relation",
+      "scope": "writer:ruan-caiwen",
+      "text": "福建漳浦｜曾任臺灣北路營參將"
+    },
+    {
+      "id": "writer.huang-qingtai.bio",
+      "scope": "writer:huang-qingtai",
+      "text": "祖籍廣東鎮平，先後居於鳳山與頭份，任武職三十餘年。1822年與海盜作戰負傷，未及赴任新職即卒；史料稱其好學能詩，有儒將之風。"
+    },
+    {
+      "id": "writer.huang-qingtai.workIntro",
+      "scope": "writer:huang-qingtai",
+      "text": "現存四首詩之一，以行旅所見書寫臺灣河川地景；另存〈烏水溪〉、〈九日登八卦山〉等作。"
+    },
+    {
+      "id": "writer.huang-qingtai.style",
+      "scope": "writer:huang-qingtai",
+      "text": "以軍旅行履結合臺灣山川紀遊，筆調清健。"
+    },
+    {
+      "id": "writer.huang-qingtai.relation",
+      "scope": "writer:huang-qingtai",
+      "text": "苗栗頭份｜曾居頭份"
+    },
+    {
+      "id": "writer.li-ying.bio",
+      "scope": "writer:li-ying",
+      "text": "清代苗栗重要教育家與古典詩人，1782年生，後定居西湖並以教讀維生，形成三湖村黎氏塾師世家。國家文化記憶庫同一條目並存1833與1843兩種卒年記載，條目考證傾向1843年。"
+    },
+    {
+      "id": "writer.li-ying.workIntro",
+      "scope": "writer:li-ying",
+      "text": "國家文化記憶庫以此詩集標示其古典詩創作脈絡；作品與版本資訊仍需進一步校勘。"
+    },
+    {
+      "id": "writer.li-ying.style",
+      "scope": "writer:li-ying",
+      "text": "以傳統漢詩與地方教育實踐相連；更細緻的風格判定待作品校勘後補充。"
+    },
+    {
+      "id": "writer.li-ying.relation",
+      "scope": "writer:li-ying",
+      "text": "苗栗西湖｜定居三湖村"
+    },
+    {
+      "id": "writer.li-ying.works.0.note",
+      "scope": "writer:li-ying:work",
+      "text": "據國家文化記憶庫條目"
+    },
+    {
+      "id": "writer.li-ying.works.1.note",
+      "scope": "writer:li-ying:work",
+      "text": "現存手稿題名；收詩140首，其中128首可歸於黎瑩"
+    },
+    {
+      "id": "writer.wu-ziguang.bio",
+      "scope": "writer:wu-ziguang",
+      "text": "清代文人與教育家，1837年起多次渡臺，後定居苗栗銅鑼雙峰山，設草堂授徒。其著述兼具詩文、地方紀事與教育史價值。"
+    },
+    {
+      "id": "writer.wu-ziguang.workIntro",
+      "scope": "writer:wu-ziguang",
+      "text": "後人自其稿本輯出與臺灣史跡相關的文字，收入《臺灣文獻叢刊》，是研究清代臺灣地方社會的重要材料。"
+    },
+    {
+      "id": "writer.wu-ziguang.style",
+      "scope": "writer:wu-ziguang",
+      "text": "兼採紀事、議論與詩文，重視地方文教與民生觀察。"
+    },
+    {
+      "id": "writer.wu-ziguang.relation",
+      "scope": "writer:wu-ziguang",
+      "text": "苗栗銅鑼｜定居雙峰山"
+    },
+    {
+      "id": "writer.wu-ziguang.works.0.note",
+      "scope": "writer:wu-ziguang:work",
+      "text": "18卷"
+    },
+    {
+      "id": "writer.wu-ziguang.works.1.note",
+      "scope": "writer:wu-ziguang:work",
+      "text": "1卷"
+    },
+    {
+      "id": "writer.wu-ziguang.works.2.note",
+      "scope": "writer:wu-ziguang:work",
+      "text": "16卷"
+    },
+    {
+      "id": "writer.wu-ziguang.works.3.note",
+      "scope": "writer:wu-ziguang:work",
+      "text": "12卷"
+    },
+    {
+      "id": "writer.zhang-weiyuan.bio",
+      "scope": "writer:zhang-weiyuan",
+      "text": "清代苗栗地方文人，1871年中進士，與苗栗地方文教及張氏家族史密切相關。現存創作主要見於後人整理的詩稿與地方文獻。"
+    },
+    {
+      "id": "writer.zhang-weiyuan.workIntro",
+      "scope": "writer:zhang-weiyuan",
+      "text": "後人整理其漢詩而成，是認識其古典詩創作的主要文獻。"
+    },
+    {
+      "id": "writer.zhang-weiyuan.style",
+      "scope": "writer:zhang-weiyuan",
+      "text": "傳統近體詩寫作；細部風格不在資料不足時逕作推論。"
+    },
+    {
+      "id": "writer.zhang-weiyuan.relation",
+      "scope": "writer:zhang-weiyuan",
+      "text": "苗栗頭份｜辭官後定居"
+    },
+    {
+      "id": "writer.zhang-weiyuan.works.0.note",
+      "scope": "writer:zhang-weiyuan:work",
+      "text": "現存作品主要由後人輯存"
+    },
+    {
+      "id": "writer.cai-qiyun.bio",
+      "scope": "writer:cai-qiyun",
+      "text": "苗栗苑裡人，清代古典詩人。曾組織竹梅吟社，並為櫟社早期重要成員；1895年參與抗日，失敗後退居詩文生活。名錄原標1862，依國家文化記憶庫更正為1855年生。"
+    },
+    {
+      "id": "writer.cai-qiyun.workIntro",
+      "scope": "writer:cai-qiyun",
+      "text": "未刊詩稿；另有《啟運詩鈔》及收錄四百餘首唱酬作品的《臺海擊缽吟集》。"
+    },
+    {
+      "id": "writer.cai-qiyun.style",
+      "scope": "writer:cai-qiyun",
+      "text": "詩文唱酬與遺民情懷並見，也書寫苑裡藺草等地方物產。"
+    },
+    {
+      "id": "writer.cai-qiyun.relation",
+      "scope": "writer:cai-qiyun",
+      "text": "苗栗苑裡｜出生"
+    },
+    {
+      "id": "writer.cai-qiyun.works.0.note",
+      "scope": "writer:cai-qiyun:work",
+      "text": "未刊"
+    },
+    {
+      "id": "writer.cai-qiyun.works.1.note",
+      "scope": "writer:cai-qiyun:work",
+      "text": "《櫟社第一集》錄18首"
+    },
+    {
+      "id": "writer.cai-qiyun.works.2.note",
+      "scope": "writer:cai-qiyun:work",
+      "text": "蔡汝修編，收唱酬詩400餘首"
+    },
+    {
+      "id": "writer.cai-qiyun.works.4.note",
+      "scope": "writer:cai-qiyun:work",
+      "text": "參與修編"
+    },
+    {
+      "id": "writer.qiu-fengjia.bio",
+      "scope": "writer:qiu-fengjia",
+      "text": "生於苗栗銅鑼，清末進士、詩人與教育家。1895年反對割臺並參與臺灣民主國，後內渡廣東持續辦學與創作。"
+    },
+    {
+      "id": "writer.qiu-fengjia.workIntro",
+      "scope": "writer:qiu-fengjia",
+      "text": "收錄其在臺時期的重要詩作，呈現感時憂世、關注臺灣命運與地方風物的面向。"
+    },
+    {
+      "id": "writer.qiu-fengjia.style",
+      "scope": "writer:qiu-fengjia",
+      "text": "強調詩史精神與時政關懷，語勢明朗強健，並實踐詩界革命。"
+    },
+    {
+      "id": "writer.qiu-fengjia.relation",
+      "scope": "writer:qiu-fengjia",
+      "text": "苗栗銅鑼｜出生"
+    },
+    {
+      "id": "writer.chen-hu.bio",
+      "scope": "writer:chen-hu",
+      "text": "苗栗苑裡人，詩人、教師、記者與地方實業參與者，為櫟社早期重要成員。名錄中的「陳滄玉」是以字稱人，本名陳瑚；國立臺灣文學館資料記其生年為1875年。"
+    },
+    {
+      "id": "writer.chen-hu.workIntro",
+      "scope": "writer:chen-hu",
+      "text": "陳瑚逝世後由詩友整理刊行的主要詩作結集；其生前作品另以〈趣園詩草〉之名收入《櫟社第一集》。"
+    },
+    {
+      "id": "writer.chen-hu.style",
+      "scope": "writer:chen-hu",
+      "text": "以漢詩唱酬、地方景物與時代感懷為主要取向。"
+    },
+    {
+      "id": "writer.chen-hu.works.0.note",
+      "scope": "writer:chen-hu:work",
+      "text": "身後輯刊"
+    },
+    {
+      "id": "writer.chen-hu.works.1.note",
+      "scope": "writer:chen-hu:work",
+      "text": "收入《櫟社第一集》"
+    },
+    {
+      "id": "writer.luo-fuxing.bio",
+      "scope": "writer:luo-fuxing",
+      "text": "生於印尼雅加達，青年時來臺居苗栗並參與革命組織。1913年苗栗事件後遭捕，1914年在臺北監獄被處絞刑。部分資料作1884年生，本站採文化部資料的1886年並保留分歧。"
+    },
+    {
+      "id": "writer.luo-fuxing.workIntro",
+      "scope": "writer:luo-fuxing",
+      "text": "獄中以「中華民國孫逸仙救」八字為句首寫成，凝聚其政治理想與犧牲意志。"
+    },
+    {
+      "id": "writer.luo-fuxing.style",
+      "scope": "writer:luo-fuxing",
+      "text": "以古典詩詞形式承載革命宣言與民族情感。"
+    },
+    {
+      "id": "writer.luo-fuxing.relation",
+      "scope": "writer:luo-fuxing",
+      "text": "苗栗｜青年時居住、參與抗日"
+    },
+    {
+      "id": "writer.zhang-hanwen.bio",
+      "scope": "writer:zhang-hanwen",
+      "text": "苗栗頭份地方文人，1902年生、1979年卒。曾赴日本及中國求學，為康有為萬木草堂末代門生之一；民國初年曾任外交人員、派駐日本與新加坡，戰後返臺，持續書寫苗栗地方文化。"
+    },
+    {
+      "id": "writer.zhang-hanwen.workIntro",
+      "scope": "writer:zhang-hanwen",
+      "text": "後人整理為兩冊作品集；另可查〈永貞宮改建記〉，多數詩文曾刊於《醒獅》雜誌。"
+    },
+    {
+      "id": "writer.zhang-hanwen.style",
+      "scope": "writer:zhang-hanwen",
+      "text": "以傳統詩文、碑記與地方文化書寫為主，連結民國初年學術養成與戰後苗栗文史記憶。"
+    },
+    {
+      "id": "writer.zhang-hanwen.relation",
+      "scope": "writer:zhang-hanwen",
+      "text": "苗栗頭份｜地方文人"
+    },
+    {
+      "id": "writer.zhang-hanwen.works.0.note",
+      "scope": "writer:zhang-hanwen:work",
+      "text": "全兩冊"
+    },
+    {
+      "id": "writer.zhang-hanwen.works.2.note",
+      "scope": "writer:zhang-hanwen:work",
+      "text": "多數作品散見《醒獅》"
+    },
+    {
+      "id": "writer.lai-jiangzhi.bio",
+      "scope": "writer:lai-jiangzhi",
+      "text": "苗栗詩人，曾任栗社社長，兼擅詩詞、書法、客家歌謠與地方文史，被稱為「苗栗詩仙」。晚年仍教授漢詩。"
+    },
+    {
+      "id": "writer.lai-jiangzhi.workIntro",
+      "scope": "writer:lai-jiangzhi",
+      "text": "1993年由黃鼎松整理出版，收錄其一生作品；其中七十首「苗栗竹枝詞」以十八鄉鎮風貌為題。"
+    },
+    {
+      "id": "writer.lai-jiangzhi.style",
+      "scope": "writer:lai-jiangzhi",
+      "text": "融地方地理、民情風俗與客家語感入傳統詩詞。"
+    },
+    {
+      "id": "writer.lai-jiangzhi.relation",
+      "scope": "writer:lai-jiangzhi",
+      "text": "苗栗縣｜出生、長期書寫地方"
+    },
+    {
+      "id": "writer.lai-jiangzhi.works.1.note",
+      "scope": "writer:lai-jiangzhi:work",
+      "text": "共70首，描寫苗栗18鄉鎮"
+    },
+    {
+      "id": "writer.lai-jiangzhi.works.2.note",
+      "scope": "writer:lai-jiangzhi:work",
+      "text": "散見於作品集"
+    },
+    {
+      "id": "writer.wu-zhuoliu.bio",
+      "scope": "writer:wu-zhuoliu",
+      "text": "新竹新埔人，曾任教員、記者與公職。1936年開始小說創作，1964年創辦《臺灣文藝》，並設文學獎鼓勵本土作家。曾在苗栗西湖任教，與苗栗文學史關係深厚。"
+    },
+    {
+      "id": "writer.wu-zhuoliu.workIntro",
+      "scope": "writer:wu-zhuoliu",
+      "text": "透過胡太明在臺灣、日本與中國間的遭遇，呈現殖民統治下臺灣人的認同困境，是臺灣文學的重要經典。"
+    },
+    {
+      "id": "writer.wu-zhuoliu.style",
+      "scope": "writer:wu-zhuoliu",
+      "text": "寫實而具歷史使命感，關注殖民處境、社會荒謬與臺灣人的精神命運。"
+    },
+    {
+      "id": "writer.wu-zhuoliu.relation",
+      "scope": "writer:wu-zhuoliu",
+      "text": "苗栗西湖｜曾任教"
+    },
+    {
+      "id": "writer.li-qiao.bio",
+      "scope": "writer:li-qiao",
+      "text": "苗栗大湖人，小說家與文化評論者，長期任教。1959年發表首篇小說，創作橫跨短篇、長篇與文化論述。"
+    },
+    {
+      "id": "writer.li-qiao.workIntro",
+      "scope": "writer:li-qiao",
+      "text": "以清末至日治時期苗栗山村為背景，描寫拓墾、抗爭與戰爭下的庶民生命，是臺灣大河小說的重要里程碑。"
+    },
+    {
+      "id": "writer.li-qiao.style",
+      "scope": "writer:li-qiao",
+      "text": "結合歷史寫實、意識流與強烈的人道批判，建構庶民觀點的臺灣史。"
+    },
+    {
+      "id": "writer.li-qiao.relation",
+      "scope": "writer:li-qiao",
+      "text": "苗栗大湖｜出生"
+    },
+    {
+      "id": "writer.li-qiao.works.0.note",
+      "scope": "writer:li-qiao:work",
+      "text": "《寒夜三部曲》之一"
+    },
+    {
+      "id": "writer.li-qiao.works.1.note",
+      "scope": "writer:li-qiao:work",
+      "text": "《寒夜三部曲》之二"
+    },
+    {
+      "id": "writer.li-qiao.works.2.note",
+      "scope": "writer:li-qiao:work",
+      "text": "《寒夜三部曲》之三"
+    },
+    {
+      "id": "writer.tian-minzhong.bio",
+      "scope": "writer:tian-minzhong",
+      "text": "泰雅族作家，生於苗栗泰安鄉大安溪流域的天狗部落。創作與翻譯聚焦族群認同、部落傳統、口傳歷史及原住民族處境。"
+    },
+    {
+      "id": "writer.tian-minzhong.workIntro",
+      "scope": "writer:tian-minzhong",
+      "text": "1995年出版的短篇小說集，從部落生活、歷史記憶與族群觀點書寫泰雅世界；另有《赤裸山脈》。"
+    },
+    {
+      "id": "writer.tian-minzhong.style",
+      "scope": "writer:tian-minzhong",
+      "text": "以部落口傳、古典語彙與現實批判交織，呈現泰雅族主體視角。"
+    },
+    {
+      "id": "writer.tian-minzhong.relation",
+      "scope": "writer:tian-minzhong",
+      "text": "苗栗泰安｜天狗部落出生"
+    },
+    {
+      "id": "writer.tian-minzhong.works.4.note",
+      "scope": "writer:tian-minzhong:work",
+      "text": "副題：北勢八社天狗部落的祖靈傳說與抗日傳奇"
+    },
+    {
+      "id": "writer.wang-youhua.bio",
+      "scope": "writer:wang-youhua",
+      "text": "生於苗栗頭份，小說家、散文家、評論者與地方文化工作者，曾任國立聯合大學華語文學系教授，並與莫渝合著《苗栗縣文學史》。"
+    },
+    {
+      "id": "writer.wang-youhua.workIntro",
+      "scope": "writer:wang-youhua",
+      "text": "其小說創作的重要結集之一；作品經常處理臺灣社會變遷、族群認同與現代人的精神處境。"
+    },
+    {
+      "id": "writer.wang-youhua.style",
+      "scope": "writer:wang-youhua",
+      "text": "形式實驗與社會批判並重，關注現代文明邊緣、移民經驗與生命原罪。"
+    },
+    {
+      "id": "writer.wang-youhua.relation",
+      "scope": "writer:wang-youhua",
+      "text": "苗栗頭份｜出生"
+    },
+    {
+      "id": "writer.wang-youhua.works.6.note",
+      "scope": "writer:wang-youhua:work",
+      "text": "副題：日治時期苗栗縣的詩社"
+    },
+    {
+      "id": "writer.liang-hanyi.bio",
+      "scope": "writer:liang-hanyi",
+      "text": "苗栗籍作家，臺灣大學外文系畢業，創作涵蓋小說、散文與宗教書寫。公開資料對完整年表記載有限。"
+    },
+    {
+      "id": "writer.liang-hanyi.workIntro",
+      "scope": "writer:liang-hanyi",
+      "text": "其重要著作之一；小說常以寓言、黑色童話與內在心象探索人性的可能。"
+    },
+    {
+      "id": "writer.liang-hanyi.style",
+      "scope": "writer:liang-hanyi",
+      "text": "反寫實、寓言化，重視心象、嘲弄與黑色童話氣質。"
+    },
+    {
+      "id": "writer.liang-hanyi.relation",
+      "scope": "writer:liang-hanyi",
+      "text": "苗栗縣籍｜小說家、散文家"
+    },
+    {
+      "id": "writer.liang-hanyi.works.2.note",
+      "scope": "writer:liang-hanyi:work",
+      "text": "副題：元曉大師傳"
+    },
+    {
+      "id": "writer.gan-yaoming.bio",
+      "scope": "writer:gan-yaoming",
+      "text": "臺灣小說家，成長於苗栗客庄，曾任小劇場工作者、記者與教師。其創作吸收客家民間傳說、歷史記憶與多族群經驗。"
+    },
+    {
+      "id": "writer.gan-yaoming.workIntro",
+      "scope": "writer:gan-yaoming",
+      "text": "以日治末期至戰後為背景，讓歷史、傳說、戰爭與少年成長交錯，展現其獨特的魔幻敘事。"
+    },
+    {
+      "id": "writer.gan-yaoming.style",
+      "scope": "writer:gan-yaoming",
+      "text": "融合鄉野傳奇、誇飾、黑色幽默與魔幻寫實，常被歸入新鄉土書寫。"
+    },
+    {
+      "id": "writer.gan-yaoming.relation",
+      "scope": "writer:gan-yaoming",
+      "text": "苗栗獅潭｜出生、成長"
+    },
+    {
+      "id": "writer.chen-ying.bio",
+      "scope": "writer:chen-ying",
+      "text": "山東濰縣人，作家與翻譯家，上海復旦大學中文系畢業。1948年後來臺，曾居苗栗頭份；創作高峰始於1920至1930年代。名錄作「沈櫻」，依臺灣文學館作「沉櫻」。"
+    },
+    {
+      "id": "writer.chen-ying.workIntro",
+      "scope": "writer:chen-ying",
+      "text": "由林海音編輯的散文增補本，呈現其簡約純樸、真摯內斂的散文面貌。"
+    },
+    {
+      "id": "writer.chen-ying.style",
+      "scope": "writer:chen-ying",
+      "text": "語言簡潔、情感真摯，並受俄國與歐洲文學閱讀及翻譯經驗影響。"
+    },
+    {
+      "id": "writer.lin-haiyin.bio",
+      "scope": "writer:lin-haiyin",
+      "text": "生於日本大阪，父親為苗栗頭份人；童年與青年時期主要在北京成長，1948年來臺後成為作家、編輯與出版人，扶植許多臺灣文學創作者。"
+    },
+    {
+      "id": "writer.lin-haiyin.workIntro",
+      "scope": "writer:lin-haiyin",
+      "text": "以童年視角重構1920年代北京城南的人物與生活，兼具小說連作與回憶敘事特色。"
+    },
+    {
+      "id": "writer.lin-haiyin.style",
+      "scope": "writer:lin-haiyin",
+      "text": "以平易節制的語言寫童年、女性與離散記憶，溫厚中保有對人物命運的敏銳觀察。"
+    },
+    {
+      "id": "writer.lin-haiyin.relation",
+      "scope": "writer:lin-haiyin",
+      "text": "苗栗頭份｜父親故鄉"
+    },
+    {
+      "id": "writer.jiang-shang.bio",
+      "scope": "writer:jiang-shang",
+      "text": "本名江文雙，苗栗籍戰後作家，創作以小說為主，兼及散文、兒童文學與日文翻譯。作品以樸實筆觸書寫帶有濃厚鄉土味的小人物，並記錄不易被看見的社會切面。"
+    },
+    {
+      "id": "writer.jiang-shang.workIntro",
+      "scope": "writer:jiang-shang",
+      "text": "其小說代表作之一；另有《田園戀》、《下弦月》、《霧夜》及三冊《江上小說集》。"
+    },
+    {
+      "id": "writer.jiang-shang.style",
+      "scope": "writer:jiang-shang",
+      "text": "樸實、直率的寫實筆法，關注鄉土小人物與戰後社會變動，不刻意粉飾生活困境。"
+    },
+    {
+      "id": "writer.jiang-shang.relation",
+      "scope": "writer:jiang-shang",
+      "text": "苗栗頭份｜任教大成高中"
+    },
+    {
+      "id": "writer.jiang-shang.works.6.note",
+      "scope": "writer:jiang-shang:work",
+      "text": "以筆名文玨出版"
+    },
+    {
+      "id": "writer.xie-shuangtian.bio",
+      "scope": "writer:xie-shuangtian",
+      "text": "生於苗栗銅鑼，散文與小說作家。早期出版散文集《綠樹》，後續持續書寫鄉土、人生與女性經驗。"
+    },
+    {
+      "id": "writer.xie-shuangtian.workIntro",
+      "scope": "writer:xie-shuangtian",
+      "text": "以77個短篇組成長篇，透過春晨、秋暮、冬夜三個單元呈現節氣流轉、歷史滄桑與人生曲折。"
+    },
+    {
+      "id": "writer.xie-shuangtian.style",
+      "scope": "writer:xie-shuangtian",
+      "text": "文字靈巧真摯，從鄉土景物、女性處境與人生感懷出發。"
+    },
+    {
+      "id": "writer.xie-shuangtian.works.5.note",
+      "scope": "writer:xie-shuangtian:work",
+      "text": "副題：蕭紅傳"
+    },
+    {
+      "id": "writer.chen-chaodong.bio",
+      "scope": "writer:chen-chaodong",
+      "text": "生於苗栗後龍，鄉土作家與文史工作者。任職商界後返鄉從事記者與編輯工作，長期記錄後龍地方史、產業與生活文化。"
+    },
+    {
+      "id": "writer.chen-chaodong.workIntro",
+      "scope": "writer:chen-chaodong",
+      "text": "以後龍地方生活與文史為核心的作品；另有《家鄉豐年》、《永遠的牛聲》、《這村晨春景》等可查著作。"
+    },
+    {
+      "id": "writer.chen-chaodong.style",
+      "scope": "writer:chen-chaodong",
+      "text": "報導與散文筆法交融，重視田野調查、老照片與口述記憶。"
+    },
+    {
+      "id": "writer.chen-chaodong.relation",
+      "scope": "writer:chen-chaodong",
+      "text": "苗栗後龍｜出生、返鄉書寫"
+    },
+    {
+      "id": "writer.moshang-chen.bio",
+      "scope": "writer:moshang-chen",
+      "text": "苗栗人，16歲起進入造船產業，早年寫詩與散文，1979年後集中創作小說。其親身工廠經驗使作品成為臺灣工人文學的重要聲音。"
+    },
+    {
+      "id": "writer.moshang-chen.workIntro",
+      "scope": "writer:moshang-chen",
+      "text": "以藍領勞動者的工作、家庭與社會處境為核心，呈現工業化背後的黑暗與無奈。"
+    },
+    {
+      "id": "writer.moshang-chen.style",
+      "scope": "writer:moshang-chen",
+      "text": "直接、寫實，從工人內部視角書寫勞動尊嚴、階級與社會矛盾。"
+    },
+    {
+      "id": "writer.moshang-chen.relation",
+      "scope": "writer:moshang-chen",
+      "text": "苗栗縣籍｜工人文學作家"
+    },
+    {
+      "id": "writer.zhan-bing.bio",
+      "scope": "writer:zhan-bing",
+      "text": "臺灣跨越語言一代的重要詩人，曾赴日本學藥，戰後參與銀鈴會並為笠詩社創辦人之一。創作涵蓋現代詩、童詩、圖像詩、散文與戲劇。"
+    },
+    {
+      "id": "writer.zhan-bing.workIntro",
+      "scope": "writer:zhan-bing",
+      "text": "代表性詩集之一，展現其把藥學、自然觀察與現代詩實驗結合的特色。"
+    },
+    {
+      "id": "writer.zhan-bing.style",
+      "scope": "writer:zhan-bing",
+      "text": "現代主義、科學意象與童心並存，擅長圖像詩、短詩與活潑的形式實驗。"
+    },
+    {
+      "id": "writer.zhan-bing.relation",
+      "scope": "writer:zhan-bing",
+      "text": "苗栗卓蘭｜出生"
+    },
+    {
+      "id": "writer.luo-lang.bio",
+      "scope": "writer:luo-lang",
+      "text": "生於苗栗市，詩人兼日文翻譯者。名錄未列卒年，依國立臺灣文學館年鑑補為2015年。"
+    },
+    {
+      "id": "writer.luo-lang.workIntro",
+      "scope": "writer:luo-lang",
+      "text": "由苗栗縣文化局出版，整理其詩文創作，作品多為故鄉山川與人生樣貌留下心靈投影。"
+    },
+    {
+      "id": "writer.luo-lang.style",
+      "scope": "writer:luo-lang",
+      "text": "抒情而內斂，聚焦故鄉地景、日常感受與人生回聲。"
+    },
+    {
+      "id": "writer.luo-lang.relation",
+      "scope": "writer:luo-lang",
+      "text": "苗栗市｜出生"
+    },
+    {
+      "id": "writer.luo-lang.works.0.note",
+      "scope": "writer:luo-lang:work",
+      "text": "收中文詩53首、日文詩36首、散文2篇、日譯詩9首、詩論2篇及畫作20幅"
+    },
+    {
+      "id": "writer.mo-yu.bio",
+      "scope": "writer:mo-yu",
+      "text": "生於苗栗竹南，詩人、翻譯家與評論者。1960年代開始寫詩，後長期翻譯法國及第三世界文學，1990年代起投入臺灣與苗栗地方文學研究。"
+    },
+    {
+      "id": "writer.mo-yu.workIntro",
+      "scope": "writer:mo-yu",
+      "text": "以土地、現實與人道關懷為核心的代表詩集；另有《無語的春天》、《長城》等。"
+    },
+    {
+      "id": "writer.mo-yu.style",
+      "scope": "writer:mo-yu",
+      "text": "現實主義與人文關懷鮮明，追求詩的批判力與感動力。"
+    },
+    {
+      "id": "writer.mo-yu.relation",
+      "scope": "writer:mo-yu",
+      "text": "苗栗竹南｜出生"
+    },
+    {
+      "id": "writer.liu-yuxiu.bio",
+      "scope": "writer:liu-yuxiu",
+      "text": "成長於苗栗頭份客庄，曾任臺灣大學外文系教授，長期參與女性主義研究與婦女運動；1980年代中期起在詩刊與報紙副刊發表詩作。"
+    },
+    {
+      "id": "writer.liu-yuxiu.workIntro",
+      "scope": "writer:liu-yuxiu",
+      "text": "公開學術資料庫收錄的詩作之一；其詩作散見詩刊、年度詩選與副刊，尚缺完整個人詩集書目。"
+    },
+    {
+      "id": "writer.liu-yuxiu.style",
+      "scope": "writer:liu-yuxiu",
+      "text": "把女性經驗、知識反思與社會批判帶入現代詩。"
+    },
+    {
+      "id": "writer.liu-yuxiu.relation",
+      "scope": "writer:liu-yuxiu",
+      "text": "苗栗頭份｜成長"
+    },
+    {
+      "id": "writer.liu-yuxiu.works.0.note",
+      "scope": "writer:liu-yuxiu:work",
+      "text": "刊於《中外文學》24卷12期，1996"
+    },
+    {
+      "id": "writer.huang-hengqiu.bio",
+      "scope": "writer:huang-hengqiu",
+      "text": "苗栗銅鑼人，客家詩人與評論者。曾參與笠詩社、創組蕃薯詩社並推動客家文學，亦從事文史、出版與廣播工作。"
+    },
+    {
+      "id": "writer.huang-hengqiu.workIntro",
+      "scope": "writer:huang-hengqiu",
+      "text": "1990年出版，被視為臺灣第一本客語現代詩集，在客語文學史上具有指標性。"
+    },
+    {
+      "id": "writer.huang-hengqiu.style",
+      "scope": "writer:huang-hengqiu",
+      "text": "以客語、土地與族群經驗為核心，結合現代詩形式與社會文化評論。"
+    },
+    {
+      "id": "writer.lu-hanshou.bio",
+      "scope": "writer:lu-hanshou",
+      "text": "生於苗栗苑裡，後成長於臺中大甲。詩人、歌詞作者與文化工作者，創作涵蓋華語詩、臺語詩、散文、攝影及歌詞。"
+    },
+    {
+      "id": "writer.lu-hanshou.workIntro",
+      "scope": "writer:lu-hanshou",
+      "text": "以傳記式序列整理二十年詩作，從親情、童年、愛情到土地，呈現詩人生命軌跡。"
+    },
+    {
+      "id": "writer.lu-hanshou.style",
+      "scope": "writer:lu-hanshou",
+      "text": "抒情而具音樂性，將古典涵養、日常生活與臺語歌詩傳統相連。"
+    },
+    {
+      "id": "writer.li-duchou.bio",
+      "scope": "writer:li-duchou",
+      "text": "苗栗籍現代詩人，曾參與詩刊活動。公開網路資料較少，國立臺灣文學館藏有其手稿並確認本名為郭賢作。"
+    },
+    {
+      "id": "writer.li-duchou.workIntro",
+      "scope": "writer:li-duchou",
+      "text": "1987年成稿、刊於《大海洋詩刊》，以鄉愁、玫瑰、曙光與繁星等意象展現孤寂與追尋自由的精神歷程。"
+    },
+    {
+      "id": "writer.li-duchou.style",
+      "scope": "writer:li-duchou",
+      "text": "偏重文化鄉愁、象徵意象與內在精神辯證。"
+    },
+    {
+      "id": "writer.li-duchou.relation",
+      "scope": "writer:li-duchou",
+      "text": "苗栗縣籍｜現代詩人"
+    },
+    {
+      "id": "writer.li-duchou.works.0.note",
+      "scope": "writer:li-duchou:work",
+      "text": "1987年成稿，後刊於《大海洋詩刊》第30期；館藏手稿可查"
+    },
+    {
+      "id": "writer.qiu-yifan.bio",
+      "scope": "writer:qiu-yifan",
+      "text": "苗栗南庄人，長期任教並投入客語教育與客語詩歌創作，以現代詩為主，也有客語散文、小說與研究論著。"
+    },
+    {
+      "id": "writer.qiu-yifan.workIntro",
+      "scope": "writer:qiu-yifan",
+      "text": "以客語書寫南庄、親情與土地記憶，是其持續建立客語現代詩表達的重要作品。"
+    },
+    {
+      "id": "writer.qiu-yifan.style",
+      "scope": "writer:qiu-yifan",
+      "text": "堅持客語書寫，語言親近生活，強調土地、母語與族群情感。"
+    },
+    {
+      "id": "writer.qiu-yifan.relation",
+      "scope": "writer:qiu-yifan",
+      "text": "苗栗南庄｜出生"
+    },
+    {
+      "id": "writer.qiu-yifan.works.0.note",
+      "scope": "writer:qiu-yifan:work",
+      "text": "與龔萬灶合著"
+    },
+    {
+      "id": "writer.qiu-yifan.works.5.note",
+      "scope": "writer:qiu-yifan:work",
+      "text": "副題：客語詩歌文學論集"
+    },
+    {
+      "id": "writer.qiu-yifan.works.6.note",
+      "scope": "writer:qiu-yifan:work",
+      "text": "副題：客籍作家吳濁流的詩歌表現"
+    },
+    {
+      "id": "writer.xie-kunhua.bio",
+      "scope": "writer:xie-kunhua",
+      "text": "籍貫苗栗，生於臺北，從事現代詩、小說、散文、劇本與文學研究，研究專長包含臺灣現代詩史與詩社。"
+    },
+    {
+      "id": "writer.xie-kunhua.workIntro",
+      "scope": "writer:xie-kunhua",
+      "text": "累積二十餘年創作後出版的第一部個人詩集，收錄七十首作品；《合奏版圖》則為其較早期的詩歌創作計畫。"
+    },
+    {
+      "id": "writer.xie-kunhua.style",
+      "scope": "writer:xie-kunhua",
+      "text": "知性與意象並進，經常處理歷史記憶、文化符號及跨媒介表達。"
+    },
+    {
+      "id": "writer.xie-kunhua.relation",
+      "scope": "writer:xie-kunhua",
+      "text": "苗栗籍｜出生臺北"
+    },
+    {
+      "id": "writer.xie-kunhua.works.0.note",
+      "scope": "writer:xie-kunhua:work",
+      "text": "首部個人詩集，收70首"
+    },
+    {
+      "id": "writer.xie-kunhua.works.7.note",
+      "scope": "writer:xie-kunhua:work",
+      "text": "副題：臺灣現代詩手稿學"
+    },
+    {
+      "id": "writer.zhong-qiao.bio",
+      "scope": "writer:zhong-qiao",
+      "text": "苗栗三義出身的詩人、報導文學作家與劇場工作者，長期推動民眾劇場，關注農村、勞動、政治暴力與亞洲第三世界處境。"
+    },
+    {
+      "id": "writer.zhong-qiao.workIntro",
+      "scope": "writer:zhong-qiao",
+      "text": "其重要劇本之一，透過劇場打破舞臺與觀眾界線，實踐社會介入與公共對話。"
+    },
+    {
+      "id": "writer.zhong-qiao.style",
+      "scope": "writer:zhong-qiao",
+      "text": "受布雷希特與民眾劇場影響，強調社會批判、現場性與觀眾參與。"
+    },
+    {
+      "id": "writer.zhong-qiao.relation",
+      "scope": "writer:zhong-qiao",
+      "text": "苗栗三義｜出身"
+    },
+    {
+      "id": "writer.li-huanxiong.bio",
+      "scope": "writer:li-huanxiong",
+      "text": "苗栗大湖人，河左岸劇團、創作社劇團創始成員，並任人力飛行劇團藝術總監。創作橫跨詩、劇本、音樂劇與舞臺導演。"
+    },
+    {
+      "id": "writer.li-huanxiong.workIntro",
+      "scope": "writer:li-huanxiong",
+      "text": "其代表劇場作品之一，從1980年代以來持續改寫與演出，展現解嚴世代的政治感知與劇場實驗。"
+    },
+    {
+      "id": "writer.li-huanxiong.style",
+      "scope": "writer:li-huanxiong",
+      "text": "臺詞富詩性與節奏，善用多層意象、舞臺機關與動線引導觀眾進入情節。"
+    },
+    {
+      "id": "writer.chen-zhengzhi.bio",
+      "scope": "writer:chen-zhengzhi",
+      "text": "生於苗栗，畢業於臺南師專、淡江中文系，長期從事兒童文學、語文教育、修辭與作文教學，著作及論文豐富。"
+    },
+    {
+      "id": "writer.chen-zhengzhi.workIntro",
+      "scope": "writer:chen-zhengzhi",
+      "text": "以適合兒童閱讀的短篇童話傳遞觀察、想像與思考；另著《有趣的中國文字》等語文教育作品。"
+    },
+    {
+      "id": "writer.chen-zhengzhi.style",
+      "scope": "writer:chen-zhengzhi",
+      "text": "寓知識於趣味，以清楚、活潑的語言連結識字、修辭與兒童想像。"
+    },
+    {
+      "id": "writer.chen-zhengzhi.relation",
+      "scope": "writer:chen-zhengzhi",
+      "text": "苗栗縣｜出生"
+    },
+    {
+      "id": "writer.du-rongchen.bio",
+      "scope": "writer:du-rongchen",
+      "text": "苗栗人，兒童詩人、作家與研究者，畢業於新竹師專，長期參與兒童文學團體與教學推廣。"
+    },
+    {
+      "id": "writer.du-rongchen.workIntro",
+      "scope": "writer:du-rongchen",
+      "text": "早期童詩集，另有《花夢》、《童詩五家》及多部兒歌、童詩教學與閱讀指導作品。"
+    },
+    {
+      "id": "writer.du-rongchen.style",
+      "scope": "writer:du-rongchen",
+      "text": "重視忠誠、慈愛、希望與兒童想像，語言有韻律且適合朗讀。"
+    },
+    {
+      "id": "writer.du-rongchen.relation",
+      "scope": "writer:du-rongchen",
+      "text": "苗栗後龍｜出生、任教"
+    },
+    {
+      "id": "writer.hong-zhiming.bio",
+      "scope": "writer:hong-zhiming",
+      "text": "苗栗人，畢業於臺東師院兒童文學研究所，曾任國小教師並參與國語教科書編撰與兒童文學團體。"
+    },
+    {
+      "id": "writer.hong-zhiming.workIntro",
+      "scope": "writer:hong-zhiming",
+      "text": "以精簡、具啟發性的寓言帶領兒童思考；另有《童詩萬花筒》、《花巫婆的寵物店》、《星星樹》等。"
+    },
+    {
+      "id": "writer.hong-zhiming.style",
+      "scope": "writer:hong-zhiming",
+      "text": "輕鬆自然、富童趣，重視童詩創作歷程、閱讀欣賞與校園生活。"
+    },
+    {
+      "id": "writer.zhang-dianwan.bio",
+      "scope": "writer:zhang-dianwan",
+      "text": "在苗栗頭份客庄成長，資深媒體工作者與報導文學作家，曾兩度獲聯合報報導文學獎。長期記錄女性、客家族群、地方文化與戰後離散記憶。"
+    },
+    {
+      "id": "writer.zhang-dianwan.workIntro",
+      "scope": "writer:zhang-dianwan",
+      "text": "透過檔案、訪談與家族記憶重建太平輪事件及大時代中的個人命運，歷時多年採訪完成。"
+    },
+    {
+      "id": "writer.zhang-dianwan.style",
+      "scope": "writer:zhang-dianwan",
+      "text": "以田野訪談與檔案考證為骨架，融入家族史、女性觀點與口述記憶。"
+    },
+    {
+      "id": "writer.zhang-dianwan.works.2.note",
+      "scope": "writer:zhang-dianwan:work",
+      "text": "副題：日治台灣客家青年群像"
+    },
+    {
+      "id": "writer.zhang-dianwan.works.3.note",
+      "scope": "writer:zhang-dianwan:work",
+      "text": "副題：施陳秀蓮的故事"
+    },
+    {
+      "id": "writer.lan-bozhou.bio",
+      "scope": "writer:lan-bozhou",
+      "text": "生於苗栗西湖，記者與報導文學作家。長期訪談白色恐怖受難者及其家屬，透過口述歷史、檔案與文學敘事重建被壓抑的歷史記憶。"
+    },
+    {
+      "id": "writer.lan-bozhou.workIntro",
+      "scope": "writer:lan-bozhou",
+      "text": "追索醫師郭琇琮等人的生命與白色恐怖經驗，是其以報導文學介入臺灣近代史的重要作品。"
+    },
+    {
+      "id": "writer.lan-bozhou.style",
+      "scope": "writer:lan-bozhou",
+      "text": "以長期田野、口述訪談與歷史檔案交織，立場鮮明地為受難者作傳。"
+    },
+    {
+      "id": "writer.lan-bozhou.relation",
+      "scope": "writer:lan-bozhou",
+      "text": "苗栗西湖｜出生"
+    },
+    {
+      "id": "writer.lan-bozhou.works.5.note",
+      "scope": "writer:lan-bozhou:work",
+      "text": "追憶1949年四六事件（師院部分）"
+    },
+    {
+      "id": "writer.lan-bozhou.works.6.note",
+      "scope": "writer:lan-bozhou:work",
+      "text": "追憶1949年四六事件（臺大部分）"
+    },
+    {
+      "id": "writer.lan-bozhou.works.9.note",
+      "scope": "writer:lan-bozhou:work",
+      "text": "副題：大河底的政治風暴"
+    },
+    {
+      "id": "workType.0",
+      "scope": "work-type",
+      "text": "古典詩"
+    },
+    {
+      "id": "workType.1",
+      "scope": "work-type",
+      "text": "祭文"
+    },
+    {
+      "id": "workType.2",
+      "scope": "work-type",
+      "text": "詩集"
+    },
+    {
+      "id": "workType.3",
+      "scope": "work-type",
+      "text": "手抄詩稿"
+    },
+    {
+      "id": "workType.4",
+      "scope": "work-type",
+      "text": "文集"
+    },
+    {
+      "id": "workType.5",
+      "scope": "work-type",
+      "text": "附集"
+    },
+    {
+      "id": "workType.6",
+      "scope": "work-type",
+      "text": "筆記"
+    },
+    {
+      "id": "workType.7",
+      "scope": "work-type",
+      "text": "雜錄"
+    },
+    {
+      "id": "workType.8",
+      "scope": "work-type",
+      "text": "地方紀事"
+    },
+    {
+      "id": "workType.9",
+      "scope": "work-type",
+      "text": "後人輯本"
+    },
+    {
+      "id": "workType.10",
+      "scope": "work-type",
+      "text": "遺稿輯本"
+    },
+    {
+      "id": "workType.11",
+      "scope": "work-type",
+      "text": "詩稿"
+    },
+    {
+      "id": "workType.12",
+      "scope": "work-type",
+      "text": "詩鈔"
+    },
+    {
+      "id": "workType.13",
+      "scope": "work-type",
+      "text": "地方志"
+    },
+    {
+      "id": "workType.14",
+      "scope": "work-type",
+      "text": "組詩"
+    },
+    {
+      "id": "workType.15",
+      "scope": "work-type",
+      "text": "詩作輯錄"
+    },
+    {
+      "id": "workType.16",
+      "scope": "work-type",
+      "text": "古典詩／獄中詩"
+    },
+    {
+      "id": "workType.17",
+      "scope": "work-type",
+      "text": "作品集"
+    },
+    {
+      "id": "workType.18",
+      "scope": "work-type",
+      "text": "碑記"
+    },
+    {
+      "id": "workType.19",
+      "scope": "work-type",
+      "text": "期刊作品"
+    },
+    {
+      "id": "workType.20",
+      "scope": "work-type",
+      "text": "詩文集"
+    },
+    {
+      "id": "workType.21",
+      "scope": "work-type",
+      "text": "歌詞"
+    },
+    {
+      "id": "workType.22",
+      "scope": "work-type",
+      "text": "傳統文學"
+    },
+    {
+      "id": "workType.23",
+      "scope": "work-type",
+      "text": "長篇小說"
+    },
+    {
+      "id": "workType.24",
+      "scope": "work-type",
+      "text": "自傳體小說"
+    },
+    {
+      "id": "workType.25",
+      "scope": "work-type",
+      "text": "回憶／評論"
+    },
+    {
+      "id": "workType.28",
+      "scope": "work-type",
+      "text": "文學回憶"
+    },
+    {
+      "id": "workType.29",
+      "scope": "work-type",
+      "text": "客語史詩"
+    },
+    {
+      "id": "workType.30",
+      "scope": "work-type",
+      "text": "小說集"
+    },
+    {
+      "id": "workType.31",
+      "scope": "work-type",
+      "text": "口傳文學譯著"
+    },
+    {
+      "id": "workType.32",
+      "scope": "work-type",
+      "text": "評論集"
+    },
+    {
+      "id": "workType.33",
+      "scope": "work-type",
+      "text": "文學研究"
+    },
+    {
+      "id": "workType.34",
+      "scope": "work-type",
+      "text": "文學史"
+    },
+    {
+      "id": "workType.35",
+      "scope": "work-type",
+      "text": "小說／散文"
+    },
+    {
+      "id": "workType.36",
+      "scope": "work-type",
+      "text": "傳記文學"
+    },
+    {
+      "id": "workType.37",
+      "scope": "work-type",
+      "text": "中篇小說"
+    },
+    {
+      "id": "workType.38",
+      "scope": "work-type",
+      "text": "散文集"
+    },
+    {
+      "id": "workType.39",
+      "scope": "work-type",
+      "text": "短篇小說"
+    },
+    {
+      "id": "workType.40",
+      "scope": "work-type",
+      "text": "譯作"
+    },
+    {
+      "id": "workType.41",
+      "scope": "work-type",
+      "text": "譯作／選集"
+    },
+    {
+      "id": "workType.42",
+      "scope": "work-type",
+      "text": "回憶錄"
+    },
+    {
+      "id": "workType.43",
+      "scope": "work-type",
+      "text": "文壇回憶"
+    },
+    {
+      "id": "workType.44",
+      "scope": "work-type",
+      "text": "文學評論／散文"
+    },
+    {
+      "id": "workType.45",
+      "scope": "work-type",
+      "text": "合著小說集"
+    },
+    {
+      "id": "workType.46",
+      "scope": "work-type",
+      "text": "傳記小說"
+    },
+    {
+      "id": "workType.47",
+      "scope": "work-type",
+      "text": "地方文史"
+    },
+    {
+      "id": "workType.48",
+      "scope": "work-type",
+      "text": "地方書寫"
+    },
+    {
+      "id": "workType.49",
+      "scope": "work-type",
+      "text": "報導／地方書寫"
+    },
+    {
+      "id": "workType.50",
+      "scope": "work-type",
+      "text": "合集"
+    },
+    {
+      "id": "workType.51",
+      "scope": "work-type",
+      "text": "勞工文學"
+    },
+    {
+      "id": "workType.52",
+      "scope": "work-type",
+      "text": "現代詩"
+    },
+    {
+      "id": "workType.53",
+      "scope": "work-type",
+      "text": "長詩／詩劇"
+    },
+    {
+      "id": "workType.54",
+      "scope": "work-type",
+      "text": "全集"
+    },
+    {
+      "id": "workType.55",
+      "scope": "work-type",
+      "text": "臺語詩集"
+    },
+    {
+      "id": "workType.56",
+      "scope": "work-type",
+      "text": "評論"
+    },
+    {
+      "id": "workType.57",
+      "scope": "work-type",
+      "text": "地方文學史"
+    },
+    {
+      "id": "workType.58",
+      "scope": "work-type",
+      "text": "主編／女性研究"
+    },
+    {
+      "id": "workType.59",
+      "scope": "work-type",
+      "text": "客語詩集"
+    },
+    {
+      "id": "workType.60",
+      "scope": "work-type",
+      "text": "文學論述"
+    },
+    {
+      "id": "workType.61",
+      "scope": "work-type",
+      "text": "詩選"
+    },
+    {
+      "id": "workType.62",
+      "scope": "work-type",
+      "text": "繪本"
+    },
+    {
+      "id": "workType.63",
+      "scope": "work-type",
+      "text": "客語散文集"
+    },
+    {
+      "id": "workType.64",
+      "scope": "work-type",
+      "text": "客語詩歌文集"
+    },
+    {
+      "id": "workType.65",
+      "scope": "work-type",
+      "text": "論文集"
+    },
+    {
+      "id": "workType.66",
+      "scope": "work-type",
+      "text": "客語小說"
+    },
+    {
+      "id": "workType.67",
+      "scope": "work-type",
+      "text": "客語詩"
+    },
+    {
+      "id": "workType.68",
+      "scope": "work-type",
+      "text": "詩歌創作計畫"
+    },
+    {
+      "id": "workType.69",
+      "scope": "work-type",
+      "text": "劇作／劇場論述"
+    },
+    {
+      "id": "workType.70",
+      "scope": "work-type",
+      "text": "劇場論述"
+    },
+    {
+      "id": "workType.72",
+      "scope": "work-type",
+      "text": "劇本集"
+    },
+    {
+      "id": "workType.73",
+      "scope": "work-type",
+      "text": "詩抄"
+    },
+    {
+      "id": "workType.74",
+      "scope": "work-type",
+      "text": "音樂劇"
+    },
+    {
+      "id": "workType.75",
+      "scope": "work-type",
+      "text": "劇場文集"
+    },
+    {
+      "id": "workType.76",
+      "scope": "work-type",
+      "text": "童話"
+    },
+    {
+      "id": "workType.77",
+      "scope": "work-type",
+      "text": "兒歌／語文教育"
+    },
+    {
+      "id": "workType.78",
+      "scope": "work-type",
+      "text": "語文教育"
+    },
+    {
+      "id": "workType.79",
+      "scope": "work-type",
+      "text": "作文教育"
+    },
+    {
+      "id": "workType.80",
+      "scope": "work-type",
+      "text": "兒童文學研究"
+    },
+    {
+      "id": "workType.81",
+      "scope": "work-type",
+      "text": "兒童寫作教育"
+    },
+    {
+      "id": "workType.82",
+      "scope": "work-type",
+      "text": "童詩集"
+    },
+    {
+      "id": "workType.83",
+      "scope": "work-type",
+      "text": "童詩／賞析"
+    },
+    {
+      "id": "workType.85",
+      "scope": "work-type",
+      "text": "童詩"
+    },
+    {
+      "id": "workType.86",
+      "scope": "work-type",
+      "text": "寓言"
+    },
+    {
+      "id": "workType.87",
+      "scope": "work-type",
+      "text": "報導／性別文化"
+    },
+    {
+      "id": "workType.89",
+      "scope": "work-type",
+      "text": "人物報導"
+    },
+    {
+      "id": "workType.90",
+      "scope": "work-type",
+      "text": "文學史／報導"
+    },
+    {
+      "id": "workType.91",
+      "scope": "work-type",
+      "text": "歷史報導"
+    },
+    {
+      "id": "workType.92",
+      "scope": "work-type",
+      "text": "報導／小說"
+    },
+    {
+      "id": "workType.93",
+      "scope": "work-type",
+      "text": "作家研究"
+    }
+  ]
+}

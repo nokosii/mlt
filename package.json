@@ -6,10 +6,15 @@
     "node": ">=22.13.0"
   },
   "scripts": {
+    "prebuild": "node scripts/validate-bilingual-content.mjs",
     "dev": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext dev",
     "build": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext build",
     "start": "WRANGLER_LOG_PATH=.wrangler/wrangler.log vinext start",
     "test": "npm run build && node --test tests/rendered-html.test.mjs",
+    "bilingual:prepare": "node scripts/prepare-gohakka-site-segments.mjs",
+    "bilingual:translate": "node scripts/translate-site-with-gohakka.mjs",
+    "bilingual:review": "node scripts/review-gohakka-site-translations.mjs",
+    "bilingual:check": "node scripts/validate-bilingual-content.mjs",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate"
   },

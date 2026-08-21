@@ -1,0 +1,2087 @@
+{
+  "metadata": {
+    "provider": "GoHakka",
+    "sourceLanguage": "zh-Hant",
+    "targetLanguage": "hak-TW",
+    "dialectCode": "sixian",
+    "mode": "natural",
+    "engine": "model",
+    "transport": "browser-ui",
+    "apiEndpointDocumented": "https://api.gohakka.org/v3/pro/text/translations",
+    "httpStatusNote": "Browser UI does not expose individual HTTP status codes; uiStatus records the visible completion state.",
+    "startedAt": "2026-08-20T14:07:43.872Z",
+    "updatedAt": "2026-08-20T14:11:48.399Z"
+  },
+  "translations": [
+    {
+      "index": 0,
+      "id": "site.brandHomeLabel",
+      "scope": "site",
+      "source": "苗栗文學步道首頁",
+      "payload": {
+        "text": "苗栗文學步道首頁",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "苗栗文學步道首頁"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:07:49.064Z"
+    },
+    {
+      "index": 1,
+      "id": "site.brandName",
+      "scope": "site",
+      "source": "苗栗文學步道",
+      "payload": {
+        "text": "苗栗文學步道",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "苗栗文學步道"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:07:52.370Z"
+    },
+    {
+      "index": 2,
+      "id": "site.brandStatus",
+      "scope": "site",
+      "source": "推廣協會（籌備中）",
+      "payload": {
+        "text": "推廣協會（籌備中）",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "推廣協會（籌備中）"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:07:54.354Z"
+    },
+    {
+      "index": 3,
+      "id": "site.navLabel",
+      "scope": "site",
+      "source": "主要選單",
+      "payload": {
+        "text": "主要選單",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "主要選單"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:07:58.211Z"
+    },
+    {
+      "index": 4,
+      "id": "site.navNews",
+      "scope": "site",
+      "source": "最新消息",
+      "payload": {
+        "text": "最新消息",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "最新个消息"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:02.326Z"
+    },
+    {
+      "index": 5,
+      "id": "site.navArchive",
+      "scope": "site",
+      "source": "作家資料庫",
+      "payload": {
+        "text": "作家資料庫",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "作家資料庫"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:06.106Z"
+    },
+    {
+      "index": 6,
+      "id": "site.navStory",
+      "scope": "site",
+      "source": "步道緣起",
+      "payload": {
+        "text": "步道緣起",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "步道緣起"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:10.400Z"
+    },
+    {
+      "index": 7,
+      "id": "site.navVisit",
+      "scope": "site",
+      "source": "交通指引",
+      "payload": {
+        "text": "交通指引",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "交通指引"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:14.516Z"
+    },
+    {
+      "index": 8,
+      "id": "site.navAssociation",
+      "scope": "site",
+      "source": "關於協會",
+      "payload": {
+        "text": "關於協會",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "有關協會"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:18.487Z"
+    },
+    {
+      "index": 9,
+      "id": "site.navFounders",
+      "scope": "site",
+      "source": "發起人",
+      "payload": {
+        "text": "發起人",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "發起人"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:22.562Z"
+    },
+    {
+      "index": 10,
+      "id": "site.navJoin",
+      "scope": "site",
+      "source": "加入我們",
+      "payload": {
+        "text": "加入我們",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "分𠊎加入𫣆"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:27.382Z"
+    },
+    {
+      "index": 11,
+      "id": "site.languageLabel",
+      "scope": "site",
+      "source": "網站語言",
+      "payload": {
+        "text": "網站語言",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "網站語言"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:31.264Z"
+    },
+    {
+      "index": 12,
+      "id": "site.languageMandarin",
+      "scope": "site",
+      "source": "華語",
+      "payload": {
+        "text": "華語",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "Chineselanguage"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:32.933Z"
+    },
+    {
+      "index": 13,
+      "id": "site.languageHakka",
+      "scope": "site",
+      "source": "客語",
+      "payload": {
+        "text": "客語",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "客話"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:37.387Z"
+    },
+    {
+      "index": 14,
+      "id": "site.heroAlt",
+      "scope": "site",
+      "source": "國立聯合大學八甲校區湖畔的苗栗文學步道入口、湖景與校舍",
+      "payload": {
+        "text": "國立聯合大學八甲校區湖畔的苗栗文學步道入口、湖景與校舍",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "國立聯合大學八甲校區湖畔个苗栗文學步道入口、湖景同學寮"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:44.323Z"
+    },
+    {
+      "index": 15,
+      "id": "site.heroTitle",
+      "scope": "site",
+      "source": "讓文學，走進地方的風景。",
+      "payload": {
+        "text": "讓文學，走進地方的風景。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "分文學，行落所在个風景。"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:49.451Z"
+    },
+    {
+      "index": 16,
+      "id": "site.heroDescription",
+      "scope": "site",
+      "source": "沿著聯大湖畔，閱讀橫跨古典詩、小說、散文與新詩的苗栗文學。",
+      "payload": {
+        "text": "沿著聯大湖畔，閱讀橫跨古典詩、小說、散文與新詩的苗栗文學。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "跈等聯大湖畔，閱讀橫跨古典詩、小說、散文同新詩个苗栗文學。"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:08:58.071Z"
+    },
+    {
+      "index": 17,
+      "id": "site.heroAction",
+      "scope": "site",
+      "source": "探索作家資料庫",
+      "payload": {
+        "text": "探索作家資料庫",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "探索作家資料庫"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:02.873Z"
+    },
+    {
+      "index": 18,
+      "id": "site.heroStatsLabel",
+      "scope": "site",
+      "source": "資料庫統計",
+      "payload": {
+        "text": "資料庫統計",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "資料庫統計"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:13.287Z"
+    },
+    {
+      "index": 19,
+      "id": "site.heroStatCatalog",
+      "scope": "site",
+      "source": "網站名錄",
+      "payload": {
+        "text": "網站名錄",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "網站名錄"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:18.877Z"
+    },
+    {
+      "index": 20,
+      "id": "site.heroStatGenres",
+      "scope": "site",
+      "source": "種文類",
+      "payload": {
+        "text": "種文類",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "種文類"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:22.506Z"
+    },
+    {
+      "index": 21,
+      "id": "site.heroStatTrail",
+      "scope": "site",
+      "source": "步道現地作家",
+      "payload": {
+        "text": "步道現地作家",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "這條步道係當地作家"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:27.155Z"
+    },
+    {
+      "index": 22,
+      "id": "site.photoCredit",
+      "scope": "site",
+      "source": "影像／苗栗文學步道實景照片・主視覺調色設計",
+      "payload": {
+        "text": "影像／苗栗文學步道實景照片・主視覺調色設計",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "影像／苗栗文學步道實景相片・主視覺調色設計"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:32.877Z"
+    },
+    {
+      "index": 23,
+      "id": "site.newsLabel",
+      "scope": "site",
+      "source": "最新消息 · 2026.08",
+      "payload": {
+        "text": "最新消息 · 2026.08",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "最新个消息 · 2026.08"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:37.177Z"
+    },
+    {
+      "index": 24,
+      "id": "site.newsText",
+      "scope": "site",
+      "source": "作家資料庫全面清查版、52張步道實景相簿與大學湖 Google 地圖指引已上線。",
+      "payload": {
+        "text": "作家資料庫全面清查版、52張步道實景相簿與大學湖 Google 地圖指引已上線。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "作家資料庫全面清查版、52張步道實景相簿摎大學湖 Google 地圖指引已上線。"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:45.250Z"
+    },
+    {
+      "index": 25,
+      "id": "site.archiveTitle",
+      "scope": "site",
+      "source": "苗栗作家資料庫",
+      "payload": {
+        "text": "苗栗作家資料庫",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "苗栗作家資料庫"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:49.788Z"
+    },
+    {
+      "index": 26,
+      "id": "site.archiveVersion",
+      "scope": "site",
+      "source": "全面清查版 2026.08",
+      "payload": {
+        "text": "全面清查版 2026.08",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "全面清查版 2026.08"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:09:59.630Z"
+    },
+    {
+      "index": 27,
+      "id": "site.archiveDescription",
+      "scope": "site",
+      "source": "39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。",
+      "payload": {
+        "text": "39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "39位作家逐筆核對生平、代表作品、主要作品目錄與資料來源；年代異說及公開書目限制均明確註記。"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:10:10.271Z"
+    },
+    {
+      "index": 28,
+      "id": "site.archiveDownload",
+      "scope": "site",
+      "source": "下載完整作家資料 Excel",
+      "payload": {
+        "text": "下載完整作家資料 Excel",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "下載完整作家資料 Excel"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:10:15.308Z"
+    },
+    {
+      "index": 29,
+      "id": "site.storyTitle",
+      "scope": "site",
+      "source": "從校慶啟動規劃，走出一條文學的路。",
+      "payload": {
+        "text": "從校慶啟動規劃，走出一條文學的路。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "對校慶啟動規劃，行出一條文學个路。"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:10:20.615Z"
+    },
+    {
+      "index": 30,
+      "id": "site.storyParagraph1",
+      "scope": "site",
+      "source": "2022年，國立聯合大學於校慶期間啟動苗栗文學步道規劃。為強化在地連結與人文教育，校友募款、學者與校內團隊共同參與，在八甲校區大學湖畔建置約六百公尺的苗栗文學步道。",
+      "payload": {
+        "text": "2022年，國立聯合大學於校慶期間啟動苗栗文學步道規劃。為強化在地連結與人文教育，校友募款、學者與校內團隊共同參與，在八甲校區大學湖畔建置約六百公尺的苗栗文學步道。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "2022年，國立聯合大學在校慶期間啟動苗栗文學步道打算。為強化在地連結摎人文教育，校友拈錢、學者同校內團隊共下參與，在八甲校區大學湖畔建置約六百公尺个苗栗文學步道。"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:11:04.758Z"
+    },
+    {
+      "index": 31,
+      "id": "site.storyParagraph2",
+      "scope": "site",
+      "source": "諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。",
+      "payload": {
+        "text": "諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "諮詢小組以「書寫苗栗、「作品優良」為選錄原則，兼顧清代、日本時代摎戰後，涵蓋古典詩、小說、散文、新詩、戲劇、細人文學同報導文學。因為授權同聯絡个原因，這地最尾表現38位作家个創作。"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:11:34.645Z"
+    },
+    {
+      "index": 32,
+      "id": "site.storyNewsLink",
+      "scope": "site",
+      "source": "客新聞專題",
+      "payload": {
+        "text": "客新聞專題",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "客語新聞專題"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:10:54.997Z"
+    },
+    {
+      "index": 33,
+      "id": "site.storyVideoLink",
+      "scope": "site",
+      "source": "步道參考影片",
+      "payload": {
+        "text": "步道參考影片",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nwaiting on click for selector internal:role=button[name=\"翻譯\"s]\nLocator diagnostics: {\"kind\":\"no_matches\",\"action\":\"click\",\"locator\":\"internal:role=button[name=\\\"翻譯\\\"s]\",\"matchCount\":0,\"matches\":[],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:10:58.087Z"
+    },
+    {
+      "index": 34,
+      "id": "site.storyMeters",
+      "scope": "site",
+      "source": "公尺的閱讀風景",
+      "payload": {
+        "text": "公尺的閱讀風景",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:01.141Z"
+    },
+    {
+      "index": 35,
+      "id": "site.storyStart",
+      "scope": "site",
+      "source": "校慶規劃啟動",
+      "payload": {
+        "text": "校慶規劃啟動",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:04.204Z"
+    },
+    {
+      "index": 36,
+      "id": "site.storyWriters",
+      "scope": "site",
+      "source": "位作家作品落地",
+      "payload": {
+        "text": "位作家作品落地",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:07.282Z"
+    },
+    {
+      "index": 37,
+      "id": "site.storyNow",
+      "scope": "site",
+      "source": "數位資料庫延伸",
+      "payload": {
+        "text": "數位資料庫延伸",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "數位資料庫延伸"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:11:28.380Z"
+    },
+    {
+      "index": 38,
+      "id": "site.galleryTitle",
+      "scope": "site",
+      "source": "文字就在湖畔發生",
+      "payload": {
+        "text": "文字就在湖畔發生",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:10.372Z"
+    },
+    {
+      "index": 39,
+      "id": "site.galleryDescription",
+      "scope": "site",
+      "source": "作品以玻璃噴砂、大理石雕刻、金屬板與水泥基座等形式，融入八甲校區的湖光與綠意。",
+      "payload": {
+        "text": "作品以玻璃噴砂、大理石雕刻、金屬板與水泥基座等形式，融入八甲校區的湖光與綠意。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Timed out after 3000ms waiting for selector internal:attr=[placeholder=\"請輸入文字\"i]: Browser Use encountered an error interacting with this webpage: Error: Element is not visible\n    at <anonymous>:224:185\n    at <anonymous>:224:715\n    at <anonymous>:225:11\n    at <anonymous>:226:11\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:13.422Z"
+    },
+    {
+      "index": 40,
+      "id": "site.galleryAlbum",
+      "scope": "site",
+      "source": "完整相簿 · 52 張",
+      "payload": {
+        "text": "完整相簿 · 52 張",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:16.455Z"
+    },
+    {
+      "index": 41,
+      "id": "site.galleryRegion",
+      "scope": "site",
+      "source": "苗栗文學步道52張實景照片",
+      "payload": {
+        "text": "苗栗文學步道52張實景照片",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Timed out after 3000ms waiting for selector internal:attr=[placeholder=\"請輸入文字\"i]: Browser Use encountered an error interacting with this webpage: Error: Element is not visible\n    at <anonymous>:224:185\n    at <anonymous>:224:715\n    at <anonymous>:225:11\n    at <anonymous>:226:11\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:19.501Z"
+    },
+    {
+      "index": 42,
+      "id": "site.galleryPrevious",
+      "scope": "site",
+      "source": "瀏覽上一批步道照片",
+      "payload": {
+        "text": "瀏覽上一批步道照片",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:22.674Z"
+    },
+    {
+      "index": 43,
+      "id": "site.galleryNext",
+      "scope": "site",
+      "source": "瀏覽下一批步道照片",
+      "payload": {
+        "text": "瀏覽下一批步道照片",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Timed out after 3000ms waiting for selector internal:attr=[placeholder=\"請輸入文字\"i]: Browser Use encountered an error interacting with this webpage: Error: Element is not visible\n    at <anonymous>:224:185\n    at <anonymous>:224:715\n    at <anonymous>:225:11\n    at <anonymous>:226:11\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:25.707Z"
+    },
+    {
+      "index": 44,
+      "id": "site.galleryPhotoAlt",
+      "scope": "site",
+      "source": "苗栗文學步道實景照片，第 {number} 張",
+      "payload": {
+        "text": "苗栗文學步道實景照片，第 {number} 張",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:28.813Z"
+    },
+    {
+      "index": 45,
+      "id": "site.galleryHint",
+      "scope": "site",
+      "source": "拖曳、滑動或使用左右按鈕瀏覽完整相簿",
+      "payload": {
+        "text": "拖曳、滑動或使用左右按鈕瀏覽完整相簿",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "搖啊搖仔、滑動抑係使用左右按鈕瀏覽完整相簿"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:11:35.300Z"
+    },
+    {
+      "index": 46,
+      "id": "site.associationTitle",
+      "scope": "site",
+      "source": "守護一條步道，也守護地方的記憶。",
+      "payload": {
+        "text": "守護一條步道，也守護地方的記憶。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:31.956Z"
+    },
+    {
+      "index": 47,
+      "id": "site.associationDescription",
+      "scope": "site",
+      "source": "「台灣苗栗文學步道推廣協會」正在籌備中。我們期待結合校園、社區、文化工作者與社會各界，讓苗栗文學成為可閱讀、可行走、可傳承的公共文化資產。",
+      "payload": {
+        "text": "「台灣苗栗文學步道推廣協會」正在籌備中。我們期待結合校園、社區、文化工作者與社會各界，讓苗栗文學成為可閱讀、可行走、可傳承的公共文化資產。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Timed out after 3000ms waiting for selector internal:attr=[placeholder=\"請輸入文字\"i]: Browser Use encountered an error interacting with this webpage: Error: Element is not visible\n    at <anonymous>:224:185\n    at <anonymous>:224:715\n    at <anonymous>:225:11\n    at <anonymous>:226:11\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:35.019Z"
+    },
+    {
+      "index": 48,
+      "id": "site.associationQuote",
+      "scope": "site",
+      "source": "讓文學走進校園，走進地方，走進生活。",
+      "payload": {
+        "text": "讓文學走進校園，走進地方，走進生活。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:37.728Z"
+    },
+    {
+      "index": 49,
+      "id": "site.directionEducationTitle",
+      "scope": "site",
+      "source": "文學教育",
+      "payload": {
+        "text": "文學教育",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:38.053Z"
+    },
+    {
+      "index": 50,
+      "id": "site.directionEducationDetail",
+      "scope": "site",
+      "source": "講座、閱讀、賞析與教師研習",
+      "payload": {
+        "text": "講座、閱讀、賞析與教師研習",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "講座、讀書、賞析同教書先生研習"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:11:40.951Z"
+    },
+    {
+      "index": 51,
+      "id": "site.directionGuideTitle",
+      "scope": "site",
+      "source": "在地導覽",
+      "payload": {
+        "text": "在地導覽",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Timed out after 3000ms waiting for selector internal:attr=[placeholder=\"請輸入文字\"i]: Browser Use encountered an error interacting with this webpage: Error: Element is not visible\n    at <anonymous>:224:185\n    at <anonymous>:224:715\n    at <anonymous>:225:11\n    at <anonymous>:226:11\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"諮詢小組以「書寫苗栗、作品優良」為選錄原則，兼顧清代、日治與戰後，涵蓋古典詩、小說、散文、新詩、戲劇、兒童文學與報導文學。因授權與聯繫因素，現地最終呈現38位作家作品。\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:40.767Z"
+    },
+    {
+      "index": 52,
+      "id": "site.directionGuideDetail",
+      "scope": "site",
+      "source": "培訓志工，串聯校園與社區",
+      "payload": {
+        "text": "培訓志工，串聯校園與社區",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:41.087Z"
+    },
+    {
+      "index": 53,
+      "id": "site.directionDigitalTitle",
+      "scope": "site",
+      "source": "數位典藏",
+      "payload": {
+        "text": "數位典藏",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "數位典藏"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:11:45.347Z"
+    },
+    {
+      "index": 54,
+      "id": "site.directionDigitalDetail",
+      "scope": "site",
+      "source": "作家資料庫、QR Code 與語音導覽",
+      "payload": {
+        "text": "作家資料庫、QR Code 與語音導覽",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "success",
+      "response": {
+        "success": true,
+        "data": {
+          "hak": "作家資料庫、QR Code 同語音導覽"
+        },
+        "error": null
+      },
+      "translatedAt": "2026-08-20T14:11:44.661Z"
+    },
+    {
+      "index": 55,
+      "id": "site.directionLocalTitle",
+      "scope": "site",
+      "source": "地方共創",
+      "payload": {
+        "text": "地方共創",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]\nLocator diagnostics: {\"kind\":\"no_visible_match\",\"action\":\"fill\",\"locator\":\"internal:attr=[placeholder=\\\"請輸入文字\\\"i]\",\"matchCount\":1,\"matches\":[{\"ariaLabel\":\"請輸入待翻譯之文字，您已經輸入：步道參考影片\",\"disabled\":false,\"role\":null,\"tag\":\"textarea\",\"text\":\"步道參考影片\",\"type\":null,\"visible\":false}],\"visibleCount\":0,\"truncated\":false}"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:44.131Z"
+    },
+    {
+      "index": 56,
+      "id": "site.directionLocalDetail",
+      "scope": "site",
+      "source": "連結作家、文化工作者與地方團隊",
+      "payload": {
+        "text": "連結作家、文化工作者與地方團隊",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nwaiting on click for selector internal:role=button[name=\"翻譯\"s]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:47.287Z"
+    },
+    {
+      "index": 57,
+      "id": "site.foundersTitle",
+      "scope": "site",
+      "source": "發起人名單",
+      "payload": {
+        "text": "發起人名單",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "native pipe closed before response"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.881Z"
+    },
+    {
+      "index": 58,
+      "id": "site.foundersNote",
+      "scope": "site",
+      "source": "依姓氏筆畫排列；僅列華語姓名。",
+      "payload": {
+        "text": "依姓氏筆畫排列；僅列華語姓名。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Playwright selector deadline exceeded\nwaiting on click for selector internal:role=button[name=\"翻譯\"s]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:48.399Z"
+    },
+    {
+      "index": 59,
+      "id": "site.charterTitle",
+      "scope": "site",
+      "source": "協會章程草案摘要",
+      "payload": {
+        "text": "協會章程草案摘要",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.883Z"
+    },
+    {
+      "index": 60,
+      "id": "site.charter1Title",
+      "scope": "site",
+      "source": "宗旨與區域",
+      "payload": {
+        "text": "宗旨與區域",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.884Z"
+    },
+    {
+      "index": 61,
+      "id": "site.charter1Text",
+      "scope": "site",
+      "source": "以苗栗縣為組織區域，推廣在地文學、人文教育、步道維護、文化觀光與地方創生。",
+      "payload": {
+        "text": "以苗栗縣為組織區域，推廣在地文學、人文教育、步道維護、文化觀光與地方創生。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.885Z"
+    },
+    {
+      "index": 62,
+      "id": "site.charter2Title",
+      "scope": "site",
+      "source": "會員與治理",
+      "payload": {
+        "text": "會員與治理",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.886Z"
+    },
+    {
+      "index": 63,
+      "id": "site.charter2Text",
+      "scope": "site",
+      "source": "規劃個人、團體與贊助會員；會員大會為最高權力機構，設理事9人、監事3人。",
+      "payload": {
+        "text": "規劃個人、團體與贊助會員；會員大會為最高權力機構，設理事9人、監事3人。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.887Z"
+    },
+    {
+      "index": 64,
+      "id": "site.charter3Title",
+      "scope": "site",
+      "source": "四類委員會",
+      "payload": {
+        "text": "四類委員會",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.888Z"
+    },
+    {
+      "index": 65,
+      "id": "site.charter3Text",
+      "scope": "site",
+      "source": "步道規劃、教育推廣、導覽與志工發展、數位與出版，依業務需要推進工作。",
+      "payload": {
+        "text": "步道規劃、教育推廣、導覽與志工發展、數位與出版，依業務需要推進工作。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.889Z"
+    },
+    {
+      "index": 66,
+      "id": "site.charter4Title",
+      "scope": "site",
+      "source": "財務與公益",
+      "payload": {
+        "text": "財務與公益",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.890Z"
+    },
+    {
+      "index": 67,
+      "id": "site.charter4Text",
+      "scope": "site",
+      "source": "經費來自會費、捐款、補助與活動；解散後剩餘財產不得分配會員，歸屬公益用途。",
+      "payload": {
+        "text": "經費來自會費、捐款、補助與活動；解散後剩餘財產不得分配會員，歸屬公益用途。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.891Z"
+    },
+    {
+      "index": 68,
+      "id": "site.charterNote",
+      "scope": "site",
+      "source": "本摘要依使用者提供的26條章程草案整理；正式版本須經會員大會通過並報主管機關核備。",
+      "payload": {
+        "text": "本摘要依使用者提供的26條章程草案整理；正式版本須經會員大會通過並報主管機關核備。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.892Z"
+    },
+    {
+      "index": 69,
+      "id": "site.sourceTitle",
+      "scope": "site",
+      "source": "每一筆資料，都應該找得到來處。",
+      "payload": {
+        "text": "每一筆資料，都應該找得到來處。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.893Z"
+    },
+    {
+      "index": 70,
+      "id": "site.sourceParagraph1",
+      "scope": "site",
+      "source": "本資料庫是可持續校訂的全面清查版。內容優先採用文化部國家文化記憶庫、國立臺灣文學館、國家圖書館、客家委員會、地方政府、正式出版及學術研究資料。",
+      "payload": {
+        "text": "本資料庫是可持續校訂的全面清查版。內容優先採用文化部國家文化記憶庫、國立臺灣文學館、國家圖書館、客家委員會、地方政府、正式出版及學術研究資料。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.894Z"
+    },
+    {
+      "index": 71,
+      "id": "site.sourceParagraph2",
+      "scope": "site",
+      "source": "本地參考文獻包括使用者提供的《客家文化事典》與苗栗文學步道相簿。姓名、年代或版本有異說時，卡片中直接註明；目前收錄的252筆作品是「已查證主要作品」，作家作品極多或公開書目有限時不宣稱完整全集。",
+      "payload": {
+        "text": "本地參考文獻包括使用者提供的《客家文化事典》與苗栗文學步道相簿。姓名、年代或版本有異說時，卡片中直接註明；目前收錄的252筆作品是「已查證主要作品」，作家作品極多或公開書目有限時不宣稱完整全集。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.895Z"
+    },
+    {
+      "index": 72,
+      "id": "site.sourceTagOfficial",
+      "scope": "site",
+      "source": "官方資料優先",
+      "payload": {
+        "text": "官方資料優先",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.896Z"
+    },
+    {
+      "index": 73,
+      "id": "site.sourceTagLinks",
+      "scope": "site",
+      "source": "逐筆附連結",
+      "payload": {
+        "text": "逐筆附連結",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.897Z"
+    },
+    {
+      "index": 74,
+      "id": "site.sourceTagVariants",
+      "scope": "site",
+      "source": "異說明確註記",
+      "payload": {
+        "text": "異說明確註記",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.898Z"
+    },
+    {
+      "index": 75,
+      "id": "site.sourceTagWorks",
+      "scope": "site",
+      "source": "252筆作品索引",
+      "payload": {
+        "text": "252筆作品索引",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.899Z"
+    },
+    {
+      "index": 76,
+      "id": "site.joinTitle",
+      "scope": "site",
+      "source": "一起，為苗栗留下更深的人文風景。",
+      "payload": {
+        "text": "一起，為苗栗留下更深的人文風景。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.899Z"
+    },
+    {
+      "index": 77,
+      "id": "site.joinText",
+      "scope": "site",
+      "source": "我們正在招募發起人會員、籌備委員、一般會員、志工夥伴與顧問。歡迎教師、校友、文化工作者與關心苗栗的朋友加入。",
+      "payload": {
+        "text": "我們正在招募發起人會員、籌備委員、一般會員、志工夥伴與顧問。歡迎教師、校友、文化工作者與關心苗栗的朋友加入。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.900Z"
+    },
+    {
+      "index": 78,
+      "id": "site.joinAction",
+      "scope": "site",
+      "source": "填寫「加入我們」表單",
+      "payload": {
+        "text": "填寫「加入我們」表單",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.901Z"
+    },
+    {
+      "index": 79,
+      "id": "site.joinNote",
+      "scope": "site",
+      "source": "表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。",
+      "payload": {
+        "text": "表單將在新視窗開啟；協會其他聯絡方式待籌備處確認。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.902Z"
+    },
+    {
+      "index": 80,
+      "id": "site.visitTitle",
+      "scope": "site",
+      "source": "前往苗栗文學步道",
+      "payload": {
+        "text": "前往苗栗文學步道",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.902Z"
+    },
+    {
+      "index": 81,
+      "id": "site.visitText",
+      "scope": "site",
+      "source": "步道位於國立聯合大學第二（八甲）校區大學湖畔。抵達校區後，請循大學湖方向步行，即可看見環湖設置的文學作品。",
+      "payload": {
+        "text": "步道位於國立聯合大學第二（八甲）校區大學湖畔。抵達校區後，請循大學湖方向步行，即可看見環湖設置的文學作品。",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.903Z"
+    },
+    {
+      "index": 82,
+      "id": "site.visitAddress",
+      "scope": "site",
+      "source": "苗栗市南勢里聯大2號 · 國立聯合大學八甲校區大學湖",
+      "payload": {
+        "text": "苗栗市南勢里聯大2號 · 國立聯合大學八甲校區大學湖",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.904Z"
+    },
+    {
+      "index": 83,
+      "id": "site.visitMapAction",
+      "scope": "site",
+      "source": "使用 Google Maps 導航",
+      "payload": {
+        "text": "使用 Google Maps 導航",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.905Z"
+    },
+    {
+      "index": 84,
+      "id": "site.visitSchoolLink",
+      "scope": "site",
+      "source": "聯大校址資訊",
+      "payload": {
+        "text": "聯大校址資訊",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.905Z"
+    },
+    {
+      "index": 85,
+      "id": "site.visitMapTitle",
+      "scope": "site",
+      "source": "苗栗文學步道—國立聯合大學大學湖 Google 地圖",
+      "payload": {
+        "text": "苗栗文學步道—國立聯合大學大學湖 Google 地圖",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.907Z"
+    },
+    {
+      "index": 86,
+      "id": "site.footerNote",
+      "scope": "site",
+      "source": "本網站為協會籌備版 · 作家資料庫持續校訂中",
+      "payload": {
+        "text": "本網站為協會籌備版 · 作家資料庫持續校訂中",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.908Z"
+    },
+    {
+      "index": 87,
+      "id": "site.visitorAlt",
+      "scope": "site",
+      "source": "到訪人次；每次重新載入頁面加一",
+      "payload": {
+        "text": "到訪人次；每次重新載入頁面加一",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.908Z"
+    },
+    {
+      "index": 88,
+      "id": "site.writerFilterLabel",
+      "scope": "site",
+      "source": "依文類篩選",
+      "payload": {
+        "text": "依文類篩選",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.909Z"
+    },
+    {
+      "index": 89,
+      "id": "site.writerSearchLabel",
+      "scope": "site",
+      "source": "搜尋作家或作品",
+      "payload": {
+        "text": "搜尋作家或作品",
+        "dialectCode": "sixian",
+        "targetCode": "hak",
+        "engine": "model",
+        "mode": "natural"
+      },
+      "httpStatus": null,
+      "uiStatus": "error",
+      "response": {
+        "success": false,
+        "data": null,
+        "error": {
+          "message": "Error: Browser is not available: -0bf9-49f1-ad03-4947b2b68e81\nlocator.fill failed for selector internal:attr=[placeholder=\"請輸入文字\"i]"
+        }
+      },
+      "translatedAt": "2026-08-20T14:11:45.910Z"
+    }
+  ]
+}

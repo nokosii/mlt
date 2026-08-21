@@ -10,28 +10,21 @@
     "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
     "name": "rolldown-runtime"
   },
-  "app/TrailGallery.tsx": {
-    "file": "_next/static/chunks/TrailGallery-CxpR_jq9.js",
-    "name": "TrailGallery",
-    "src": "app/TrailGallery.tsx",
+  "app/page.tsx": {
+    "file": "_next/static/chunks/page-DmKcTXXq.js",
+    "name": "page",
+    "src": "app/page.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-C60lm6uB.js",
       "_framework-BgSIrAUN.js"
-    ]
-  },
-  "app/WriterExplorer.tsx": {
-    "file": "_next/static/chunks/WriterExplorer-CBS6XBf0.js",
-    "name": "WriterExplorer",
-    "src": "app/WriterExplorer.tsx",
-    "isDynamicEntry": true,
-    "imports": [
-      "_rolldown-runtime-C60lm6uB.js",
-      "_framework-BgSIrAUN.js"
+    ],
+    "css": [
+      "_next/static/css/page.iq_vGDnM.css"
     ]
   },
   "node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "_next/static/chunks/layout-segment-context-NxoeP75p.js",
+    "file": "_next/static/chunks/layout-segment-context-BMWJnv38.js",
     "name": "layout-segment-context",
     "src": "node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -42,7 +35,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "_next/static/chunks/index-u6hfSPur.js",
+    "file": "_next/static/chunks/index-Cem7gvrs.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -53,8 +46,7 @@
     "dynamicImports": [
       "virtual:vinext-app-browser-entry",
       "node_modules/vinext/dist/shims/layout-segment-context.js",
-      "app/WriterExplorer.tsx",
-      "app/TrailGallery.tsx"
+      "app/page.tsx"
     ]
   }
 }

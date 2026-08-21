@@ -73,6 +73,11 @@ test("GitHub Pages snapshot contains the finished site", async () => {
   assert.ok((await readFile(new URL("docs/downloads/苗栗文學作家資料庫.xlsx", root))).length > 10_000);
   assert.ok((await readFile(new URL("docs/images/trail-hero-identity.png", root))).length > 1_000_000);
   assert.equal((await readdir(new URL("docs/images/trail-gallery/", root))).filter((name) => name.endsWith(".jpg")).length, 52);
+
+  const manifest = JSON.parse(await readFile(new URL("docs/.vite/manifest.json", root), "utf8"));
+  const browserEntry = await readFile(new URL(`docs/${manifest["virtual:vinext-app-browser-entry"].file}`, root), "utf8");
+  assert.match(browserEntry, /new URL\(e,document\.baseURI\)\.href/);
+  assert.doesNotMatch(browserEntry, /function\(e\)\{return`\/`\+e\}/);
 });
 
 test("GoHakka Sixian bilingual data is complete and synchronized", async () => {

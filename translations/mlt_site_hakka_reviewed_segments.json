@@ -4,7 +4,7 @@
     "dialectCode": "sixian",
     "mode": "natural",
     "engine": "model",
-    "reviewedAt": "2026-08-21T01:18:00.297Z",
+    "reviewedAt": "2026-08-21T08:09:46.874Z",
     "sharedRules": "C:/Users/User/.codex/shared/hakka",
     "segmentCount": 388
   },
@@ -390,8 +390,8 @@
       "scope": "site",
       "source": "「台灣苗栗文學步道推廣協會」正在籌備中。我們期待結合校園、社區、文化工作者與社會各界，讓苗栗文學成為可閱讀、可行走、可傳承的公共文化資產。",
       "raw": "「台灣苗栗文學步道推廣協會」當在該籌備中。𠊎兜期待結合校園、社區、文化工作者摎社會各界，分苗栗文學變到可閱讀、行得路、可傳承个公共文化資產。",
-      "reviewed": "「台灣苗栗文學步道推廣協會」當在該籌備中。𫣆期待結合校園、社區、文化工作者摎社會各界，分苗栗文學變到可閱讀、行得路、可傳承个公共文化資產。",
-      "reviewNote": "Shared Hakka rules applied"
+      "reviewed": "「臺灣苗栗文學步道推廣協會」當在該籌備中。𠊎兜期待佢做得結合校園、社區、文化工作者摎社會各界，分苗栗文學變到做得閱讀、行得出路、做得傳承个公共文化資產。",
+      "reviewNote": "GoHakka output grammar or factual label corrected"
     },
     {
       "id": "site.associationQuote",

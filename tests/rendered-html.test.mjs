@@ -88,6 +88,7 @@ test("GoHakka Sixian bilingual data is complete and synchronized", async () => {
   const raw = JSON.parse(await readFile(new URL("translations/mlt_site_gohakka_raw_translations.json", root), "utf8"));
   const reviewed = JSON.parse(await readFile(new URL("translations/mlt_site_hakka_reviewed_segments.json", root), "utf8"));
   assert.deepEqual(Object.keys(siteHak).sort(), Object.keys(siteZh).sort());
+  assert.equal(siteHak.associationDescription, "「臺灣苗栗文學步道推廣協會」當在該籌備中。𠊎兜期待佢做得結合校園、社區、文化工作者摎社會各界，分苗栗文學變到做得閱讀、行得出路、做得傳承个公共文化資產。");
   assert.equal(writersHak.length, 39);
   assert.deepEqual(writersHak.map(({ id }) => id), writers.map(({ id }) => id));
   assert.equal(writersHak.reduce((sum, writer) => sum + writer.works.length, 0), 252);

@@ -9,6 +9,7 @@ const rawBySource = new Map(rawDocument.translations.map((entry) => [entry.sourc
 
 const siteOverrides = {
   navJoin: "加入𫣆",
+  associationDescription: "「臺灣苗栗文學步道推廣協會」當在該籌備中。𠊎兜期待佢做得結合校園、社區、文化工作者摎社會各界，分苗栗文學變到做得閱讀、行得出路、做得傳承个公共文化資產。",
   languageMandarin: "華語",
   heroAlt: "國立聯合大學八甲校區湖畔个苗栗文學步道入口、湖景摎校舍",
   heroStatTrail: "步道現地作家",
